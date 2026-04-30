@@ -278,11 +278,13 @@ class SyscomSyncCore:
         return 1.2
 
     def obtener_precio_venta(self, producto):
-        precio_compra = self.obtener_precio_compra(producto.get("precios", {}))
+        precios = producto.get("precios", {}) if isinstance(producto, dict) else (producto or {})
+        modelo = producto.get("modelo") if isinstance(producto, dict) else None
+        precio_compra = self.obtener_precio_compra(precios)
         if precio_compra <= 0:
             return 0.0
 
-        multiplicador = self.obtener_multiplicador_venta(precio_compra)
+        multiplicador = self.obtener_multiplicador_venta(precio_compra, modelo=modelo)
         precio_venta = precio_compra * SALE_FACTOR_1 * multiplicador * SALE_FACTOR_IVA
         return round(precio_venta, 2)
 
