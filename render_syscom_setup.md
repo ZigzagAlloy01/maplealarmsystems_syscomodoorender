@@ -23,6 +23,7 @@ Ese script:
 - crea productos faltantes en Odoo
 - sobrescribe productos existentes en Odoo
 - actualiza compras y stock
+- aplica multiplicadores especiales por modelo antes del calculo final
 - deja logs de resumen
 
 ## Variables de entorno en Render
@@ -46,28 +47,37 @@ Si defines `SYSCOM_MODELS`, tiene prioridad sobre el archivo. Puede ir separado 
 
 ## Configuracion recomendada en Render
 
-Al crear el servicio:
-
-- **Service Type**: `Cron Job`
-- **Build Command**:
+- Service Type: `Cron Job`
+- Build Command:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-- **Start Command / Command**:
+- Command:
 
 ```bash
 python syscom_sync_job.py
 ```
 
-- **Schedule**:
+- Schedule:
 
 ```text
 0 9 * * *
 ```
 
 Eso significa una vez al dia a las 09:00 UTC. Ajusta la hora segun tu operacion. Render usa UTC.
+
+## Modelos con multiplicador especial
+
+El paquete ya incluye multiplicadores fijos por modelo:
+
+- `2.0` para:
+  `2103-1101/1000`, `DS-1LN5EO-UU/E`, `PRO-CAT-5E`, `PRO-CAT-5E-W`,
+  `PRO-CAT-6-PLUSW`, `ACCESS-184/500`, `4311-1104/1000`, `4306-1104/1000`,
+  `SF16AWG500`, `NUR6C04BU-C`, `PUR6004BU-ME`, `PUR6C04BU-F`, `AWG50`
+- `1.3` para:
+  `WD23PURZ`, `WD33PURZ`, `WD64PURZ`, `WD11PURZ`, `WD102PURP`, `WD8002PURP`, `V300X/1TB`
 
 ## Flujo recomendado
 
@@ -81,7 +91,7 @@ Eso significa una vez al dia a las 09:00 UTC. Ajusta la hora segun tu operacion.
 
 ## Notas operativas
 
-- El job automatico hace ambas cosas: crear nuevos y sobrescribir existentes.
+- El job automatico crea nuevos y sobrescribe existentes.
 - Si hay errores, `syscom_sync_job.py` termina con codigo distinto de cero para que Render marque la corrida como fallida.
 - El archivo `modelos_no_encontrados_syscom.txt` se genera en cada corrida solo como apoyo de logs; no debe tratarse como almacenamiento persistente.
 - En Render no dependas de `config.py`; el despliegue correcto es con variables de entorno.
