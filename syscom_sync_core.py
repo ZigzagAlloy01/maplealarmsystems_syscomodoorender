@@ -1,7 +1,9 @@
 import base64
+import json
 import os
 import re
 import xmlrpc.client
+from html import escape
 from pathlib import Path
 
 import requests
@@ -70,13 +72,36 @@ SPECIAL_MULTIPLIER_MODELS = {
     "V300X1TB": 1.3,
 }
 
+def _normalize_model_key(texto):
+    return re.sub(r"[^A-Z0-9]", "", str(texto or "").upper())
+
 def _load_default_models():
     path = Path(__file__).with_name("models_syscom.txt")
     if not path.exists():
         return ""
     return path.read_text(encoding="utf-8")
 
+def _load_descriptions_map():
+    path = Path(os.getenv("SYSCOM_DESCRIPTIONS_FILE", Path(__file__).with_name("descriptions_syscom.json")))
+    if not path.exists():
+        return {}
+
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        return {}
+
+    normalizado = {}
+    for modelo, payload in raw.items():
+        if not isinstance(payload, dict):
+            continue
+        normalizado[_normalize_model_key(modelo)] = {
+            "website_description": str(payload.get("website_description") or payload.get("ecommerce_description") or "").strip(),
+            "description_sale": str(payload.get("description_sale") or payload.get("quotation_description") or "").strip(),
+        }
+    return normalizado
+
 DEFAULT_MODELS = _load_default_models()
+DESCRIPTIONS_MAP = _load_descriptions_map()
 
 class SyscomSyncCore:
     def __init__(self, logger=None):
@@ -110,6 +135,7 @@ class SyscomSyncCore:
         self.partner_cache = {}
         self.uom_cache = {}
         self.currency_cache = {}
+        self.descriptions_map = DESCRIPTIONS_MAP
 
     def log(self, mensaje):
         if self.logger:
@@ -203,6 +229,29 @@ class SyscomSyncCore:
 
     def normalizar_modelo_clave(self, texto):
         return re.sub(r"[^A-Z0-9]", "", str(texto or "").upper())
+    
+    def obtener_descripciones_personalizadas(self, producto):
+        modelo = self.obtener_modelo_producto(producto)
+        if not modelo:
+            return {}
+        return self.descriptions_map.get(self.normalizar_modelo_clave(modelo), {})
+
+    def _formatear_html_justificado(self, texto):
+        texto = str(texto or "").strip()
+        if not texto:
+            return ""
+
+        if re.search(r"<[^>]+>", texto):
+            return f'<div style="text-align: justify;">{texto}</div>'
+
+        bloques = []
+        for parrafo in re.split(r"\n\s*\n", texto):
+            limpio = parrafo.strip()
+            if not limpio:
+                continue
+            limpio = escape(limpio).replace("\n", "<br/>")
+            bloques.append(f'<p style="text-align: justify;">{limpio}</p>')
+        return "".join(bloques)
 
     def buscar_clave_recursiva(self, data, claves):
         claves_normalizadas = {str(clave).strip().lower() for clave in claves}
@@ -232,6 +281,18 @@ class SyscomSyncCore:
 
     def obtener_nombre_producto(self, producto):
         return str(producto.get("titulo") or "Producto SYSCOM").strip()
+    
+    def obtener_descripcion_ecommerce(self, producto):
+        custom = self.obtener_descripciones_personalizadas(producto).get("website_description", "")
+        if custom:
+            return self._formatear_html_justificado(custom)
+        return str(producto.get("descripcion") or "").strip()
+
+    def obtener_descripcion_cotizacion(self, producto):
+        custom = self.obtener_descripciones_personalizadas(producto).get("description_sale", "")
+        if custom:
+            return self._formatear_html_justificado(custom)
+        return ""
 
     def obtener_precio_lista(self, producto):
         precios = producto.get("precios", {})
@@ -761,9 +822,18 @@ class SyscomSyncCore:
             "sale_ok": True,
         }
 
+        descripcion_ecommerce = self.obtener_descripcion_ecommerce(producto)
+        descripcion_cotizacion = self.obtener_descripcion_cotizacion(producto)
+
+        if "website_description" in self.product_template_fields and descripcion_ecommerce:
+            data["website_description"] = descripcion_ecommerce
         if "description_sale" in self.product_template_fields:
-            descripcion = str(producto.get("descripcion") or "").strip()
-            data["description_sale"] = "" if CLEAR_QUOTATION_DESCRIPTION else descripcion
+            if descripcion_cotizacion:
+                data["description_sale"] = descripcion_cotizacion
+            elif CLEAR_QUOTATION_DESCRIPTION:
+                data["description_sale"] = ""
+            else:
+                data["description_sale"] = str(producto.get("descripcion") or "").strip()
 
         if "unspsc_code_id" in self.product_template_fields and sat_key:
             unspsc_id = self.buscar_unspsc_odoo(sat_key)
