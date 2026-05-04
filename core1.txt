@@ -3,6 +3,7 @@ import json
 import os
 import re
 import xmlrpc.client
+from html import escape
 from pathlib import Path
 
 import requests
@@ -235,6 +236,23 @@ class SyscomSyncCore:
             return {}
         return self.descriptions_map.get(self.normalizar_modelo_clave(modelo), {})
 
+    def _formatear_html_justificado(self, texto):
+        texto = str(texto or "").strip()
+        if not texto:
+            return ""
+
+        if re.search(r"<[^>]+>", texto):
+            return f'<div style="text-align: justify;">{texto}</div>'
+
+        bloques = []
+        for parrafo in re.split(r"\n\s*\n", texto):
+            limpio = parrafo.strip()
+            if not limpio:
+                continue
+            limpio = escape(limpio).replace("\n", "<br/>")
+            bloques.append(f'<p style="text-align: justify;">{limpio}</p>')
+        return "".join(bloques)
+
     def buscar_clave_recursiva(self, data, claves):
         claves_normalizadas = {str(clave).strip().lower() for clave in claves}
 
@@ -267,13 +285,13 @@ class SyscomSyncCore:
     def obtener_descripcion_ecommerce(self, producto):
         custom = self.obtener_descripciones_personalizadas(producto).get("website_description", "")
         if custom:
-            return custom
-        return ""
+            return self._formatear_html_justificado(custom)
+        return str(producto.get("descripcion") or "").strip()
 
     def obtener_descripcion_cotizacion(self, producto):
         custom = self.obtener_descripciones_personalizadas(producto).get("description_sale", "")
         if custom:
-            return custom
+            return self._formatear_html_justificado(custom)
         return ""
 
     def obtener_precio_lista(self, producto):
