@@ -1,0 +1,10 @@
+{
+    "DS-PD201MC-WB": {
+    "website_description": "Texto o HTML para comercio electronico",
+    "description_sale": "Texto o HTML para cotizacion"
+  },
+  "DS-PKF201-WB": {
+    "website_description": "Otra descripcion",
+    "description_sale": "Otra descripcion de cotizacion"
+  }
+}
