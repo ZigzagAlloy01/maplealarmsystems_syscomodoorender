@@ -1450,5 +1450,9 @@
     "LK1812FR": {
         "website_description": "Cerradura de repuesto diseñada para gabinetes y paneles de incendio, proporcionando una capa adicional de seguridad física para evitar el acceso no autorizado a los componentes críticos del sistema. Incluye llaves compatibles con los estándares de la industria, permitiendo que solo el personal autorizado o los servicios de emergencia puedan abrir el panel para realizar pruebas, mantenimiento o responder a una señal de alarma confirmada.",
         "description_sale": "Cerradura de seguridad con llave para gabinetes y paneles de control de incendio."
+    },
+    "SD-365": {
+        "website_description": "El SD-365 es un detector de humo direccionable de última generación, diseñado específicamente para integrarse con los paneles de la serie ES de Fire-Lite. Utiliza una cámara de detección fotoeléctrica avanzada que identifica incendios de combustión lenta de manera mucho más eficiente y rápida que los modelos tradicionales. Su diseño moderno de bajo perfil no solo es estéticamente discreto, sino que también facilita el mantenimiento, ya que cuenta con una alta resistencia a las falsas alarmas causadas por el polvo o corrientes de aire, asegurando una detección precisa y confiable en cualquier entorno comercial.",
+        "description_sale": "Detector de humo fotoeléctrico direccionable de bajo perfil para paneles serie ES."
     }
 }
