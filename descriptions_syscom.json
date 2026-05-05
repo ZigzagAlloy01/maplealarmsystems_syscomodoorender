@@ -1426,5 +1426,29 @@
     "KDP-601-AM": {
         "website_description": "Este auricular de intercomunicación es el componente ideal para sistemas de control de acceso en residencias y oficinas. Ofrece una comunicación de audio nítida y un botón dedicado para la apertura remota de cerraduras eléctricas, brindando seguridad y comodidad desde el interior. Su diseño clásico y ergonómico se adapta a cualquier decoración, mientras que su construcción duradera asegura un funcionamiento fiable para la gestión de visitantes en el día a día.",
         "description_sale": "Auricular de intercomunicación con botón de apertura de puerta y audio de alta claridad."
+    },
+    "ES-200X": {
+        "website_description": "El ES-200X es un panel de control de alarma de incendio direccionable de última generación, diseñado para aplicaciones de tamaño pequeño a mediano. Soporta hasta 198 dispositivos direccionables y cuenta con tecnología avanzada que permite una programación sencilla y una gestión eficiente de eventos. Incluye un comunicador IP y celular opcional, garantizando que las señales de emergencia lleguen a la central de monitoreo con la máxima velocidad y fiabilidad, cumpliendo con los estándares de seguridad más exigentes.",
+        "description_sale": "Panel de control de incendio direccionable de 198 puntos con comunicador integrado."
+    },
+    "BG-12LX": {
+        "website_description": "Estación manual direccionable de doble acción que combina durabilidad con tecnología inteligente. Al ser un dispositivo direccionable, permite al panel de incendio identificar la ubicación exacta de la activación en segundos. Su diseño de doble acción evita activaciones accidentales, requiriendo un movimiento de empuje y luego de palanca, lo que la hace ideal para edificios comerciales, escuelas y hospitales que buscan un componente de iniciación robusto y confiable.",
+        "description_sale": "Estación manual direccionable de doble acción para sistemas de incendio FireLite."
+    },
+    "ANN-80": {
+        "website_description": "Anunciador LCD remoto de 80 caracteres que replica la pantalla del panel de control de incendio en ubicaciones estratégicas del edificio. Permite a los servicios de emergencia y al personal de seguridad visualizar el estado del sistema, alarmas y problemas desde un punto distinto al cuarto de control principal. Su retroiluminación azul y diseño estético facilitan la lectura en cualquier condición de luz, mejorando la respuesta operativa ante cualquier incidente detectado.",
+        "description_sale": "Anunciador LCD remoto de 80 caracteres para monitoreo descentralizado del panel."
+    },
+    "ANN-SB80-KITR": {
+        "website_description": "Kit de montaje en superficie diseñado específicamente para el anunciador ANN-80 en color rojo. Este gabinete permite una instalación profesional y estética cuando no es posible empotrar el dispositivo en la pared. Fabricado con materiales resistentes, asegura que el anunciador esté protegido físicamente mientras mantiene la visibilidad crítica necesaria para las operaciones de seguridad contra incendios, facilitando el acceso al cableado de forma ordenada.",
+        "description_sale": "Kit de gabinete para montaje superficial de anunciador ANN-80 en color rojo."
+    },
+    "P2RLED": {
+        "website_description": "Sirena con estrobo de alta eficiencia que utiliza tecnología LED para proporcionar una alerta visual y auditiva potente con un consumo de corriente mínimo. Diseñada para su uso en sistemas de alarma de incendio, ofrece múltiples configuraciones de candela y tonos seleccionables para adaptarse a los requisitos específicos de cobertura de cualquier inmueble. Su diseño de bajo perfil y montaje rápido la convierten en una opción preferida para modernizar sistemas de notificación existentes.",
+        "description_sale": "Sirena con estrobo LED de bajo consumo para notificación de alarmas de incendio."
+    },
+    "LK1812FR": {
+        "website_description": "Cerradura de repuesto diseñada para gabinetes y paneles de incendio, proporcionando una capa adicional de seguridad física para evitar el acceso no autorizado a los componentes críticos del sistema. Incluye llaves compatibles con los estándares de la industria, permitiendo que solo el personal autorizado o los servicios de emergencia puedan abrir el panel para realizar pruebas, mantenimiento o responder a una señal de alarma confirmada.",
+        "description_sale": "Cerradura de seguridad con llave para gabinetes y paneles de control de incendio."
     }
 }
