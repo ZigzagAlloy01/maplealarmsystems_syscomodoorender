@@ -73,6 +73,7 @@ SPECIAL_MULTIPLIER_MODELS = {
 }
 
 TECHNICAL_SPECIFICATION_FIELD_CANDIDATES = (
+    "description",
     "x_studio_technical_specification",
     "technical_specification",
     "x_studio_ficha_tecnica_url",
