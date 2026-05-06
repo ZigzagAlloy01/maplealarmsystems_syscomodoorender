@@ -1,8 +1,1097 @@
 {
     "DS-PD201MC-WB": {
-        "technical_specification": "https://www.productos-info.com/product/0f2c12e8-6e41-42dd-b60c-e2df0f204dce"
+    "technical_specification": "https://www.productos-info.com/product/0f2c12e8-6e41-42dd-b60c-e2df0f204dce"
     },
     "DS-PKF201-WB": {
         "technical_specification": "https://www.productos-info.com/product/c5a087d6-699b-4be2-b61a-76475d17e571"
+    },
+    "DS-PD201PC10-WB": {
+        "technical_specification": "https://www.productos-info.com/product/54ee1f4a-fd38-4073-a13b-f3cb3f1a4ad5"
+    },
+    "DS-PD201P10-WB": {
+        "technical_specification": "https://www.productos-info.com/product/7c191db9-c291-4e90-b508-c7f0595d0f2c"
+    },
+    "AXHOME-KIT-GSM": {
+        "technical_specification": "https://www.productos-info.com/product/e1f94bd4-317e-4271-a8ea-c32ef78f79d7"
+    },
+    "AXHOME-KIT-WIFI": {
+        "technical_specification": "https://www.productos-info.com/product/001f41ff-0225-4438-b23f-07163adc7b45"
+    },
+    "DS-PC201N": {
+        "technical_specification": "https://www.productos-info.com/product/d3b6a588-31b1-4a48-9b67-03ff7eb4e5fe"
+    },
+    "DS-PA201P-16WB": {
+        "technical_specification": "https://www.productos-info.com/product/72de60a7-f9ad-48ef-a599-4daa7d9c8891"
+    },
+    "DS-PA201PS-16WB/A-LA": {
+        "technical_specification": "https://www.productos-info.com/product/ad3c50ef-94e9-4a81-b756-5deed9f4e4f4"
+    },
+    "DS-PS201-WB": {
+        "technical_specification": "https://www.productos-info.com/product/9f1f6a45-476b-4a92-85d2-60674e7ef028"
+    },
+    "DS-PK201B-WB": {
+        "technical_specification": "https://www.productos-info.com/product/b5bd8b4f-7c18-42cd-bdfd-a5713da4f02c"
+    },
+    "DS-PDEB1-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/68fefb0f-7011-44c4-938f-8f3290a2f585"
+    },
+    "DS-PDEBP1-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/c9c184da-ceef-4288-a8db-5013d6be43ae"
+    },
+    "DS-PDMC-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/e4b0a682-8b56-4e65-a1b1-f6d96fb2e694"
+    },
+    "DS-PDMCS-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/5a6c9be7-97b4-4e53-910a-af0a7e6d9f21"
+    },
+    "DS-PDMCX-E-WB": {
+        "technical_specification": "https://www.productos-info.com/product/db337398-a457-4e22-a1e8-a705a32e2d11"
+    },
+    "DS-PKF1-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/9f93f8ad-3a71-4c39-9c65-9a159e3b6a6d"
+    },
+    "DS-PDPC12P-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/c937ddbd-5766-4bdb-b3c1-e092190a161f"
+    },
+    "DS-PDBG8-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/de9f0a7b-fd88-469c-966a-9e3342e87478"
+    },
+    "DS-PDP18-HM-WB": {
+        "technical_specification": "https://www.productos-info.com/product/17af9529-ce0e-4b16-9b28-fbb81839f540"
+    },
+    "DS-PDC15-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/b862d454-4c67-4e26-b08f-364c92ac64f9"
+    },
+    "DS-PDP15P-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/029abe8c-502c-496b-9d19-95297759f68a"
+    },
+    "DS-PDSMK-E-WB": {
+        "technical_specification": "https://www.productos-info.com/product/6e8c7a9f-e7c9-4dec-9d21-8dc11e731a60"
+    },
+    "DS-PDMCK-EG2-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/dea90873-b5bf-4b36-9c68-aa3c7b361e80"
+    },
+    "DS-PDHT-E-WB": {
+        "technical_specification": "https://www.productos-info.com/product/503be429-62ee-4de3-9a2b-35f47dee0eef"
+    },
+    "DS-PM1-I16O2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/d741df24-d705-463b-8238-cc4b4c92a1a2"
+    },
+    "DS-PM1-O1H-WB": {
+        "technical_specification": "https://www.productos-info.com/product/0715d8dd-0e00-4ee7-90f6-c638e7f26f77"
+    },
+    "DS-PWA48-K": {
+        "technical_specification": "https://www.productos-info.com/product/60c6710c-5644-4064-b9cf-61dd81ccaf89"
+    },
+    "DS-PWA48-KSLIM": {
+        "technical_specification": "https://www.productos-info.com/product/b469740d-5688-4a6e-b85e-ee27e850105a"
+    },
+    "AXPRO-KIT": {
+        "technical_specification": "https://www.productos-info.com/product/7ce555ab-ceb6-4b99-9f08-b76e419936f7"
+    },
+    "DS-PWA48-KS": {
+        "technical_specification": "https://www.productos-info.com/product/b2ca1048-ac9b-446e-acf2-d96a335800f5"
+    },
+    "DS-PWA48-KS-SLIM": {
+        "technical_specification": "https://www.productos-info.com/product/e159dc15-3615-4bde-8873-25351a15fb30"
+    },
+    "AXPRO-KIT-GSM": {
+        "technical_specification": "https://www.productos-info.com/product/8ae981b8-2f31-4754-b1aa-2368391c170e"
+    },
+    "DS-PT1-WB": {
+        "technical_specification": "https://www.productos-info.com/product/609ca402-6827-42e7-824a-a32f550e22f6"
+    },
+    "DS-PWA48-E-WB": {
+        "technical_specification": "https://www.productos-info.com/product/8cedf012-6e36-451b-8c26-861b32d8f150"
+    },
+    "DS-PM1-O1L-WB": {
+        "technical_specification": "https://www.productos-info.com/product/6d619acf-7866-470c-b502-868209fe07d1"
+    },
+    "DS-PR1-WB": {
+        "technical_specification": "https://www.productos-info.com/product/f4dd29a6-531b-4af8-af32-8f9800779a38"
+    },
+    "DS-PDPG12P-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/6e671ea1-5290-4470-8a85-ebe559b8203a"
+    },
+    "DS-PS1-I-WB(B)": {
+        "technical_specification": "https://www.productos-info.com/product/f6c40367-4ae4-4bd7-bdb5-138b05107200"
+    },
+    "DS-PS1-E-WB/B": {
+        "technical_specification": "https://www.productos-info.com/product/394caefe-1f79-45dd-bb6a-79d3d7bdaac4"
+    },
+    "DS-PS1-E-WB/R": {
+        "technical_specification": "https://www.productos-info.com/product/325c01fd-b190-4288-8ac8-dec914655378"
+    },
+    "DS-PK1-LT-WB": {
+        "technical_specification": "https://www.productos-info.com/product/f19b4699-3cce-4e51-b649-02ab3c852849"
+    },
+    "DS-PK1-E-WB": {
+        "technical_specification": "https://www.productos-info.com/product/0150b772-9fd2-43fc-8b8e-cc49527422fe"
+    },
+    "PL-DC-1000": {
+        "technical_specification": "https://www.productos-info.com/product/56f74fe7-197c-4199-84f4-b6f98fd5ce64"
+    },
+    "PSD1202D": {
+        "technical_specification": "https://www.productos-info.com/product/34bd397d-dcfc-4157-af37-a794a54447e8"
+    },
+    "P12DC3A": {
+        "technical_specification": "https://www.productos-info.com/product/5d778faf-2032-4a06-a6b0-f901d77044ad"
+    },
+    "JR53X": {
+        "technical_specification": "https://www.productos-info.com/product/63b51675-488f-4ed6-bf9c-2ff49444ce6e"
+    },
+    "JR52X": {
+        "technical_specification": "https://www.productos-info.com/product/5b0fec67-0851-4d7d-9f93-51dd06635d82"
+    },
+    "DS-2CD1023G2-LIU": {
+        "technical_specification": "https://www.productos-info.com/product/10a5befd-9f1a-404b-a55a-ae81ab3252a2"
+    },
+    "DS-2CV1023G2-LIDWF(B)": {
+        "technical_specification": "https://www.productos-info.com/product/680660d6-5a2a-4175-ad55-61818eeb38d1"
+    },
+    "THC-B120-MC": {
+        "technical_specification": "https://www.productos-info.com/product/5c9ef767-0220-449b-a30d-a9a7076375d2"
+    },
+    "CR123A": {
+        "technical_specification": "https://www.productos-info.com/product/2580e2ae-8fa8-478f-86ee-bda3554b0164"
+    },
+    "CR2025PM": {
+        "technical_specification": "https://www.productos-info.com/product/86cb7a90-1601-4633-b924-b327c441272a"
+    },
+    "CR2450PL/5B": {
+        "technical_specification": "https://www.productos-info.com/product/3811b5bc-4a36-4a24-994f-4278ac2579b5"
+    },
+    "CR2032PM": {
+        "technical_specification": "https://www.productos-info.com/product/b3a5c76b-5f23-4433-a7d7-398cea9187db"
+    },
+    "CR-2": {
+        "technical_specification": "https://www.productos-info.com/product/7185161a-ee23-42f0-be4f-2669d44bd62f"
+    },
+    "LK5.512": {
+        "technical_specification": "https://www.productos-info.com/product/12a46500-94db-4ea6-a781-609cb6fad012"
+    },
+    "LK712": {
+        "technical_specification": "https://www.productos-info.com/product/483d08e7-1058-4051-8888-0e4f2839af02"
+    },
+    "2103-1101/1000": {
+        "technical_specification": "https://www.productos-info.com/product/803a51c5-7f27-490c-bc04-820c5460188d"
+    },
+    "DS-1LN5EO-UU/E": {
+        "technical_specification": "https://www.productos-info.com/product/f107b5ee-b441-4d16-934d-cb6629ea1ea2"
+    },
+    "PRO-CAT-5E": {
+        "technical_specification": "https://www.productos-info.com/product/7ed82c77-65f6-46b1-93c0-06fdf46dcc2d"
+    },
+    "PRO-CAT-5E-W": {
+        "technical_specification": "https://www.productos-info.com/product/5d7d7f61-19aa-4445-b2a4-00d7645cf408"
+    },
+    "PRO-CAT-6-PLUSW": {
+        "technical_specification": "https://www.productos-info.com/product/ed404aa4-c087-4ce5-aa66-3e40397373ca"
+    },
+    "PROB400": {
+        "technical_specification": "https://www.productos-info.com/product/82ce9ac2-cd7b-4dde-9b20-0e776540862d"
+    },
+    "SS-078Q": {
+        "technical_specification": "https://www.productos-info.com/product/2008d0c7-6545-4100-84b3-7abd0962620f"
+    },
+    "TTHDMI1.8M": {
+        "technical_specification": "https://www.productos-info.com/product/2a34d596-5866-428d-9b33-6a7cdc63e11c"
+    },
+    "TTHDMI10M": {
+        "technical_specification": "https://www.productos-info.com/product/29259919-576e-429f-9bc9-3efd0f529a74"
+    },
+    "TT-HDMI-3M": {
+        "technical_specification": "https://www.productos-info.com/product/994de920-8c8f-45bc-8cf1-07b70c96dfaa"
+    },
+    "TT-HDMI-5M": {
+        "technical_specification": "https://www.productos-info.com/product/8f994905-857b-4315-aa7e-5aa5bb0cf030"
+    },
+    "GW-44-003": {
+        "technical_specification": "https://www.productos-info.com/product/2e6b8adf-f88b-418f-873c-2bfbe8237ca1"
+    },
+    "321-DCD-ABG": {
+        "technical_specification": "https://www.productos-info.com/product/493028f4-587b-40f4-9362-c4e142b3f4a2"
+    },
+    "321-DCBD-ABG": {
+        "technical_specification": "https://www.productos-info.com/product/eccef3bf-ff0b-4cc0-8a88-0b5805879bd1"
+    },
+    "321-DCBI-ABG": {
+        "technical_specification": "https://www.productos-info.com/product/43544f2f-c7e3-4cd0-87ee-a79558e74b35"
+    },
+    "321-DCI-ABG": {
+        "technical_specification": "https://www.productos-info.com/product/63528213-0f6c-4254-a2bc-8425724a46f2"
+    },
+    "MAG600NTLED": {
+        "technical_specification": "https://www.productos-info.com/product/09325dd8-861a-4127-82c9-67f9af2876e5"
+    },
+    "MN01-LTE-M": {
+        "technical_specification": "https://www.productos-info.com/product/2f98be01-11ed-4e8c-95c1-b0b7c26db62b"
+    },
+    "SF-2071-AR": {
+        "technical_specification": "https://www.productos-info.com/product/1184d32c-271b-42f0-896a-433600406468"
+    },
+    "SF-2041": {
+        "technical_specification": "https://www.productos-info.com/product/bd7f024c-be73-43c7-a4c2-3202265d30be"
+    },
+    "SF-3012": {
+        "technical_specification": "https://www.productos-info.com/product/febb18ad-0469-45c1-bec0-7e6fc571bc02"
+    },
+    "SF-2033": {
+        "technical_specification": "https://www.productos-info.com/product/331ccf70-23f8-4042-8c56-e88e0503d348"
+    },
+    "PRO138CS": {
+        "technical_specification": "https://www.productos-info.com/product/82d2f62c-97c2-44e8-a90b-1472bf82b3c6"
+    },
+    "PROT400": {
+        "technical_specification": "https://www.productos-info.com/product/93220320-92d9-4df0-b9bf-48229df1baab"
+    },
+    "XB-T23": {
+        "technical_specification": "https://www.productos-info.com/product/3a8cfbeb-124f-4c06-9b05-e7586271fc1a"
+    },
+    "DS-1272ZJ-120": {
+        "technical_specification": "https://www.productos-info.com/product/61d17fd6-cb93-4b8c-a988-d3767b25fc25"
+    },
+    "IDS-7216HQHI-M1/T": {
+        "technical_specification": "https://www.productos-info.com/product/3e982d76-13b3-4b6e-be93-7f4e673159e7"
+    },
+    "IDS-7204HQHI-M1/T": {
+        "technical_specification": "https://www.productos-info.com/product/640cc700-3bb8-42fc-8efa-7f615798b512"
+    },
+    "IDS-7208HQHI-M1/XT": {
+        "technical_specification": "https://www.productos-info.com/product/716e2c64-b964-4ec5-b87b-a1da39736f96"
+    },
+    "DS-PDP18-EG2(B)": {
+        "technical_specification": "https://www.productos-info.com/product/74924c54-598e-479a-ac01-001712030243"
+    },
+    "VXI-ST": {
+        "technical_specification": "https://www.productos-info.com/product/589e153f-9ea5-4d6d-b002-bf1b5cb31cd1"
+    },
+    "DS-PDBG8-EG2": {
+        "technical_specification": "https://www.productos-info.com/product/3ec53c38-1fac-48a7-812c-cf39d2f8e5d3"
+    },
+    "WD23PURZ": {
+        "technical_specification": "https://www.productos-info.com/product/5857d2ea-482d-4bf2-8f90-4fa7d8a0eb71"
+    },
+    "WD33PURZ": {
+        "technical_specification": "https://www.productos-info.com/product/a0b8f254-a26d-4f7f-909e-d81028276f7b"
+    },
+    "WD44PURZ": {
+        "technical_specification": "https://www.productos-info.com/product/e057093a-6762-4088-b516-74722a5bc123"
+    },
+    "WD64PURZ": {
+        "technical_specification": "https://www.productos-info.com/product/4a2844ef-956f-406a-baed-92090310faf7"
+    },
+    "WD11PURZ": {
+        "technical_specification": "https://www.productos-info.com/product/a7c9dade-d17b-4d55-87e0-56a614870dcf"
+    },
+    "DS-2CV2121G2-IDW(W)": {
+        "technical_specification": "https://www.productos-info.com/product/2edf77ba-8f25-4f7b-82a7-0777965e04fe"
+    },
+    "DS-2CV2141G2-IDW(W)": {
+        "technical_specification": "https://www.productos-info.com/product/7914280d-30ed-46d6-9eb7-98079b421a66"
+    },
+    "DS-2CD1143G2-LIUF": {
+        "technical_specification": "https://www.productos-info.com/product/e90b4ffa-730b-4448-bb47-3ca621da7ad3"
+    },
+    "VGA-1.5M": {
+        "technical_specification": "https://www.productos-info.com/product/87b2891f-8cf8-4079-ac8f-53ebe3090138"
+    },
+    "VGA-5M": {
+        "technical_specification": "https://www.productos-info.com/product/bde7048f-2d19-47d4-8e89-3a60297ea6f0"
+    },
+    "DS-KB8113-IME1(B)": {
+        "technical_specification": "https://www.productos-info.com/product/ad7563fd-8de4-45bd-aaca-81dca9763a83"
+    },
+    "XP18DC20HD": {
+        "technical_specification": "https://www.productos-info.com/product/f0ef46f8-8b7c-4017-9017-f6f8c2fd2d35"
+    },
+    "AC-PS-T12-05": {
+        "technical_specification": "https://www.productos-info.com/product/13c2968c-51fd-4d2e-82be-439951b6e482"
+    },
+    "PL-4C-15DC": {
+        "technical_specification": "https://www.productos-info.com/product/d778d7be-9a9b-4ee3-8da9-eab05d1e83b2"
+    },
+    "PL-8C-15DC": {
+        "technical_specification": "https://www.productos-info.com/product/1f60704e-818a-483e-b282-eb9e7efe0f20"
+    },
+    "IMP-30-V3": {
+        "technical_specification": "https://www.productos-info.com/product/52de43c0-82cb-4133-923c-7e70d75af22f"
+    },
+    "IPC-B121H-C": {
+        "technical_specification": "https://www.productos-info.com/product/39509ea4-2047-4949-8e87-f2c1140bb6eb"
+    },
+    "IPC-T221H-C": {
+        "technical_specification": "https://www.productos-info.com/product/61eeabe1-41bb-487e-90da-0f7a3afce4d2"
+    },
+    "IDS-7208HQHI-M1/T": {
+        "technical_specification": "https://www.productos-info.com/product/701ae439-991e-4679-98cd-3070b3e6b7b3"
+    },
+    "TT150USB": {
+        "technical_specification": "https://www.productos-info.com/product/b93cb584-7c13-4014-8798-702f989a8cc5"
+    },
+    "TT-672PRO": {
+        "technical_specification": "https://www.productos-info.com/product/29ffbfd3-6385-4355-be95-5c6368b43e72"
+    },
+    "TT372EDID4K": {
+        "technical_specification": "https://www.productos-info.com/product/6b73e69c-f6f7-463a-8def-c522721a2afa"
+    },
+    "TT-101-F-TURBO": {
+        "technical_specification": "https://www.productos-info.com/product/ab58651d-157f-42e4-b0eb-462396f0e435"
+    },
+    "DS-KIS312-P": {
+        "technical_specification": "https://www.productos-info.com/product/3393c81d-7dd5-4fb6-a7ca-70c903529537"
+    },
+    "TT373KVM4.0": {
+        "technical_specification": "https://www.productos-info.com/product/a3530733-25b9-4ada-880d-c35c52f2abae"
+    },
+    "TT223KVM": {
+        "technical_specification": "https://www.productos-info.com/product/dfc1096c-13d9-4416-b0a1-a148bf98a80f"
+    },
+    "BZL600N": {
+        "technical_specification": "https://www.productos-info.com/product/221bcb0b-90ae-4366-9d84-6469610d449e"
+    },
+    "BU600NDLED": {
+        "technical_specification": "https://www.productos-info.com/product/befa762c-e898-496f-a3e7-50104d82dd87"
+    },
+    "DS-7616NI-Q2/16P(D)": {
+        "technical_specification": "https://www.productos-info.com/product/4302fe51-4845-4d55-b96c-fa417850ec9c"
+    },
+    "DS-7604NI-Q1/4P(D)": {
+        "technical_specification": "https://www.productos-info.com/product/597e2fee-8ea1-4bec-a22c-2759a13155ed"
+    },
+    "DS-7608NI-Q1/8P(D)": {
+        "technical_specification": "https://www.productos-info.com/product/8c713951-f4b2-4a6d-b683-b4e67df7cb6e"
+    },
+    "XB-REC2": {
+        "technical_specification": "https://www.productos-info.com/product/5d4ae7b4-8ab5-43db-9e0e-0cd72265719d"
+    },
+    "PROR400": {
+        "technical_specification": "https://www.productos-info.com/product/6c9861a0-3a2d-4813-9e83-3259ffe9c41c"
+    },
+    "SF-581A": {
+        "technical_specification": "https://www.productos-info.com/product/fc36d179-d80f-474c-b0a7-c92785b3f9e5"
+    },
+    "V300X/500GB": {
+        "technical_specification": "https://www.productos-info.com/product/9e5ea2e4-1ba1-4375-89a8-6893e735334d"
+    },
+    "DS-PDCL12-EG2": {
+        "technical_specification": "https://www.productos-info.com/product/8cf8ff18-70b8-4bc1-8368-fa5dd199688e"
+    },
+    "BXS-ST": {
+        "technical_specification": "https://www.productos-info.com/product/56e5c6be-d5e6-48fb-ae0d-ad48d8ed16f6"
+    },
+    "BXS-R": {
+        "technical_specification": "https://www.productos-info.com/product/288cd957-1d55-4ed1-8c28-f0a21e5ac716"
+    },
+    "SF-747A": {
+        "technical_specification": "https://www.productos-info.com/product/32a9fefa-d8a1-445a-ad16-2c0a81bfd4d7"
+    },
+    "DS-K1T805MX": {
+        "technical_specification": "https://www.productos-info.com/product/32f7481d-cd65-49ab-b6da-cd220a117331"
+    },
+    "DS-2CV1F23G2-LIDWF(B)": {
+        "technical_specification": "https://www.productos-info.com/product/276fba5b-7d52-48b9-8443-39071b8be95c"
+    },
+    "DS-2CV1F43G2-LIDWF(B)": {
+        "technical_specification": "https://www.productos-info.com/product/96d57ce2-e111-4b1a-a723-b3af33359629"
+    },
+    "THC-T120-M": {
+        "technical_specification": "https://www.productos-info.com/product/84b48ec9-df24-41ec-af70-18703bf55138"
+    },
+    "DS-KV6113-PE1(C)": {
+        "technical_specification": "https://www.productos-info.com/product/bbf3decc-d743-46c2-9b9b-fabe6d5e0fd6"
+    },
+    "SF-BUZZER": {
+        "technical_specification": "https://www.productos-info.com/product/2f4b8fce-5776-4497-9dac-adc9fa260661"
+    },
+    "B8-TURBO-C/A": {
+        "technical_specification": "https://www.productos-info.com/product/d9f7c987-53db-476d-b16f-564259eef3e3"
+    },
+    "E8-TURBO-C/A": {
+        "technical_specification": "https://www.productos-info.com/product/5cffe71d-4073-4f27-9491-8333d518db78"
+    },
+    "DS-2CD1043G2-LIDUF/4G/SL/LA/FUS": {
+        "technical_specification": "https://www.productos-info.com/product/a762ac8c-0f9a-451e-b80b-c8cc87442af3"
+    },
+    "DS-2CD1043G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/f5440e07-c0e5-4287-924b-edb9157749fa"
+    },
+    "DS-2CD1123G2-LIU": {
+        "technical_specification": "https://www.productos-info.com/product/7ec7a435-ed37-4e22-99c6-f152606bbd9b"
+    },
+    "DS-PDC10AM-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/232f5d6f-bc64-4eeb-a5f3-fdaf2a84a8cd"
+    },
+    "AXPRO-KIT-PIR": {
+        "technical_specification": "https://www.productos-info.com/product/4380401c-6c93-4c77-ae80-75c221285baa"
+    },
+    "DS-PWA48-M-WB": {
+        "technical_specification": "https://www.productos-info.com/product/6af25265-f4c2-4a67-97f1-8c03bbfabaf6"
+    },
+    "UAP-AC-LITE": {
+        "technical_specification": "https://www.productos-info.com/product/6b7b68d0-63bb-4a26-b1c3-e1061902155c"
+    },
+    "JR-52": {
+        "technical_specification": "https://www.productos-info.com/product/dd197de3-9110-4bee-8fc6-75407538a005"
+    },
+    "AP201": {
+        "technical_specification": "https://www.productos-info.com/product/13722fdf-32b2-4a7d-b813-2cd62d245e5a"
+    },
+    "STI-6402": {
+        "technical_specification": "https://www.productos-info.com/product/1fad9386-7616-4ad0-8f44-c12be2c9b80b"
+    },
+    "STI-6400": {
+        "technical_specification": "https://www.productos-info.com/product/8f7730c1-6544-481f-9c6b-554abceb0b8a"
+    },
+    "DS-2CV2021G2-IDW(W)": {
+        "technical_specification": "https://www.productos-info.com/product/b0645bfe-147f-4456-8be1-75b17afa85f1"
+    },
+    "DS-2CD1043G0-I(C)": {
+        "technical_specification": "https://www.productos-info.com/product/44f69037-226e-4b1c-b83b-f277e74392cb"
+    },
+    "IPC-B640H-Z(C)": {
+        "technical_specification": "https://www.productos-info.com/product/f6ade456-0de1-4798-8fbe-4137fc59260f"
+    },
+    "DS-2CD1063G2-LIU": {
+        "technical_specification": "https://www.productos-info.com/product/256fd2df-0316-4e79-a041-a801ba907ae6"
+    },
+    "THC-B129-P": {
+        "technical_specification": "https://www.productos-info.com/product/7bc1a8f8-43e3-4b57-99af-f1195c1676ed"
+    },
+    "B8-TURBO-PC/A": {
+        "technical_specification": "https://www.productos-info.com/product/3fc2befb-a176-408c-8162-8dee0924df9e"
+    },
+    "THC-B220-M": {
+        "technical_specification": "https://www.productos-info.com/product/be94b879-9e95-4399-8794-8e3392754498"
+    },
+    "B8-TURBO-G2W": {
+        "technical_specification": "https://www.productos-info.com/product/cc90136c-90be-4e8f-829a-cd771748e69b"
+    },
+    "CS-H3C": {
+        "technical_specification": "https://www.productos-info.com/product/71bf82bf-1862-413f-9db7-e1f0ce03c6ca"
+    },
+    "LK1812": {
+        "technical_specification": "https://www.productos-info.com/product/9831336f-8ab9-4fbf-b918-18b82c511e48"
+    },
+    "CR1220": {
+        "technical_specification": "https://www.productos-info.com/product/421079c6-c1ea-4374-a04a-15ec9b901008"
+    },
+    "BEW2ODPB": {
+        "technical_specification": "https://www.productos-info.com/product/45f7c4de-aafc-459e-9406-a1549db76804"
+    },
+    "DS-K1T804AEF": {
+        "technical_specification": "https://www.productos-info.com/product/ffe1cffd-0201-4ed1-a4df-e60592f6bd08"
+    },
+    "ACCESS-184/500": {
+        "technical_specification": "https://www.productos-info.com/product/3a250fb9-ea42-40d7-9073-31b41d84f496"
+    },
+    "4311-1104/1000": {
+        "technical_specification": "https://www.productos-info.com/product/ffcb2179-3af3-498d-a639-d7acd8c74aad"
+    },
+    "4306-1104/1000": {
+        "technical_specification": "https://www.productos-info.com/product/3845c3b1-e39a-47f6-af7e-ad501d89456d"
+    },
+    "SF16AWG500": {
+        "technical_specification": "https://www.productos-info.com/product/21ca5ae4-7e1e-4b51-8f08-34cedb8b04f1"
+    },
+    "NUR6C04BU-C": {
+        "technical_specification": "https://www.productos-info.com/product/e6df1d29-394a-448e-b8c2-623f5e2740b1"
+    },
+    "PUR6004BU-ME": {
+        "technical_specification": "https://www.productos-info.com/product/3c355681-0b80-47eb-bf3f-6c38da3eaf0e"
+    },
+    "PUR6C04BU-F": {
+        "technical_specification": "https://www.productos-info.com/product/02915feb-2f91-467a-8891-419ee83672d8"
+    },
+    "DS-MCW406/128G": {
+        "technical_specification": "https://www.productos-info.com/product/5192b15d-73f0-49a1-8a62-6c492125f226"
+    },
+    "TC5-100": {
+        "technical_specification": "https://www.productos-info.com/product/8262aa40-bf09-4936-960c-4b83ef20d05c"
+    },
+    "APBHVC": {
+        "technical_specification": "https://www.productos-info.com/product/7854f0e5-4e24-4498-8065-4ff9f2177f93"
+    },
+    "ACCESS40": {
+        "technical_specification": "https://www.productos-info.com/product/f6c11197-f7c5-4fa5-8767-3998ac85cfd5"
+    },
+    "PRO800B": {
+        "technical_specification": "https://www.productos-info.com/product/91fb6e37-a0c0-4f2a-9c86-9fc6ab3e7c98"
+    },
+    "PRO-CAT-5E-W/500": {
+        "technical_specification": "https://www.productos-info.com/product/dc5f5f78-2119-4135-a57f-b33e458d233d"
+    },
+    "TT-HDMI-1M": {
+        "technical_specification": "https://www.productos-info.com/product/9ae7ff39-bd89-46a6-914b-0e0ef4308de6"
+    },
+    "HIK-ACCORD": {
+        "technical_specification": "https://www.productos-info.com/product/97903f85-90b5-4d09-85f1-b5ef93e822aa"
+    },
+    "PCC53": {
+        "technical_specification": "https://www.productos-info.com/product/f7eaf28b-0e70-418d-9ed4-24f737b65490"
+    },
+    "LP-UT6-100-BU28": {
+        "technical_specification": "https://www.productos-info.com/product/ed292653-3f3a-4763-8b83-593aac00ac55"
+    },
+    "LP-UT6-200-BU28": {
+        "technical_specification": "https://www.productos-info.com/product/2e0857f3-6807-4a6d-bd2f-786053a36bae"
+    },
+    "UTP28SP1BU": {
+        "technical_specification": "https://www.productos-info.com/product/e2c7d774-c9e5-43f5-b08c-044659736a51"
+    },
+    "UTP28SP7BU": {
+        "technical_specification": "https://www.productos-info.com/product/2dd8b813-80ac-4189-8ab6-6f1d0a19ef77"
+    },
+    "LP-UT3-200-BU": {
+        "technical_specification": "https://www.productos-info.com/product/7cd20efa-9fd9-4427-a1a3-b70fb0ee76a1"
+    },
+    "AWG50": {
+        "technical_specification": "https://www.productos-info.com/product/e28ff3da-c10c-465f-a10b-c7001f7d7804"
+    },
+    "PST-1010-ER": {
+        "technical_specification": "https://www.productos-info.com/product/7213c5c4-47f1-416f-81db-4bf11ce6e3b8"
+    },
+    "PRO800-BOX": {
+        "technical_specification": "https://www.productos-info.com/product/99d9438e-607e-42de-aa2c-256f45ffed3c"
+    },
+    "LP-WBX-200": {
+        "technical_specification": "https://www.productos-info.com/product/6b9d4c00-0f1f-4bc8-92a8-1ababdacec94"
+    },
+    "DS-1280ZJ-XS": {
+        "technical_specification": "https://www.productos-info.com/product/5e8a6863-a18a-4836-9649-492d24774dad"
+    },
+    "DS-1280ZJ-DM46": {
+        "technical_specification": "https://www.productos-info.com/product/e30bdb06-c61d-46f5-a526-b7799171a3c8"
+    },
+    "JBX3510WH-A": {
+        "technical_specification": "https://www.productos-info.com/product/82d847e0-3f02-4358-b536-088e76040f1a"
+    },
+    "CS-EB8-4G": {
+        "technical_specification": "https://www.productos-info.com/product/2a02920e-eae6-4438-b3ee-e3529a0b78ed"
+    },
+    "TMK-1020-SD": {
+        "technical_specification": "https://www.productos-info.com/product/bdfd35e5-f0ed-44c7-9d3c-79d1c8f34b29"
+    },
+    "PT-48-SD": {
+        "technical_specification": "https://www.productos-info.com/product/b4d3c23a-6c62-4aa6-a976-d9c9ef8a2fd4"
+    },
+    "TMK-1720": {
+        "technical_specification": "https://www.productos-info.com/product/1f650786-c5b3-423e-957a-b2abc675b2b3"
+    },
+    "TEK-100": {
+        "technical_specification": "https://www.productos-info.com/product/fd4ab301-0ccb-4865-ba12-3acf03066ae0"
+    },
+    "EF-150-LC": {
+        "technical_specification": "https://www.productos-info.com/product/e4e0456f-e2db-445f-b765-afe5fb90007b"
+    },
+    "MAG350NLEDB": {
+        "technical_specification": "https://www.productos-info.com/product/6a8fefc0-175c-4621-a2bf-db31b3432f1e"
+    },
+    "S-CH-19X1U": {
+        "technical_specification": "https://www.productos-info.com/product/3e8e7237-77e2-4004-a15d-ce61f6a33b34"
+    },
+    "CJ688TGBU": {
+        "technical_specification": "https://www.productos-info.com/product/81c65fdb-5555-4119-98a9-ecf012390f5a"
+    },
+    "DS-K2602T": {
+        "technical_specification": "https://www.productos-info.com/product/48e4b1a9-8380-48fd-b049-f9298f1ea6d3"
+    },
+    "DS-K2621X": {
+        "technical_specification": "https://www.productos-info.com/product/39994c6c-357b-4888-b7be-db339c67f522"
+    },
+    "DS-K2624X": {
+        "technical_specification": "https://www.productos-info.com/product/05f96db0-a8f9-412e-95fb-f204995e9712"
+    },
+    "DS-K2704X": {
+        "technical_specification": "https://www.productos-info.com/product/6a07759b-5537-4da6-9531-0813339ed7b1"
+    },
+    "TAPO-C320WS": {
+        "technical_specification": "https://www.productos-info.com/product/54aadd50-fed5-45c6-b121-0da7e3682266"
+    },
+    "TAPO-C500": {
+        "technical_specification": "https://www.productos-info.com/product/3df45372-27f1-40b0-b920-5d3371387659"
+    },
+    "W8": {
+        "technical_specification": "https://www.productos-info.com/product/4edbc344-bbdd-4578-993e-12590616a924"
+    },
+    "DS-U02": {
+        "technical_specification": "https://www.productos-info.com/product/3e257f28-2b90-4d65-b69b-35ac8ea2cf08"
+    },
+    "DS-U02P": {
+        "technical_specification": "https://www.productos-info.com/product/bfaf32d7-f268-483c-ae76-80e0d37b878f"
+    },
+    "AE-DC5013-F6": {
+        "technical_specification": "https://www.productos-info.com/product/fb9affe8-6bcc-4946-bd93-afd68ec8f99c"
+    },
+    "AE-DC4328-K5": {
+        "technical_specification": "https://www.productos-info.com/product/fa3c219f-e5b9-4e9c-b776-c757a7b7a96d"
+    },
+    "DS-3E1505P-EI/M": {
+        "technical_specification": "https://www.productos-info.com/product/949fbe71-8f8e-4e88-954f-ae9be91235f1"
+    },
+    "DS-PWA48-KSV2": {
+        "technical_specification": "https://www.productos-info.com/product/f67f3d94-81b5-46c2-ac3d-e19dca6435ad"
+    },
+    "IDS-7216HQHI-M1/XT": {
+        "technical_specification": "https://www.productos-info.com/product/c605d9fc-14f0-4760-9093-d5fdac2c683a"
+    },
+    "DVR-204G-M1(C)": {
+        "technical_specification": "https://www.productos-info.com/product/52d2d956-c85d-4c1a-8747-03b063eec097"
+    },
+    "SF-119-2H": {
+        "technical_specification": "https://www.productos-info.com/product/b14b6b56-3303-4ef9-8a37-7620ee22d8f4"
+    },
+    "WD102PURP": {
+        "technical_specification": "https://www.productos-info.com/product/f26db719-3567-41df-a0ac-53865e62b6b4"
+    },
+    "WD8002PURP": {
+        "technical_specification": "https://www.productos-info.com/product/e554d734-16cc-4846-af30-7d0fb299b068"
+    },
+    "TT312HDR-V2.0": {
+        "technical_specification": "https://www.productos-info.com/product/7f09cded-18e0-4101-8f6c-7ab28246e1d5"
+    },
+    "DS-2CD1143G0-I(C)": {
+        "technical_specification": "https://www.productos-info.com/product/2c0efc9f-70bf-4f54-a833-db828f6d1d18"
+    },
+    "DS-2DE2C400SCG-E(F1)": {
+        "technical_specification": "https://www.productos-info.com/product/bcfcbd70-b9c5-48dc-8633-ca7ef5dbc316"
+    },
+    "DS-2DE4825IWG1-E": {
+        "technical_specification": "https://www.productos-info.com/product/832b45a0-0d2b-4adc-a4bb-7a830cb6506c"
+    },
+    "DS-2CE76D0T-ITMF(C)": {
+        "technical_specification": "https://www.productos-info.com/product/97e67c31-da4d-4754-8325-6736a775cd29"
+    },
+    "DMC-4FT": {
+        "technical_specification": "https://www.productos-info.com/product/08048568-4abf-4ad5-80e4-472ace40e292"
+    },
+    "SYS12000/127AFV2": {
+        "technical_specification": "https://www.productos-info.com/product/2ba02134-82eb-4a35-adeb-6815ac4380eb"
+    },
+    "SYS12000/127V3": {
+        "technical_specification": "https://www.productos-info.com/product/28bb1aef-701b-4199-952f-7a384f001b0b"
+    },
+    "SYSNG-HS": {
+        "technical_specification": "https://www.productos-info.com/product/31f6bbbe-5d54-42cd-9b6a-3d7fad2d99dd"
+    },
+    "DS-K1F820-F": {
+        "technical_specification": "https://www.productos-info.com/product/1186ea58-ef70-4c02-9d88-eb429a66ff81"
+    },
+    "BG12-LX-SP": {
+        "technical_specification": "https://www.productos-info.com/product/51f17954-553f-45ad-b2fc-c2de8576fcc7"
+    },
+    "DS-K2M002X": {
+        "technical_specification": "https://www.productos-info.com/product/2bf5b257-c4fb-44bc-a8c6-dba91750d397"
+    },
+    "AC-PS-T12-05": {
+        "technical_specification": "https://www.productos-info.com/product/03b4682c-811a-48e2-a7d3-c3a2b1ae77a8"
+    },
+    "DS-2FA1225-C4/K": {
+        "technical_specification": "https://www.productos-info.com/product/62f6e3d7-2687-4ecf-a7c4-0170b33b39e7"
+    },
+    "DS-2FA1205-C8/K": {
+        "technical_specification": "https://www.productos-info.com/product/c7f5a9e4-ca77-43ec-b9ec-8c98089f1eb5"
+    },
+    "PS-12DC4KV": {
+        "technical_specification": "https://www.productos-info.com/product/d89e760e-63f9-459a-9e81-532c3183789f"
+    },
+    "PS-12-DC-4C": {
+        "technical_specification": "https://www.productos-info.com/product/3dffe8d3-aa02-46c5-a53f-2f43ac75bf0d"
+    },
+    "PL-36V-2A": {
+        "technical_specification": "https://www.productos-info.com/product/574adc5f-edb0-45f4-aa4b-dffd6de0caa9"
+    },
+    "PST-3040-20A": {
+        "technical_specification": "https://www.productos-info.com/product/67cabfa9-f986-4b76-ac17-a62f74fb0ae4"
+    },
+    "SR-1909-GN2G": {
+        "technical_specification": "https://www.productos-info.com/product/ceaf5b21-055d-4dcb-9f93-2c3ff3780899"
+    },
+    "SR1912LH3G": {
+        "technical_specification": "https://www.productos-info.com/product/34c468f6-eaf2-40a8-bb75-3f960abf8fdc"
+    },
+    "SR-1906-LH3G": {
+        "technical_specification": "https://www.productos-info.com/product/a177b8dd-6e9f-4f44-b0fe-e8b1c7a69b56"
+    },
+    "SR1909LH3G": {
+        "technical_specification": "https://www.productos-info.com/product/8e7ecb77-1a35-4a98-b3ca-473c5ef9581c"
+    },
+    "IPC-B141H-C": {
+        "technical_specification": "https://www.productos-info.com/product/92e196e5-e963-43dd-b3c5-91fbb693ead0"
+    },
+    "IPC-D141H-C": {
+        "technical_specification": "https://www.productos-info.com/product/b60a191f-2b55-4cab-9576-1f1252c655df"
+    },
+    "POE24V": {
+        "technical_specification": "https://www.productos-info.com/product/c2b2de5a-f16d-401d-acef-9c461d51f19e"
+    },
+    "LAS30-57CN-RJ45": {
+        "technical_specification": "https://www.productos-info.com/product/e086d95d-1e7b-441c-a8af-10c292cbf667"
+    },
+    "DS-1005KI": {
+        "technical_specification": "https://www.productos-info.com/product/e52c68e0-0c66-4c4a-92d9-956cf818afdd"
+    },
+    "LP-TAT-12": {
+        "technical_specification": "https://www.productos-info.com/product/7ba05c7e-7b22-416d-bed4-2693801ff3b5"
+    },
+    "B8TURBOG2P/A/XPS": {
+        "technical_specification": "https://www.productos-info.com/product/ffa3314a-0a70-4659-8345-d5a9c9972f3d"
+    },
+    "KEVTX8T4BW/A": {
+        "technical_specification": "https://www.productos-info.com/product/1366780c-634a-4720-b3cb-51457f03daf3"
+    },
+    "KEVTX8T8BG/A": {
+        "technical_specification": "https://www.productos-info.com/product/0fad56fb-7b6e-452c-91ea-d9320c3bb66a"
+    },
+    "AE-DI2032-G40(B)": {
+        "technical_specification": "https://www.productos-info.com/product/f250befe-d82a-4918-b359-cb5015ff0680"
+    },
+    "KIPCV2M/4B": {
+        "technical_specification": "https://www.productos-info.com/product/6543cab3-ff3a-4f86-b3e7-0c5c080ae558"
+    },
+    "KIPCV2M/8B": {
+        "technical_specification": "https://www.productos-info.com/product/71af5b80-c0c1-4862-bea4-2f617f6e1e44"
+    },
+    "DS-3WF02-5AC/D": {
+        "technical_specification": "https://www.productos-info.com/product/4f7e0f26-7774-421c-868d-9db2e5417c4d"
+    },
+    "DS-2XS2T47G1-LDH/4G/C18S40": {
+        "technical_specification": "https://www.productos-info.com/product/fe962800-91a7-43c5-b7a7-8af0bc89d032"
+    },
+    "DS-2XS3Q47G1-LDH/4G/C18S40": {
+        "technical_specification": "https://www.productos-info.com/product/10af0dff-5f38-482a-9415-b764e5d44eb2"
+    },
+    "LOCOM2-TT68344K": {
+        "technical_specification": "https://www.productos-info.com/product/e367e7d2-56a4-436f-8ed8-14698d69e4fc"
+    },
+    "DS-3WF1000-EI-2N": {
+        "technical_specification": "https://www.productos-info.com/product/7f56071d-634a-4c18-b7d3-65497b10edd2"
+    },
+    "DS-KIS313-P": {
+        "technical_specification": "https://www.productos-info.com/product/f42700d6-1aaa-4744-8fbc-2f811cf23291"
+    },
+    "KDP-601A1M/MS2D": {
+        "technical_specification": "https://www.productos-info.com/product/26e8fa43-2092-43ed-b6cf-78bd2775ee6e"
+    },
+    "TT-4816-PVTURBO": {
+        "technical_specification": "https://www.productos-info.com/product/aa1994c2-62bb-4f66-ab4a-6463980b90ac"
+    },
+    "TT-101-PV-TURBO": {
+        "technical_specification": "https://www.productos-info.com/product/7ce8a8d9-4d55-41df-b08b-9a3684d405c7"
+    },
+    "TT-USB-100": {
+        "technical_specification": "https://www.productos-info.com/product/35311e69-24a5-4744-9f90-114949b4ef0a"
+    },
+    "PROXPOINT": {
+        "technical_specification": "https://www.productos-info.com/product/b5484b86-d3c6-476d-8b5a-6df88ffe9239"
+    },
+    "DS-K1101M": {
+        "technical_specification": "https://www.productos-info.com/product/06f899f0-6c87-450d-8fe6-72bfc4231e53"
+    },
+    "DS-K1801EK": {
+        "technical_specification": "https://www.productos-info.com/product/78ea3173-a66e-40a4-97fb-134f5a3b4e63"
+    },
+    "DS-K1201A-EF": {
+        "technical_specification": "https://www.productos-info.com/product/b4ef3058-26ec-4612-971d-8526f198a907"
+    },
+    "SYSLETV2": {
+        "technical_specification": "https://www.productos-info.com/product/557d73d4-80e4-4f77-a87e-3b9bfb1672eb"
+    },
+    "HCT-ACCESO-1P-1A": {
+        "technical_specification": "https://www.productos-info.com/product/7a8a8112-7507-41b5-8e2e-8d88487fc4af"
+    },
+    "DS-2CD3956G2-IS(U)": {
+        "technical_specification": "https://www.productos-info.com/product/b8749c64-bd08-458f-ba1b-d1d4b87bb335"
+    },
+    "DS-2CD2955G0-ISU": {
+        "technical_specification": "https://www.productos-info.com/product/59331d01-212c-4da3-9e74-d1fa5adceb95"
+    },
+    "AMP30": {
+        "technical_specification": "https://www.productos-info.com/product/08acb769-22a3-4a24-bd8d-61e893cc0949"
+    },
+    "TARJET-WIFI-SLIM": {
+        "technical_specification": "https://www.productos-info.com/product/58ca0aaa-9c10-410d-b4f6-fa1ce905f026"
+    },
+    "DS-KH6350-WTE1": {
+        "technical_specification": "https://www.productos-info.com/product/e72d687c-f22b-4d96-a7a6-ccbdc38d6a2b"
+    },
+    "DS-D5032F3-1V0S": {
+        "technical_specification": "https://www.productos-info.com/product/e24eeb58-1aae-4276-8058-c0a2c188a26d"
+    },
+    "PST-MOUNT-POLE-V2": {
+        "technical_specification": "https://www.productos-info.com/product/d7cb27b8-dea7-455e-ad19-83a290c0fa70"
+    },
+    "DS-1661ZJ": {
+        "technical_specification": "https://www.productos-info.com/product/79deffe0-1974-4333-85f6-4033271eaef7"
+    },
+    "U-MOUNT": {
+        "technical_specification": "https://www.productos-info.com/product/1c3820e7-96cb-4d44-92eb-daf41fcd9838"
+    },
+    "90372": {
+        "technical_specification": "https://www.productos-info.com/product/ebc3f961-05cc-4c23-8e9c-6d2fc3e9fd31"
+    },
+    "HTCM-1U": {
+        "technical_specification": "https://www.productos-info.com/product/496dd5fe-7083-4ff7-9463-f9592fa40912"
+    },
+    "DS-8632NXI-K8": {
+        "technical_specification": "https://www.productos-info.com/product/6f066904-d128-4382-8c7d-3842f9829662"
+    },
+    "DS-7732NXI-I4/16P/S(E)": {
+        "technical_specification": "https://www.productos-info.com/product/e8f751d2-f4f0-4f79-a6d3-33f8debb10a0"
+    },
+    "NVR-108H-D/8P(D)": {
+        "technical_specification": "https://www.productos-info.com/product/22b7f691-82a2-46c0-8320-ed214fede938"
+    },
+    "DS-7608NI-Q1/8P(E)": {
+        "technical_specification": "https://www.productos-info.com/product/707a96ac-6c58-4649-b379-4862931d938b"
+    },
+    "LPCM-042U": {
+        "technical_specification": "https://www.productos-info.com/product/3c8b4dbc-6a3b-415d-86f4-09853bf72e5d"
+    },
+    "DS-2DE4225IW-DE(T5)": {
+        "technical_specification": "https://www.productos-info.com/product/4150ef96-9a39-416c-a960-36a8d236e66b"
+    },
+    "ES-50X": {
+        "technical_specification": "https://www.productos-info.com/product/3b4328c1-61a5-4a0b-9bb0-6cd4625c26ae"
+    },
+    "LP-PP-607": {
+        "technical_specification": "https://www.productos-info.com/product/afaa2373-c8e4-4e7c-a71b-92e508207cb1"
+    },
+    "DS-2CD6425G1-20": {
+        "technical_specification": "https://www.productos-info.com/product/0d052df1-d078-471a-9944-d39846b40aba"
+    },
+    "CFPE1WHY": {
+        "technical_specification": "https://www.productos-info.com/product/d6663452-f5f5-4404-8904-b497f2735f84"
+    },
+    "SYS-POST-4": {
+        "technical_specification": "https://www.productos-info.com/product/e7385629-e4e9-444e-935b-a28de9568c6f"
+    },
+    "SYS-POST-3": {
+        "technical_specification": "https://www.productos-info.com/product/e0123cf2-2fc6-45fe-a5da-6d697cd015a6"
+    },
+    "C5X": {
+        "technical_specification": "https://www.productos-info.com/product/2623876c-bf08-4586-a285-80d0b743d84c"
+    },
+    "KL2V2": {
+        "technical_specification": "https://www.productos-info.com/product/6a5e3e9b-8393-4542-b2cf-5109285d4abb"
+    },
+    "RE200": {
+        "technical_specification": "https://www.productos-info.com/product/a4c0048e-d27c-4868-9a58-870ccaa637f1"
+    },
+    "PSTRD1M": {
+        "technical_specification": "https://www.productos-info.com/product/38fb8759-a914-419c-a5ec-d9d5ae98e410"
+    },
+    "DS-3WR12C": {
+        "technical_specification": "https://www.productos-info.com/product/f11eb887-31d2-488a-84d2-565645788ca2"
+    },
+    "V300X/1TB": {
+        "technical_specification": "https://www.productos-info.com/product/eaee4109-0318-492d-8e5b-0c5793fd949d"
+    },
+    "VOUCHERLTEM": {
+        "technical_specification": "https://www.productos-info.com/product/bfa15370-4b48-44a0-8080-271ec2126c4c"
+    },
+    "P2RLEDSP": {
+        "technical_specification": "https://www.productos-info.com/product/0601349f-f1d8-49ec-aa3d-b2737a13ced3"
+    },
+    "DS-3E1526P-EI/M": {
+        "technical_specification": "https://www.productos-info.com/product/0dff0fb1-ee96-4e7a-9aa8-202a9de2fae0"
+    },
+    "TL-SG1016D": {
+        "technical_specification": "https://www.productos-info.com/product/ed2425ba-4d53-4efc-aad3-019fd2c86a13"
+    },
+    "SS090": {
+        "technical_specification": "https://www.productos-info.com/product/5cded14a-cdd1-4a14-aae6-d1f0a325ce40"
+    },
+    "WI-PS526G": {
+        "technical_specification": "https://www.productos-info.com/product/dbd57de8-bf2a-4730-a7ad-e0e47bf2f695"
+    },
+    "DS-3E1552P-SI": {
+        "technical_specification": "https://www.productos-info.com/product/da094247-ba02-4c10-94ad-191db4970e82"
+    },
+    "DS-3E1105P-EI/M": {
+        "technical_specification": "https://www.productos-info.com/product/cfbe7d42-fe41-4154-8199-22844aa9c157"
+    },
+    "DS-3E1309P-EI/M": {
+        "technical_specification": "https://www.productos-info.com/product/5ba6381f-61d9-4e77-b20f-2e8fe2c337f3"
+    },
+    "DS-3E0106HP-E": {
+        "technical_specification": "https://www.productos-info.com/product/eeda9ab8-765f-4371-bf68-241d5fbe6abd"
+    },
+    "GWN7700M": {
+        "technical_specification": "https://www.productos-info.com/product/cbd2fed4-5a37-4fee-a361-1d550653823f"
+    },
+    "ACCESS-CARD-M1K": {
+        "technical_specification": "https://www.productos-info.com/product/5ad30a2c-0391-4514-92ca-73ef929728ed"
+    },
+    "ACCESS-PROX-CARD": {
+        "technical_specification": "https://www.productos-info.com/product/f6bb7f5a-ad96-46d2-b6c1-f3857c6315a6"
+    },
+    "PROXCARD26": {
+        "technical_specification": "https://www.productos-info.com/product/bdffaf6d-99ab-47ca-b2dc-9b1df10f5c35"
+    },
+    "ATR-14": {
+        "technical_specification": "https://www.productos-info.com/product/9833d223-edfa-49da-83d5-96f9c33062e7"
+    },
+    "ACF-43": {
+        "technical_specification": "https://www.productos-info.com/product/491c5170-53b2-49f1-b40d-3b1532c13135"
+    },
+    "DS-K1T805MBFWX": {
+        "technical_specification": "https://www.productos-info.com/product/b34b4e74-1966-4575-ab4d-77cc210da7f9"
+    },
+    "ACF-44": {
+        "technical_specification": "https://www.productos-info.com/product/26db6377-0c55-47e6-b2c2-0381b9812423"
+    },
+    "LP-DWC2": {
+        "technical_specification": "https://www.productos-info.com/product/fd235b56-6e9a-43e3-a675-3310208c2eec"
+    },
+    "HK-SFP-1.25G-20-1310-DF": {
+        "technical_specification": "https://www.productos-info.com/product/8071562f-950d-4678-b837-5e8a7aa14ad8"
+    },
+    "DS-2CD1343G0-I(C)": {
+        "technical_specification": "https://www.productos-info.com/product/544f3ef5-9f6d-491f-8106-19e825846aad"
+    },
+    "IPC-T641H-Z(C)": {
+        "technical_specification": "https://www.productos-info.com/product/de3bc045-1049-44cf-ae1f-8f3f828c9908"
+    },
+    "LP1000LCD": {
+        "technical_specification": "https://www.productos-info.com/product/3841fddc-6b11-4cdb-8199-821bdda0822b"
+    },
+    "EPU1500LCD": {
+        "technical_specification": "https://www.productos-info.com/product/c89e1b4f-11b6-4540-8f9e-b7c1874447ec"
+    },
+    "PR2200RT2U": {
+        "technical_specification": "https://www.productos-info.com/product/5f1a2f47-af17-41aa-93d8-cfd66601f0ff"
+    },
+    "OR500LCDRM1UA": {
+        "technical_specification": "https://www.productos-info.com/product/8bfba563-4ddc-4f6b-9464-f83d6ee8ca20"
+    },
+    "UT-750GU": {
+        "technical_specification": "https://www.productos-info.com/product/1331ddbb-515d-453b-b213-bf80ff74b7a8"
+    },
+    "SL750U": {
+        "technical_specification": "https://www.productos-info.com/product/3ece20a3-239b-4738-a4e6-c8c11e4d9261"
+    },
+    "DS-7632NXI-K2/16P(E)": {
+        "technical_specification": "https://www.productos-info.com/product/a5d5232b-f7fc-419e-aae7-0b9a1c15d937"
+    },
+    "THC-B257-LTS": {
+        "technical_specification": "https://www.productos-info.com/product/fe0effcd-6870-4c6f-a449-9a44aad361da"
+    },
+    "THC-T129-PS": {
+        "technical_specification": "https://www.productos-info.com/product/cb234ecf-4195-4fb2-a73b-01f8af7fa872"
+    },
+    "DS-2CE10DF0T-F": {
+        "technical_specification": "https://www.productos-info.com/product/f1864303-1dd0-4b6b-90cb-838d57f54e19"
+    },
+    "DS-2CE10UF3T-E": {
+        "technical_specification": "https://www.productos-info.com/product/6619d569-0050-4017-95df-f4c9d4e69d08"
+    },
+    "DS-2CE70DF0T-MF": {
+        "technical_specification": "https://www.productos-info.com/product/e89b022a-076e-4a36-86a4-62aad0cbb3e2"
+    },
+    "DS-2CE72KF0T-FS": {
+        "technical_specification": "https://www.productos-info.com/product/c6290a54-1815-4b9f-bb00-1133ed37ad28"
+    },
+    "DS-9664NI-M8": {
+        "technical_specification": "https://www.productos-info.com/product/7e4db9d8-bc58-44f3-955b-f61aab6f0534"
+    },
+    "DS-2CD2143G2-LIS2U": {
+        "technical_specification": "https://www.productos-info.com/product/057440d6-f232-4d8b-bb23-f45d7d89066e"
+    },
+    "DS-2CD1027G2H-LIUF": {
+        "technical_specification": "https://www.productos-info.com/product/aad8dfd6-b5c4-4c45-8223-4037a82c18f8"
+    },
+    "DS-2CE16D0T-LFS": {
+        "technical_specification": "https://www.productos-info.com/product/6adcfc58-d0c8-475b-ad4e-9dbabf76c847"
+    },
+    "DS-2CE16K0T-LFS": {
+        "technical_specification": "https://www.productos-info.com/product/e15d587d-0f59-42b8-a29d-c629a01c6e08"
+    },
+    "DS-2CE76D0T-LMFS": {
+        "technical_specification": "https://www.productos-info.com/product/ace3f5b9-c33b-489f-b1b7-5768603ec0ad"
+    },
+    "DS-2CE76K0T-LMFS": {
+        "technical_specification": "https://www.productos-info.com/product/2f655227-1e14-4d53-870e-4fcec0088c21"
+    },
+    "IPC-B120HA-LUC": {
+        "technical_specification": "https://www.productos-info.com/product/ef362858-12e3-427b-96f6-7f7c83085b93"
+    },
+    "DS-2CD1023G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/8e0ac36e-a413-4611-9b17-627674e3624c"
+    },
+    "DS-2CD1063G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/40f722fe-3c07-4b65-96c0-5311883dffca"
+    },
+    "DS-2CD1083G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/25617e09-d952-427a-9032-9a64522edf44"
+    },
+    "DS-2CD1T83G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/f7f78b3a-6fe5-46cf-bef3-c460e562a4c7"
+    },
+    "DS-2CD1123G2-LIU(F)": {
+        "technical_specification": "https://www.productos-info.com/product/7e85e7a5-5811-44fa-a728-2d27ec0fc6fd"
+    },
+    "DS-2CD1163G2-LIU": {
+        "technical_specification": "https://www.productos-info.com/product/6713e5a9-b87b-4c68-9158-4692fb41663e"
+    },
+    "DS-2CD1163G2-LIUF": {
+        "technical_specification": "https://www.productos-info.com/product/a331b93e-3f57-4cbc-95f6-b2635f9a3a29"
+    },
+    "KIT-3K-DL": {
+        "technical_specification": "https://www.productos-info.com/product/9cce6467-0b76-4e07-a451-6054b6a4cbea"
+    },
+    "DS-2CD1323G2-LIU": {
+        "technical_specification": "https://www.productos-info.com/product/6b8170ed-6581-47d4-8674-c65630ab62e0"
+    },
+    "DS-2CD1343G2-LIUF": {
+        "technical_specification": "https://www.productos-info.com/product/4a75ada3-0529-42c9-9201-36657463a85c"
+    },
+    "DS-2DE2C400MWG-E": {
+        "technical_specification": "https://www.productos-info.com/product/e1cbf8f4-b6a9-4170-943b-d8b1478056c5"
+    },
+    "DS-2CD2T47G2P-LSU/SL(C)": {
+        "technical_specification": "https://www.productos-info.com/product/db780788-2d75-4237-bc37-19182c87a502"
+    },
+    "DS-2CD2T87G2-PLSU/SL(C)": {
+        "technical_specification": "https://www.productos-info.com/product/8c647e1a-de26-4cf2-ba8d-7bd8303f567d"
+    },
+    "DS-2CD2347G2P-LSU/SL(C)": {
+        "technical_specification": "https://www.productos-info.com/product/88cdf833-c0e0-48d6-95f8-55dd2d369cad"
+    },
+    "HL-24B-KIT": {
+        "technical_specification": "https://www.productos-info.com/product/afc25665-4487-445a-80f7-237727cef0da"
+    },
+    "DS-2CD2387G2P-LSU/SL(C)": {
+        "technical_specification": "https://www.productos-info.com/product/637ce87b-c959-4aa1-a5ed-46db823a5138"
+    },
+    "DS-2SE3C404MWG-E/14": {
+        "technical_specification": "https://www.productos-info.com/product/e86fc729-5bd4-4934-9f12-481707584b26"
+    },
+    "DS-2SE4C425MWG-E/26(F0)": {
+        "technical_specification": "https://www.productos-info.com/product/33336682-7603-4e5a-8df7-9da98d89e388"
+    },
+    "KDP-601-AM": {
+        "technical_specification": "https://www.productos-info.com/product/851ff76b-6869-45b5-8f6e-f8be976c2ad5"
+    },
+    "ES-200X": {
+        "technical_specification": "https://www.productos-info.com/product/d43fe4b0-63f9-49b0-8e1e-b6b3e76f8126"
+    },
+    "BG-12LX": {
+        "technical_specification": "https://www.productos-info.com/product/d51d0d79-9775-4820-82e8-0c68901f2402"
+    },
+    "ANN-80": {
+        "technical_specification": "https://www.productos-info.com/product/76bcb161-538c-4df0-b101-8237c1073fc9"
+    },
+    "ANN-SB80-KITR": {
+        "technical_specification": "https://www.productos-info.com/product/922ad01b-bd8d-4e11-aa39-b36f3d2f3269"
+    },
+    "P2RLED": {
+        "technical_specification": "https://www.productos-info.com/product/86d8f00e-e10b-4d98-a2dc-11f60c7ff230"
+    },
+    "LK1812FR": {
+        "technical_specification": "https://www.productos-info.com/product/c1cd080d-f8a5-4457-82dd-2b0ead620bd8"
+    },
+    "SD-365": {
+        "technical_specification": "https://www.productos-info.com/product/dce7b7cc-b398-4a92-afcd-6c49845d4010"
     }
 }
