@@ -11999,6 +11999,382 @@
         "website_description": "Organiza tus equipos de red y servidores en este rack de piso diseñado para soportar grandes cargas con total estabilidad. Su estructura abierta permite que tus aparatos se mantengan frescos al permitir el libre flujo de aire, evitando fallas por calor en tu internet o grabadores de video. Es la base sólida y profesional que cualquier empresa necesita para mantener su centro de datos ordenado y accesible.",
         "description_sale": "Rack de piso de alta resistencia; organiza y ventila tus servidores de forma profesional y segura."
     },
+    "HSM2HOST9": {
+        "website_description": "Añade la libertad inalámbrica a tu sistema de seguridad con este módulo receptor que permite conectar sensores sin necesidad de cables. Es la pieza clave para expandir tu protección a lugares difíciles de cablear, manteniendo una comunicación estable y segura con tu panel central. Su instalación es sencilla y garantiza que todos tus dispositivos inalámbricos trabajen en perfecta armonía.",
+        "description_sale": "Módulo receptor inalámbrico; expande tu sistema de seguridad sin cables y con total confianza."
+    },
+    "DS-PWA48-SYSNG": {
+        "website_description": "El cerebro inteligente de tu hogar que centraliza toda la seguridad inalámbrica, enviándote alertas directas al celular ante cualquier evento. Se conecta a tu Wi-Fi y te permite controlar sensores de movimiento y puertas desde una App muy intuitiva y fácil de usar. Es elegante, compacto y la solución ideal para quienes buscan una protección moderna sin complicaciones técnicas.",
+        "description_sale": "Panel de alarma inteligente Wi-Fi; controla y vigila tu hogar desde tu smartphone las 24 horas."
+    },
+    "DS-PWA48K-SYSNGV2": {
+        "website_description": "Kit de seguridad inteligente completo y listo para instalar, diseñado para blindar tu departamento o casa con tecnología inalámbrica de última generación. Incluye el panel central y sensores básicos que se configuran en minutos, permitiéndote recibir reportes de seguridad en tiempo real. Es la forma más práctica y moderna de cuidar a tu familia con un sistema que crece junto con tus necesidades.",
+        "description_sale": "Kit de alarma inalámbrica V2; seguridad inteligente, fácil de instalar y controlada por celular."
+    },
+    "DS-PDMC-EG2-WB(B)/BLACK": {
+        "website_description": "Protege tus puertas y ventanas con este elegante sensor en color negro mate que se integra perfectamente en marcos oscuros. Te avisa de inmediato a tu celular si una entrada se abre, permitiéndote reaccionar a tiempo ante cualquier intrusión sospechosa. Es totalmente inalámbrico, su batería dura años y ofrece una vigilancia discreta que no rompe la estética de tu hogar.",
+        "description_sale": "Sensor magnético negro para puertas; vigilancia invisible y alertas al celular con diseño elegante."
+    },
+    "DS-PDMCS-EG2-WB(B)/BLACK": {
+        "website_description": "Mini sensor de apertura en acabado negro mate, diseñado para pasar desapercibido en ventanas pequeñas o muebles de valor donde el espacio es limitado. A pesar de su tamaño, ofrece una potencia inalámbrica asombrosa, reportando cualquier apertura no autorizada directamente a tu sistema de seguridad. Es resistente, muy fácil de pegar y la defensa básica para los accesos más discretos de tu casa.",
+        "description_sale": "Mini sensor inalámbrico negro; protección discreta y efectiva para ventanas y muebles valiosos."
+    },
+    "DS-PDC15-EG2-WB/UB": {
+        "website_description": "Sensor de movimiento tipo cortina ideal para proteger ventanales o pasillos largos, creando una barrera invisible que detecta intrusos al instante. Su tecnología inalámbrica permite colocarlo en lugares estratégicos sin perforar muros, enviando señales claras y seguras a tu panel de alarma. Es sumamente preciso, evitando falsas alarmas y brindándote una protección perimetral interna de alto nivel.",
+        "description_sale": "Sensor de movimiento tipo cortina; crea una barrera invisible de seguridad en tus ventanas."
+    },
+    "DS-PDP15P-EG2-WB(B)/BLACK": {
+        "website_description": "Lleva la vigilancia de tus habitaciones al siguiente nivel con este sensor de movimiento inteligente en acabado negro mate para interiores modernos. Detecta presencias humanas con total precisión mientras ignora el movimiento de tus mascotas, evitando molestas notificaciones falsas en tu celular. Es elegante, se instala en minutos y garantiza que tus espacios importantes estén siempre bajo guardia tecnológica.",
+        "description_sale": "Sensor de movimiento negro 'Pet-Friendly'; vigilancia inteligente que ignora a tus mascotas."
+    },
+    "DS-PDP15P-EG2-WB": {
+        "website_description": "El guardián perfecto para tu sala o recámaras: un sensor de movimiento que vigila amplias áreas y te avisa al instante si alguien entra. Su inteligencia integrada distingue entre humanos y mascotas, asegurando que solo recibas alertas cuando realmente haya un peligro en casa. Es blanco, estético y cuenta con una conexión inalámbrica de largo alcance para una protección sin fallas.",
+        "description_sale": "Sensor de movimiento inalámbrico; seguridad confiable que no se activa con tus mascotas."
+    },
+    "DS-PDD12P-EG2-WB/UB": {
+        "website_description": "Doble tecnología de detección en un solo dispositivo inalámbrico que combina sensores de calor y microondas para una seguridad extrema y sin errores. Es ideal para lugares con corrientes de aire o cambios de luz, ya que verifica dos veces el movimiento antes de activar tu alarma. Te brinda la máxima tranquilidad al saber que tu sistema es inquebrantable y sumamente inteligente ante intrusos.",
+        "description_sale": "Sensor de doble tecnología; máxima precisión en detección para evitar totalmente alertas falsas."
+    },
+    "DS-PD451SMK-WB/BLACK": {
+        "website_description": "Detector de humo inalámbrico en acabado negro mate, diseñado para integrarse con discreción en techos modernos mientras protege tu vida y patrimonio. Al detectar las primeras señales de fuego, emite una sirena potente y envía una alerta urgente a tu celular para que actúes de inmediato. Es vital para la seguridad familiar, ofreciendo una respuesta rápida y tecnológica ante emergencias de incendio.",
+        "description_sale": "Detector de humo negro inteligente; alerta sonora y al celular para prevenir incendios con estilo."
+    },
+    "DS-PDMCK-EG2-WB": {
+        "website_description": "Sensor de contacto magnético de alta fidelidad que incluye una entrada adicional para conectar otros sensores cableados de forma inalámbrica. Es la herramienta de integración perfecta para modernizar tu casa, permitiéndote vigilar puertas y persianas metálicas con un solo equipo inteligente. Su señal atraviesa muros con facilidad, garantizando que tu entrada principal esté siempre bajo vigilancia experta.",
+        "description_sale": "Sensor magnético avanzado; vigila tus puertas y permite conectar más protecciones sin cables."
+    },
+    "DS-PWA48-M-WB/BLACK": {
+        "website_description": "Centro de mando inteligente en color negro, diseñado para hogares que buscan una seguridad de élite con un diseño vanguardista y tecnológico. Administra todos tus sensores inalámbricos y te permite ver estados de batería y eventos directamente desde tu smartphone con total privacidad. Es robusto, estético y la pieza central que transforma tu casa en un entorno inteligente y bien resguardado.",
+        "description_sale": "Panel de alarma inteligente negro; máxima tecnología y diseño para el control de tu seguridad."
+    },
+    "DS-PWA48-E-WB/BLACK": {
+        "website_description": "Versión expandida del panel inteligente negro que ofrece una mayor capacidad para gestionar dispositivos de automatización y seguridad simultáneamente. Te permite crear escenarios personalizados, como encender luces cuando detecta movimiento, brindándote una protección proactiva y muy cómoda. Es inquebrantable, moderno y fabricado para quienes demandan el máximo control digital en su residencia.",
+        "description_sale": "Panel de seguridad y domótica negro; control total de tu hogar inteligente y protegido."
+    },
+    "DS-PWA96-M-WB/BLACK": {
+        "website_description": "La central de seguridad inalámbrica más potente de su clase, capaz de gestionar hasta 96 zonas de protección en un elegante acabado negro mate. Ideal para residencias grandes o negocios, ofrece una estabilidad de señal superior y múltiples vías de comunicación para que nunca pierdas contacto con tu alarma. Es el tope de gama en vigilancia interactiva, diseñada para una paz mental absoluta y tecnológica.",
+        "description_sale": "Super panel inalámbrico de 96 zonas; potencia máxima y control total para grandes propiedades."
+    },
+    "DS-PWA96-M-WB": {
+        "website_description": "Poderoso cerebro de seguridad de gran capacidad en color blanco, diseñado para coordinar la vigilancia de complejos habitacionales o locales comerciales extensos. Permite integrar cámaras y sensores de forma masiva, ofreciendo reportes detallados y alertas instantáneas a todos los miembros de la familia o personal. Es sumamente capaz, confiable y representa el estándar más alto en protección inalámbrica profesional.",
+        "description_sale": "Panel de alarma masivo de 96 zonas; seguridad de élite escalable para tu empresa o hogar."
+    },
+    "DS-PS1-I-WB(B)/BLACK": {
+        "website_description": "Sirena inalámbrica para interiores en color negro que ahuyenta activamente a los intrusos con un sonido penetrante al momento de una detección. Su luz integrada parpadea para indicar visualmente el peligro, ayudándote a localizar el evento incluso en la oscuridad total de tu pasillo. Es fácil de instalar en cualquier pared sin cables y es el complemento de audio necesario para una defensa activa en casa.",
+        "description_sale": "Sirena de interior negra inalámbrica; alerta sonora potente y visual para asustar intrusos."
+    },
+    "DS-PWA48-KS-EX": {
+        "website_description": "Módulo de expansión de seguridad diseñado para fortalecer la señal de tu sistema inalámbrico en áreas con muros muy gruesos o interferencias. Asegura que tus sensores de las habitaciones más alejadas siempre estén comunicados con el panel central, eliminando puntos ciegos en tu protección. Es pequeño, fácil de ocultar y la garantía técnica de que tu red de seguridad trabaje siempre al 100%.",
+        "description_sale": "Módulo de expansión de señal; garantiza que tu alarma inalámbrica llegue a cada rincón."
+    },
+    "PRO-CAT-6-EXT-LITE-V2": {
+        "website_description": "Cable de internet de alta velocidad diseñado específicamente para exteriores, con un forro reforzado que resiste el sol intenso y la lluvia sin degradarse. Garantiza una conexión estable para tus cámaras de vigilancia exteriores, evitando que el video se trabe o pierda calidad por fallas en el cableado. Es la base sólida de red que necesitas para que tu internet y seguridad lleguen hasta el jardín frontal.",
+        "description_sale": "Cable de red Cat6 para exterior; internet veloz y resistente al clima para tus cámaras."
+    },
+    "PRO-CAT-6-EXT-LITES-V2": {
+        "website_description": "Versión optimizada del cable de red exterior que incluye un blindaje especial contra interferencias eléctricas de cables de luz cercanos. Asegura que tus grabaciones 4K viajen con total fluidez y nitidez, sin ruidos visuales provocados por el ambiente exterior de tu fachada. Es robusto, duradero y la elección de los expertos para instalaciones de seguridad perimetral impecables.",
+        "description_sale": "Cable Cat6 exterior blindado; máxima velocidad y protección contra ruidos eléctricos."
+    },
+    "PFL6X04YL-CEG": {
+        "website_description": "Cable de red profesional en color amarillo brillante, diseñado para facilitar la identificación de tus conexiones críticas en el centro de datos o módem. Su flexibilidad superior permite acomodarlo en esquinas difíciles sin riesgo de que se rompa por dentro, manteniendo tu internet siempre a la máxima velocidad. Es ideal para hogares tecnológicos que buscan orden visual y un rendimiento digital de primer nivel.",
+        "description_sale": "Cable de red Cat6 amarillo; alta flexibilidad y velocidad para una conexión organizada."
+    },
+    "PFL6X04IG-CEG": {
+        "website_description": "Cable de internet de alta fidelidad en acabado gris profesional, fabricado con materiales premium que garantizan una transmisión de datos sin errores ni demoras. Es perfecto para conectar consolas de videojuegos, pantallas inteligentes o grabadores de video que exigen un flujo de datos constante y veloz. Su construcción duradera asegura una conexión sólida que no falla con el paso de los años.",
+        "description_sale": "Cable de red Cat6 gris; conexión estable y rápida para tu entretenimiento y seguridad."
+    },
+    "9A6O4-A5-01AR1A": {
+        "website_description": "Cable de red de grado corporativo fabricado para soportar transferencias de archivos masivas y video de ultra alta definición sin ningún tipo de cuello de botella. Su diseño de alta precisión minimiza la pérdida de señal en tramos largos, asegurando que el internet en tu oficina o estudio sea siempre impecable. Es la herramienta de infraestructura básica para quienes demandan un rendimiento digital profesional y muy confiable.",
+        "description_sale": "Cable de red de alta gama; potencia y velocidad extrema para tu oficina o casa inteligente."
+    },
+    "PRO-CAT6A-R": {
+        "website_description": "La cima de la conectividad: un cable de red de ultra alta velocidad Cat6A diseñado para manejar el internet más rápido disponible hoy en día. Su tecnología avanzada permite transmitir video 4K y 8K con una fluidez asombrosa, convirtiéndose en el pilar de una casa del futuro o centro de datos moderno. Es robusto, inquebrantable y la inversión definitiva para una red digital sin límites.",
+        "description_sale": "Cable de red Cat6A de ultra velocidad; el máximo rendimiento para video 4K e internet veloz."
+    },
+    "9C6R4-A5-06-AR1A": {
+        "website_description": "Cable de red de alto desempeño diseñado para ser instalado dentro de muros y techos con total seguridad y cumplimiento de normas contra incendios. Proporciona una conexión de internet veloz en cada habitación de tu casa, garantizando que tus puntos de acceso Wi-Fi siempre tengan la máxima potencia. Es duradero, confiable y la pieza invisible que asegura que tu hogar esté perfectamente comunicado.",
+        "description_sale": "Cable de red para interiores profesional; internet rápido y seguro en cada rincón de tu casa."
+    },
+    "DS-1LN5E-SW": {
+        "website_description": "Cable de red estándar de gran calidad diseñado para conectar tus cámaras de seguridad y computadoras con una estabilidad de señal garantizada. Su fabricación balanceada evita interferencias y asegura que tus dispositivos inteligentes se mantengan siempre en línea para enviarte notificaciones. Es económico, resistente y la opción de confianza para empezar a digitalizar la seguridad de tu hogar de forma efectiva.",
+        "description_sale": "Cable de red confiable; conexión estable y económica para tus cámaras y dispositivos."
+    },
+    "PUD6C2804WH-CE": {
+        "website_description": "Cable de red ultra delgado y flexible en color blanco, ideal para instalaciones estéticas en salas o dormitorios donde no quieres que los cables se noten. A pesar de su diseño estilizado, ofrece una velocidad de internet sorprendente para tus pantallas inteligentes y equipos de trabajo remoto. Es fácil de ocultar detrás de muebles o zoclos, brindando una solución de conectividad limpia y muy profesional.",
+        "description_sale": "Cable de red blanco ultra flexible; internet veloz con un diseño discreto para tu hogar."
+    },
+    "PUD6C2804IG-CE": {
+        "website_description": "Solución de conectividad de bajo perfil en color gris, fabricada para adaptarse a espacios reducidos sin perder un solo bit de velocidad en tu internet. Su forro especial permite dobleces cerrados sin dañar los hilos internos, garantizando que tu red trabaje al 100% de su capacidad en cualquier rincón. Es la elección inteligente para quienes buscan orden y rendimiento en una oficina compacta o estudio de juegos.",
+        "description_sale": "Cable de red gris de bajo perfil; máxima flexibilidad y velocidad en espacios reducidos."
+    },
+    "NUC6C04IG-FE": {
+        "website_description": "Cable de red de alta fidelidad diseñado para infraestructuras de comunicación estables y libres de fallas técnicas en el hogar o pequeño negocio. Su tecnología de construcción reduce el ruido eléctrico, asegurando que tus videoconferencias y juegos en línea sean fluidos y sin interrupciones molestas. Es sumamente duradero y proporciona la seguridad técnica que un sistema de red moderno requiere para operar bien.",
+        "description_sale": "Cable de red Cat6 de alta calidad; garantiza un internet fluido y sin errores de conexión."
+    },
+    "PUC6C04BU-FE": {
+        "website_description": "Cable de red profesional en vibrante color azul, perfecto para organizar tus tableros de conexión e identificar rápidamente el servicio de internet o cámaras. Ofrece una nitidez de señal excepcional para transmisiones de video en alta definición y datos pesados, manteniendo tu red siempre ágil y productiva. Es robusto, confiable y fabricado bajo los estándares de calidad más exigentes para una red impecable.",
+        "description_sale": "Cable de red azul profesional; organización visual y alta velocidad para tu centro de red."
+    },
+    "PUC6004YL-FE": {
+        "website_description": "Lleva la máxima velocidad a tus equipos de oficina con este cable de red amarillo de alta visibilidad y gran durabilidad bajo uso continuo. Su diseño asegura que la señal viaje con total claridad desde tu módem hasta tu computadora, evitando retrasos que afecten tu productividad diaria. Es flexible, fácil de manipular y el aliado tecnológico necesario para una estación de trabajo moderna y bien conectada.",
+        "description_sale": "Cable de red amarillo de alta velocidad; internet estable y rápido para tu oficina."
+    },
+    "PUP6C04BU-WN": {
+        "website_description": "Cable de red de grado industrial diseñado para instalaciones de alta demanda que requieren una transferencia de datos impecable y sin caídas accidentales. Su forro especial ofrece una protección extra contra el desgaste físico, asegurando que tu sistema de seguridad y red Wi-Fi operen en un entorno digital sólido. Es sumamente confiable y garantiza que tu propiedad se mantenga siempre bien vigilada y comunicada.",
+        "description_sale": "Cable de red industrial reforzado; estabilidad inigualable para tus sistemas más críticos."
+    },
+    "PUC6004RD-FE": {
+        "website_description": "Cable de red en color rojo diseñado para señalizar conexiones de emergencia o equipos críticos de seguridad en tu infraestructura digital doméstica. Proporciona un flujo de datos veloz y constante, garantizando que tus alertas de seguridad lleguen siempre en milisegundos a su destino final. Es robusto, estético y la herramienta de organización ideal para quienes buscan un control absoluto de su red técnica.",
+        "description_sale": "Cable de red rojo para sistemas críticos; velocidad y organización para tu seguridad."
+    },
+    "PUR6004RD-ME": {
+        "website_description": "Cable de internet reforzado en color rojo, fabricado con materiales que retardan el fuego para una seguridad superior en instalaciones dentro de techos o muros. Asegura una conectividad de alta velocidad para tus dispositivos inteligentes mientras brinda una protección física adicional ante cualquier eventualidad eléctrica en casa. Es sumamente duradero y representa la base de una infraestructura de red segura y muy profesional.",
+        "description_sale": "Cable de red rojo ignífugo; internet veloz con máxima seguridad para tus instalaciones."
+    },
+    "PUC6004GR-ME": {
+        "website_description": "Cable de red de alta gama en color verde, ideal para identificar equipos de domótica o servicios de bajo consumo en tu sistema de hogar inteligente. Su construcción premium garantiza que no haya interferencias entre cables, permitiendo que todas tus luces y sensores respondan al instante desde tu aplicación móvil. Es elegante, flexible y la pieza de detalle necesaria para que tu red tecnológica luzca impecable.",
+        "description_sale": "Cable de red verde para domótica; conexión instantánea para tu hogar inteligente."
+    },
+    "PRO-CAT-5-EXT-LITE-DJ": {
+        "website_description": "Cable de red económico para exteriores diseñado para llevar internet y video básico a tu patio o cochera sin gastar una fortuna en infraestructura. Su forro resistente protege los hilos internos del agua y el sol, manteniendo tu cámara exterior siempre comunicada y lista para vigilar tu entrada. Es la opción práctica y rendidora para quienes buscan una protección perimetral efectiva con una inversión inteligente.",
+        "description_sale": "Cable de red exterior económico; lleva internet a tu jardín de forma segura y accesible."
+    },
+    "PUP6C04WH-W": {
+        "website_description": "Cable de red profesional en color blanco puro, diseñado para mimetizarse con muros claros mientras ofrece un internet de ultra alta velocidad en tu sala o despacho. Su tecnología avanzada permite transmitir grandes volúmenes de datos sin errores, ideal para el trabajo creativo, diseño gráfico o streaming de video en alta definición. Es sumamente confiable, duradero y la pieza fundamental para una red doméstica de alto desempeño.",
+        "description_sale": "Cable de red blanco de alto desempeño; velocidad extrema con diseño limpio para casa."
+    },
+    "PUR6004BU-FE": {
+        "website_description": "Cable de internet de alta fidelidad en color azul, optimizado para evitar la pérdida de potencia en tramos largos de cableado dentro de tu oficina o edificio. Garantiza que el internet llegue con la misma fuerza a cada rincón, permitiendo una navegación fluida y descargas rápidas en todos tus dispositivos conectados. Es robusto, fácil de instalar y fabricado para durar años manteniendo un rendimiento digital impecable.",
+        "description_sale": "Cable de red azul de alta fidelidad; internet potente y constante en cada habitación."
+    },
+    "PUR6004IG-W": {
+        "website_description": "Cable de red versátil en acabado gris, diseñado para integrarse armoniosamente en cualquier entorno de oficina mientras proporciona una conexión de red estable las 24 horas. Su fabricación reduce el eco digital, asegurando que tus llamadas de voz sobre internet sean claras y sin ruidos metálicos molestos para tu familia o clientes. Es la herramienta de comunicación duradera y sencilla que toda oficina moderna necesita para su tranquilidad.",
+        "description_sale": "Cable de red gris para oficina; comunicaciones claras y navegación estable sin fallas."
+    },
+    "PUC6004OR-FE": {
+        "website_description": "Cable de red en color naranja diseñado para destacar en tu instalación y facilitar la administración de servicios de red especializados o temporales en tu negocio. Ofrece una transmisión de datos veloz y un forro flexible que resiste tirones accidentales durante la limpieza o reacomodo de equipos en tu escritorio. Es estético, funcional y la protección básica que toda red organizada necesita para sus aparatos digitales.",
+        "description_sale": "Cable de red naranja flexible; organización visual y velocidad para tus equipos dinámicos."
+    },
+    "PUC6004GR-FE": {
+        "website_description": "Cable de internet de alto desempeño en color verde, fabricado con materiales ecológicos y una eficiencia de transmisión superior para ahorrar energía en tu red. Su diseño evita el calentamiento de los conectores, asegurando que tu tecnología trabaje siempre bien y libre de riesgos eléctricos por saturación de datos. Es inquebrantable, moderno y proporciona una imagen de orden y frescura a toda tu infraestructura tecnológica.",
+        "description_sale": "Cable de red verde eficiente; internet de alta velocidad con tecnología de bajo consumo."
+    },
+    "9C6R4-E3-RXA": {
+        "website_description": "Cable de red de alta especialización diseñado para entornos con alta saturación de señales inalámbricas, garantizando una conexión de internet libre de interferencias. Su tecnología de blindaje avanzada protege tus datos de ruidos externos, asegurando que tu vigilancia y trabajo en línea sean totalmente privados y seguros. Es la inversión de seguridad digital definitiva para quienes exigen la mayor privacidad y fidelidad visual.",
+        "description_sale": "Cable de red con blindaje avanzado; máxima privacidad e internet libre de interferencias."
+    },
+    "9C6L4-E2-04-RXA": {
+        "website_description": "Cable de red de bajo perfil y alta velocidad, perfecto para ser instalado bajo alfombras o detrás de muebles delgados sin crear bultos ni estorbar el paso. Proporciona una conexión de internet potente para tu centro de entretenimiento, permitiéndote disfrutar de películas en 4K sin las molestas esperas por carga de video. Es discreto, sumamente efectivo y la forma más inteligente de cuidar la estética de tu hogar mientras lo conectas.",
+        "description_sale": "Cable de red discreto de alta velocidad; internet potente sin cables estorbosos a la vista."
+    },
+    "NUR5C04BU-C": {
+        "website_description": "Cable de red estándar confiable ideal para hogares que buscan una solución sencilla y económica para conectar sus primeras cámaras o computadoras a la red. Proporciona una señal de internet estable que evita caídas accidentales de conexión, asegurando que tus dispositivos inteligentes se mantengan siempre bien vigilados y comunicados. Es resistente, fácil de manipular y el aliado tecnológico que tu familia merece para una navegación segura.",
+        "description_sale": "Cable de red azul confiable; la base sencilla y segura para conectar tu hogar a internet."
+    },
+    "PUR6ASD04BU-CG": {
+        "website_description": "La cima de la potencia en cables de red Cat6A, diseñado para manejar los flujos de datos más pesados de internet de fibra óptica y video 8K sin esfuerzo. Su diseño de última generación blinda tus datos contra cualquier tipo de ruido eléctrico ambiental, brindándote una velocidad de navegación asombrosa y profesional. Es imponente, sumamente seguro y fabricado bajo los estándares de calidad más exigentes del mundo para tu total confort.",
+        "description_sale": "Cable de red Cat6A de ultra potencia; velocidad extrema y blindaje total para tu tecnología."
+    },
+    "PUR6ASD04WH-CG": {
+        "website_description": "Cable de red de ultra alta gama en color blanco, fabricado para infraestructuras tecnológicas que demandan una continuidad operativa y una rapidez de respuesta inigualable. Su tecnología de vanguardia asegura que tus videos de seguridad 4K se transmitan con total claridad, permitiéndote identificar detalles precisos en segundos desde tu smartphone. Es la inversión segura para quienes buscan blindar su historia digital con la mayor tecnología disponible.",
+        "description_sale": "Cable de red Cat6A blanco de lujo; máxima fidelidad y velocidad para tu seguridad y trabajo."
+    },
+    "PUR6C2204BU-CE": {
+        "website_description": "Cable de internet de alta capacidad diseñado para oficinas medianas que buscan una red veloz capaz de soportar múltiples videoconferencias simultáneas sin alentarse. Su construcción reforzada garantiza una larga vida útil incluso en instalaciones con mucho movimiento de personal, protegiendo tu inversión tecnológica por más tiempo. Es elegante, sumamente capaz y la opción preferida por corporativos para su centro de datos principal.",
+        "description_sale": "Cable de red azul de alta capacidad; internet industrial para oficinas productivas y veloces."
+    },
+    "PUR6C2204IG-CE": {
+        "website_description": "Unidad de red en acabado gris diseñada para ofrecer una estabilidad total en la transmisión de datos de tus sistemas de videovigilancia las 24 horas del día. Su gran capacidad de transferencia asegura que nunca pierdas un segundo de acción en tus grabaciones, protegiendo tu negocio ante cualquier incidente o reclamación externa. Es robusto, profesional y fabricado con los estándares más altos de confiabilidad industrial para tu tranquilidad.",
+        "description_sale": "Cable de red gris profesional; estabilidad y velocidad constante para tu sistema de vigilancia."
+    },
+    "PUP6XHD04WH-G": {
+        "website_description": "Cable de red de ultra alta velocidad con diseño estético blanco, ideal para hogares tecnológicos que no pueden permitirse quedar desconectados ni un segundo. Su gran capacidad permite alimentar desde el internet hasta sistemas de iluminación inteligente y cámaras 4K con una potencia asombrosa y segura en todo momento. Es inquebrantable, moderno y proporciona una imagen de orden y alta tecnología a toda tu instalación hogareña.",
+        "description_sale": "Cable de red blanco de alta gama; potencia máxima y diseño moderno para tu casa inteligente."
+    },
+    "PUR6AHD04GR-G": {
+        "website_description": "Cable de internet industrial de gran formato diseñado para montaje en racks y infraestructuras de red pesadas que exigen un rendimiento eléctrico impecable. Su forro especial previene daños por calor o interferencias cruzadas, asegurando que tu sistema de seguridad sea inquebrantable incluso bajo el uso más rudo y constante. Es la pieza de ingeniería definitiva para asegurar que la red de tu empresa trabaje siempre a la perfección.",
+        "description_sale": "Cable de red industrial verde; rendimiento extremo y protección total para grandes redes."
+    },
+    "PUR6AHD04VL-G": {
+        "website_description": "Cable de red industrial en color violeta, diseñado para ofrecer un rendimiento de ultra alta velocidad en infraestructuras digitales masivas. Su forro reforzado protege la señal contra interferencias externas, garantizando que tu internet y sistemas de seguridad operen con una fluidez impecable las 24 horas. Es la opción ideal para identificar visualmente redes de datos críticas en tu oficina o centro de mando.",
+        "description_sale": "Cable de red industrial violeta; velocidad extrema y protección total para redes de datos críticas."
+    },
+    "PUL6AHD04BU-EG": {
+        "website_description": "Lleva la conectividad de tu empresa al siguiente nivel con este cable de red azul de alta fidelidad, optimizado para transmitir video 4K sin interrupciones. Su fabricación premium asegura que no haya pérdida de potencia en tramos largos, permitiendo que tus cámaras y computadoras trabajen siempre a la máxima capacidad. Es robusto, confiable y fabricado bajo los estándares más exigentes de durabilidad.",
+        "description_sale": "Cable de red azul premium; internet potente y constante para video 4K y oficinas veloces."
+    },
+    "PUL6AHD04IG-EG": {
+        "website_description": "Cable de internet profesional en acabado gris, diseñado para integrarse estéticamente en cualquier entorno de trabajo mientras proporciona una conexión de red inigualable. Su tecnología avanzada reduce el eco digital, asegurando llamadas de voz claras y una navegación estable para tu familia o clientes. Es la herramienta de comunicación duradera y sencilla que toda oficina moderna necesita para su tranquilidad.",
+        "description_sale": "Cable de red gris profesional; comunicaciones claras y estabilidad digital para tu negocio."
+    },
+    "PUP6AS04IG-GZ": {
+        "website_description": "Cable de red blindado de ultra alta gama, fabricado para entornos con alta saturación de señales inalámbricas donde se requiere una privacidad digital absoluta. Su blindaje especial protege tus datos contra interferencias eléctricas, garantizando que tu vigilancia y trabajo en línea sean totalmente seguros. Es la inversión definitiva para quienes exigen la mayor fidelidad visual y seguridad en su red corporativa.",
+        "description_sale": "Cable de red blindado de alta gama; máxima privacidad e internet libre de interferencias."
+    },
+    "PUR6AV04BU-G": {
+        "website_description": "Cable de red de alto desempeño en color azul, ideal para centralizar la conectividad de internet y seguridad en edificios inteligentes de alto nivel. Su diseño facilita una transmisión de datos veloz y constante, permitiendo que todos tus sensores y luces inteligentes respondan al instante desde tu celular. Es sumamente confiable y garantiza que tu propiedad se mantenga siempre bien vigilada y comunicada.",
+        "description_sale": "Cable de red de alto desempeño; conexión instantánea y segura para tu hogar inteligente."
+    },
+    "PUR6AV04IG-G": {
+        "website_description": "Solución de conectividad profesional en color gris, fabricada para ofrecer una estabilidad total en la transmisión de datos de tus sistemas de videovigilancia. Su gran capacidad de transferencia asegura que nunca pierdas un segundo de acción en tus grabaciones, protegiendo tu negocio ante cualquier incidente sospechoso. Es robusto, fácil de instalar y garantiza un rendimiento digital impecable por muchos años.",
+        "description_sale": "Cable de red gris de alta estabilidad; video fluido las 24 horas y máxima potencia."
+    },
+    "PUR6AV04GR-G": {
+        "website_description": "Cable de red verde de alta fidelidad, diseñado para identificar servicios de domótica o equipos de bajo consumo en tu instalación tecnológica doméstica. Su construcción evita el calentamiento de los conectores, asegurando que tu tecnología trabaje siempre bien y libre de riesgos eléctricos. Es inquebrantable, moderno y proporciona una imagen de orden y frescura a toda tu infraestructura de red.",
+        "description_sale": "Cable de red verde eficiente; internet de alta velocidad con ahorro de energía."
+    },
+    "PUL6AV04WH-EG": {
+        "website_description": "Cable de red profesional en color blanco puro, diseñado para mimetizarse con muros claros mientras ofrece un internet de ultra alta velocidad en tu hogar. Su tecnología permite transmitir grandes volúmenes de datos sin errores, ideal para el trabajo creativo, diseño gráfico o streaming de películas en alta definición. Es sumamente confiable y la pieza fundamental para una red doméstica de alto desempeño estético.",
+        "description_sale": "Cable de red blanco de lujo; velocidad extrema y diseño impecable para tu casa."
+    },
+    "PUL6AHD04RD-EG": {
+        "website_description": "Cable de red en color rojo diseñado para señalizar conexiones de emergencia o equipos críticos de seguridad en tu infraestructura digital. Proporciona un flujo de datos veloz y constante, garantizando que tus alertas de seguridad lleguen siempre en milisegundos a tu smartphone. Es robusto, estético y la herramienta de organización ideal para quienes buscan un control absoluto de su red técnica.",
+        "description_sale": "Cable de red rojo para sistemas críticos; velocidad y organización visual para tu seguridad."
+  },
+    "PUR6C04BU-M": {
+        "website_description": "Cable de internet de alta capacidad en color azul, optimizado para evitar la pérdida de señal en tramos de cableado dentro de tu oficina o edificio. Garantiza que el internet llegue con la misma fuerza a cada rincón, permitiendo una navegación fluida y descargas rápidas en todos tus dispositivos. Es robusto, fácil de instalar y fabricado para durar años manteniendo un rendimiento digital impecable.",
+        "description_sale": "Cable de red azul de alta fidelidad; internet potente y constante en cada habitación de casa."
+    },
+    "PRO-CAT-6-PLUS-W/500-V2": {
+        "website_description": "Bobina de cable de red blanco de 500 metros, ideal para contratistas o dueños de casa que planean una instalación de seguridad masiva y profesional. Ofrece una nitidez de señal excepcional para cámaras 4K, asegurando que cada detalle capturado sea útil y fluido en tu sistema de grabación. Es económico por volumen, sumamente resistente y la base sólida para blindar digitalmente toda tu propiedad.",
+        "description_sale": "Bobina de cable blanco 500m; la solución masiva y económica para una red 4K impecable."
+    },
+    "PRO-CAT-6-PLUS/500-V2": {
+        "website_description": "Rollo industrial de cable de red de alta fidelidad, diseñado para cubrir las necesidades de conectividad más exigentes en grandes empresas o fraccionamientos. Su forro de alta resistencia protege los hilos internos, garantizando que tu internet y cámaras operen sin caídas de señal a pesar de la distancia. Es la inversión segura para quienes buscan una infraestructura tecnológica de nivel corporativo inquebrantable.",
+        "description_sale": "Bobina de cable de red profesional 500m; potencia inigualable para instalaciones de gran escala."
+    },
+    "EP-CAT-5E-R2": {
+        "website_description": "Cable de red estándar confiable ideal para hogares que buscan una solución sencilla y económica para conectar sus primeras cámaras o computadoras. Proporciona una señal de internet estable que evita caídas accidentales de conexión, asegurando que tus dispositivos inteligentes se mantengan siempre comunicados. Es resistente, fácil de manipular y el aliado tecnológico que tu familia merece para una navegación segura.",
+        "description_sale": "Cable de red confiable; la base sencilla y segura para conectar tu hogar a internet."
+    },
+    "EP-CAT-5E-V2-EXT": {
+        "website_description": "Cable de red para exteriores con forro reforzado, diseñado para llevar internet a tu patio o cochera sin gastar una fortuna en canalización pesada. Su diseño resiste la humedad y el sol, manteniendo tu cámara exterior siempre comunicada y lista para enviarte alertas al celular bajo cualquier clima. Es la opción práctica y rendidora para quienes buscan una protección perimetral efectiva con una inversión inteligente.",
+        "description_sale": "Cable de red exterior económico; lleva internet a tu jardín de forma segura y accesible."
+    },
+    "PRO-CAT-6-PLUS-V2": {
+        "website_description": "Cable de red de nueva generación que ofrece una velocidad de internet superior, permitiéndote disfrutar de juegos en línea y streaming sin molestos retrasos. Su tecnología avanzada minimiza la pérdida de señal, garantizando que tu sistema de cámaras 4K grabe con una claridad cinematográfica en todo momento. Es elegante, sumamente capaz y la guardiana perfecta para resguardar la fluidez digital de tu familia.",
+        "description_sale": "Cable de red de alta velocidad; internet veloz y video nítido para un hogar moderno."
+    },
+    "PRO-CAT-6-LITE-V2": {
+        "website_description": "Versión ligera del cable de red profesional, ideal para instalaciones residenciales que buscan calidad de marca líder a un precio muy accesible. A pesar de su diseño delgado, ofrece un internet veloz para tus pantallas inteligentes y sistemas de seguridad básicos sin complicaciones. Es fácil de ocultar detrás de muebles o zoclos, brindando una solución de conectividad limpia, discreta y muy funcional.",
+        "description_sale": "Cable de red Lite; calidad profesional y velocidad de internet a un precio inteligente."
+    },
+    "PRO-CAT-5E-W-V2": {
+        "website_description": "Cable de red blanco de alta calidad diseñado para pasar desapercibido en pasillos y oficinas mientras mantiene tus equipos siempre bien conectados. Su fabricación asegura una transmisión de datos limpia y sin ruidos eléctricos, protegiendo la armonía digital de tu hogar o pequeño negocio. Es sumamente flexible, duradero y la opción de confianza para empezar a profesionalizar tu red doméstica hoy mismo.",
+        "description_sale": "Cable de red blanco discreto; internet estable y diseño limpio para tu casa u oficina."
+    },
+    "PRO-CAT5-EXT-LITES": {
+        "website_description": "Cable de red exterior ultra ligero, perfecto para instalaciones rápidas en jardines o terrazas donde se requiere vigilar de forma temporal o económica. Su forro especial ofrece una protección básica contra el polvo y la lluvia ligera, asegurando que tu internet llegue a los rincones exteriores más alejados. Es sumamente fácil de manejar e instalar, brindando tranquilidad inmediata sin obras molestas ni cables pesados.",
+        "description_sale": "Cable de red exterior Lite; internet portátil y seguro para tus cámaras de patio."
+    },
+    "DS-1LN6-UE-WB": {
+        "website_description": "Cable de red Hikvision de alta ingeniería diseñado para trabajar en perfecta armonía con tus cámaras de seguridad y grabadoras profesionales. Ofrece una estabilidad de señal absoluta, eliminando ruidos en el video y asegurando que cada alerta de movimiento llegue instantáneamente a tu celular. Es robusto, confiable y la pieza maestra necesaria para un sistema de vigilancia inquebrantable en tu propia casa.",
+        "description_sale": "Cable de red Hikvision profesional; conexión impecable y segura para tu sistema de cámaras."
+    },
+    "U-CABLE-C6-CMP": {
+        "website_description": "Cable de red de alta seguridad diseñado para instalaciones dentro de techos de oficinas, con un forro que retarda el fuego para proteger tu negocio. Garantiza una conexión de internet de ultra alta velocidad, ideal para corporativos que manejan flujos de datos masivos y exigen cumplir con normas de seguridad estrictas. Es inquebrantable, profesional y fabricado para quienes no comprometen la seguridad ni el orden de su red.",
+        "description_sale": "Cable de red para techos de alta seguridad; internet veloz y protección contra incendios."
+    },
+    "U-CABLE-C6-CMR": {
+        "website_description": "Cable de internet de alta capacidad fabricado para ser instalado dentro de muros y conductos verticales de edificios, manteniendo una señal potente en cada piso. Su diseño previene que las llamas se propaguen por el cableado en caso de incidentes, brindando una capa extra de protección física a tu propiedad. Es elegante, sumamente capaz y la opción de confianza para infraestructuras de red comerciales y residenciales.",
+        "description_sale": "Cable de red para muros; conexión potente y segura para instalaciones entre habitaciones."
+    },
+    "PRO-CAT-6-PLUS/100M": {
+        "website_description": "Práctico rollo de cable de red de 100 metros, ideal para renovar el internet de tu casa o instalar un sistema de 4 cámaras sin desperdiciar material. Ofrece una velocidad asombrosa que te permite ver tus cámaras en tiempo real desde cualquier lugar del mundo sin interrupciones ni pausas. Es sumamente duradero, fácil de cortar a la medida y la solución perfecta para proyectos tecnológicos domésticos medianos.",
+        "description_sale": "Rollo de cable de red 100m; la medida perfecta para conectar tu hogar con alta velocidad."
+    },
+    "PRO-CAT-6-GELX-V2": {
+        "website_description": "El cable de red definitivo para exteriores extremos: incluye un relleno de gel especial que impide totalmente la entrada de humedad a los hilos internos. Es la solución perfecta para enterrar directamente en el jardín o para fachadas expuestas a lluvias torrenciales y humedad constante en la zona. Su tecnología garantiza una conexión de internet eterna y segura, protegiendo tu vigilancia bajo cualquier tormenta.",
+        "description_sale": "Cable de red con relleno de gel; máxima protección contra humedad para cámaras de exterior."
+    },
+    "CB-US3B": {
+        "website_description": "Switch de red inteligente de alta velocidad que te permite conectar múltiples dispositivos Wi-Fi y cámaras con una facilidad asombrosa desde un solo punto. Su tecnología prioriza el video en alta definición, asegurando que tus grabaciones se vean fluidas y sin retrasos en tu monitor o smartphone. Es compacto, moderno y la pieza de red confiable necesaria para que tu sistema de seguridad nunca pierda la conexión.",
+        "description_sale": "Switch de red veloz; conecta tus cámaras y dispositivos con total estabilidad y orden."
+    },
+    "EP1314072X100": {
+        "website_description": "Paquete de conectores de alta fidelidad diseñados para asegurar una unión perfecta entre tus cables de red y tus equipos de seguridad inteligentes. Evitan falsos contactos que podrían causar parpadeos en el video o fallas en tu internet, brindándote una estabilidad tecnológica total en cada rincón de casa. Son resistentes, fáciles de colocar y proporcionan la seguridad técnica que tu hogar moderno requiere para funcionar bien.",
+        "description_sale": "Paquete de conectores de red premium; asegura conexiones firmes y video sin parpadeos."
+    },
+    "LPCB11-X": {
+        "website_description": "Caja de montaje reforzada para cámaras tipo bala, diseñada para facilitar la instalación en cualquier muro mientras oculta profesionalmente todo el cableado eléctrico. Protege las conexiones contra el polvo ambiental y la lluvia, asegurando que tu sistema de vigilancia trabaje siempre bien bajo el sol o climas difíciles. Es robusta, de fácil mantenimiento y brinda una terminación segura y muy limpia a toda tu red.",
+        "description_sale": "Base de montaje para cámaras; organiza tu cableado y protege tu seguridad con firmeza."
+    },
+    "NC-1LN6UU/CCA/M": {
+        "website_description": "Cable de red estándar de alto rendimiento diseñado para conectar tus computadoras y módems con una nitidez de señal sorprendente a un gran precio. Su diseño optimiza la transferencia de datos básicos, garantizando una navegación fluida para tareas escolares o trabajo de oficina diario en tu hogar. Es ligero, fácil de manipular y el aliado tecnológico que necesitas para mantener tu casa bien conectada y productiva.",
+        "description_sale": "Cable de red económico; conexión estable y rápida para tu navegación diaria en casa."
+    },
+    "UACC-RJ45-COVER": {
+        "website_description": "Protector estético diseñado para sellar y cuidar tus conectores de red contra el polvo y la humedad cuando no están en uso. Su diseño previene la corrosión de las terminales metálicas, garantizando que tu internet siempre tenga una conexión perfecta cuando decidas conectar un nuevo dispositivo. Es el accesorio de detalle necesario para que tu instalación de red luzca profesional, cuidada y sea duradera.",
+        "description_sale": "Tapón protector para conectores de red; evita el polvo y asegura conexiones impecables."
+    },
+    "HS2TCHPRO": {
+        "website_description": "Elegante teclado táctil para tu sistema de alarma que te permite controlar la seguridad de tu hogar de forma tan sencilla como usar tu celular. Su pantalla moderna te informa visualmente sobre el estado de cada puerta y ventana, facilitando el armado de tu sistema antes de dormir o salir de viaje. Es discreto, sumamente estético y la herramienta de control más intuitiva y cómoda para tu familia hoy en día.",
+        "description_sale": "Teclado táctil de seguridad; controla tu alarma con total sencillez y diseño moderno."
+    },
+    "UACC-KEYSTONE-BLANK-INSERT-TH": {
+        "website_description": "Tapa protectora estética para placas de red, diseñada para ocultar los espacios vacíos en tus muros y dar un acabado impecable a tu oficina o sala. Evita la entrada de polvo y bichos a las tuberías eléctricas, protegiendo la integridad de tu cableado interno de forma invisible. Es muy fácil de instalar a presión y es el detalle final necesario para que tu casa inteligente luzca de primer nivel.",
+        "description_sale": "Tapa ciega para placas de red; acabado profesional y limpio para tus contactos de muro."
+    },
+    "UACC-KEYSTONE-BLANK-INSERT": {
+        "website_description": "Accesorio organizador universal para paneles de red, ideal para mantener el orden en tu rack de seguridad ocultando las bahías que no están en uso. Su material de alta resistencia garantiza una terminación estética que realza la imagen de profesionalismo de tu centro tecnológico o estudio. Es la solución práctica y económica para quienes buscan orden y limpieza visual en su infraestructura digital doméstica.",
+        "description_sale": "Inserto para panel de red; organiza tu rack y brinda un acabado estético impecable."
+    },
+    "UACC-KEYSTONE-COUPLER-C6": {
+        "website_description": "Adaptador de unión de alta velocidad que te permite conectar dos cables de red de forma sencilla para extender el alcance de tu internet sin perder potencia. Es ideal para llevar la conexión a habitaciones alejadas o cámaras de jardín sin tener que tirar cableado nuevo desde el módem principal. Su construcción asegura que la señal viaje con total fluidez, manteniendo tu red rápida, segura y bien comunicada.",
+        "description_sale": "Unión para cables de red; extiende tu internet fácilmente y con máxima velocidad."
+    },
+    "UACC-KEYSTONE-COUPLER-C6A": {
+        "website_description": "Acoplador de red de ultra alta gama diseñado para sistemas que demandan el internet más rápido posible, como el video en 4K y 8K sin retrasos. Su tecnología avanzada previene cualquier tipo de interferencia eléctrica en la unión, garantizando una conexión de élite para tus consolas y equipos profesionales. Es imponente, sumamente seguro y la pieza técnica necesaria para una infraestructura digital inquebrantable.",
+        "description_sale": "Unión de red Cat6A; máxima fidelidad y velocidad extrema para tu tecnología avanzada."
+    },
+    "UACC-KEYSTONE-JACK-C6": {
+        "website_description": "Conector de red para muro de alta fidelidad, diseñado para que conectes tus equipos de internet con la máxima firmeza y velocidad garantizada. Su diseño facilita que los cables queden perfectamente ponchados en su interior, evitando desconexiones accidentales que podrían interrumpir tu trabajo o seguridad. Es la base técnica invisible para que los contactos de red de tu casa funcionen siempre a la perfección.",
+        "description_sale": "Contacto de red profesional; asegura un internet veloz y conexiones firmes en tus muros."
+    },
+    "UACC-KEYSTONE-JACK-C6A": {
+        "website_description": "El conector de red definitivo para infraestructuras de ultra velocidad, capaz de manejar los flujos de datos más pesados de internet corporativo sin esfuerzo. Su blindaje interno protege tus datos contra cualquier ruido eléctrico ambiental, brindándote una navegación asombrosa y totalmente privada. Es la inversión de seguridad digital necesaria para quienes buscan blindar su historia digital con la mayor tecnología disponible.",
+        "description_sale": "Contacto de red Cat6A; máxima velocidad y blindaje total para tu tecnología de élite."
+    },
+    "CPS1215RMS": {
+        "website_description": "Unidad de distribución de energía para rack que te permite conectar hasta 10 equipos de red y seguridad de forma organizada en un solo lugar. Incluye una protección contra sobrecargas masivas, actuando como un escudo que evita que tus costosos grabadores y switches se quemen ante fallas de luz. Es la pieza de infraestructura básica para mantener el orden eléctrico y la seguridad de tu centro tecnológico doméstico.",
+        "description_sale": "Barra de energía para rack; organiza tus conexiones y protege tu tecnología contra descargas."
+    },
+    "P36B22M": {
+        "website_description": "Barra de energía industrial de gran formato diseñada para alimentar racks masivos con una estabilidad eléctrica inigualable durante turnos de 24 horas. Su construcción reforzada soporta el uso rudo y su gran número de tomas permite centralizar toda la potencia de tu empresa en un solo punto seguro. Es la garantía de que tus sistemas motorizados y de red siempre responderán al instante con energía pura.",
+        "description_sale": "Unidad de energía industrial masiva; potencia extrema para grandes redes de seguridad."
+    },
+    "P22B05M": {
+        "website_description": "Distribuidor de energía compacto ideal para gabinetes de pared, diseñado para proporcionar una alimentación estable a tus módems y pequeños grabadores de video. Su diseño eficiente ahorra espacio y evita enredos de cables, manteniendo tu instalación eléctrica limpia, fresca y profesional en todo momento. Es sumamente confiable y la solución equilibrada para proteger una pequeña oficina o despacho residencial.",
+        "description_sale": "Barra de energía compacta; orden eléctrico y protección estable para tus equipos pequeños."
+    },
+    "P22B09M": {
+        "website_description": "Poderosa unidad de carga con múltiples tomas de corriente, perfecta para hogares tecnológicos que manejan una gran cantidad de dispositivos de entretenimiento y red. Su tecnología estabiliza el voltaje ante cambios bruscos, garantizando que tus consolas y pantallas inteligentes no sufran daños internos por estrés eléctrico. Es inquebrantable, moderna y proporciona una imagen de seguridad y control absoluto sobre tu patrimonio.",
+        "description_sale": "Barra de energía de alto desempeño; potencia y blindaje eléctrico para toda tu tecnología."
+    },
+    "P20B16M": {
+        "website_description": "Barra de distribución eléctrica profesional diseñada para montaje vertical en racks, optimizando el espacio lateral para un manejo de cables impecable y muy limpio. Permite alimentar una red completa de cámaras y servidores con una nitidez eléctrica que previene ruidos en el video y fallas de internet. Es robusta, fácil de fijar y el accesorio necesario para que tu sistema de vigilancia comercial luzca de primer nivel.",
+        "description_sale": "Barra de energía vertical; máxima organización y potencia constante para tus redes grandes."
+    },
+    "P42B17M": {
+        "website_description": "La cima de la potencia eléctrica en unidades de distribución: una barra monumental capaz de energizar infraestructuras tecnológicas completas de gran escala. Su diseño industrial disipa el calor de forma excelente, permitiendo que tu sistema trabaje al máximo rendimiento sin riesgo de apagones accidentales. Es imponente, sumamente segura y fabricada para corporativos que buscan blindar su centro de datos con tecnología de élite.",
+        "description_sale": "Super barra de energía industrial; máxima potencia y estabilidad para infraestructuras masivas."
+    },
+    "PDU30BVHVT20F": {
+        "website_description": "Unidad de gestión de energía inteligente que te permite monitorear el consumo eléctrico de tus sistemas críticos para evitar sobrecargas peligrosas en tu red. Su tecnología de vanguardia limpia la energía de ruidos y picos, entregando una corriente pura que extiende la vida de toda tu tecnología conectada las 24 horas. Es la herramienta definitiva para una administración de energía moderna, eficiente y totalmente segura en tu negocio.",
+        "description_sale": "PDU inteligente con monitoreo; máxima eficiencia y protección para tus equipos de red caros."
+    },
+    "DP1N481815": {
+        "website_description": "Módulo de protección eléctrica especializado para equipos de comunicación de alta velocidad, diseñado para proporcionar una corriente pura que no interfiera con tus datos. Su construcción de alta calidad asegura una conexión firme y segura, evitando desconexiones accidentales que podrían interrumpir tu internet o vigilancia. Es la fuente de energía técnica y confiable necesaria para mantener tu hogar inteligente siempre bien comunicado.",
+        "description_sale": "Protector de energía para datos; garantiza conexiones firmes y navegación sin ruidos eléctricos."
+    },
+    "CPS1220RMS": {
+        "website_description": "Unidad de distribución de energía reforzada con alta capacidad de amperaje, fabricada para alimentar los equipos de red más pesados y voluminosos del mercado. Su diseño para rack profesional facilita la supervisión eléctrica masiva de tu empresa, manteniendo todo el cableado oculto, ordenado y bajo control total. Es robusto, altamente eficiente y la pieza de ingeniería definitiva para asegurar que la seguridad de tu empresa sea inquebrantable.",
+        "description_sale": "Barra de energía de alta capacidad; máxima estabilidad y potencia para tus sistemas masivos."
+    },
+    "U-CABLE-PATCH-3M-RJ45-BK": {
+        "website_description": "Cable de conexión directa de 3 metros en elegante color negro, ideal para enlazar tu computadora o consola al módem con una velocidad de internet asombrosa. Su diseño flexible y conectores reforzados evitan que se rompa con el uso diario, garantizando que tus partidas de juego o videoconferencias nunca sufran de lag o desconexiones. Es el accesorio de alta gama necesario para disfrutar de la máxima potencia de tu internet en casa.",
+        "description_sale": "Cable de red negro de 3m; internet veloz y conexión firme para tu consola o computadora."
+    },
     "AR4PWH": {
         "website_description": "Este rack de cuatro postes en acabado blanco es ideal para quienes buscan una estética limpia y moderna en sus cuartos de sistemas u oficinas. Ofrece una estabilidad superior para equipos pesados de red, permitiendo una instalación rápida y un manejo de cables impecable que evita enredos. Es robusto, elegante y garantiza que tu tecnología esté siempre bien organizada y a la vista para su mantenimiento.",
         "description_sale": "Rack de 4 postes blanco; estabilidad máxima y diseño elegante para tus equipos de red."
@@ -12490,5 +12866,9 @@
     "SYSNGV2-KIT": {
         "website_description": "Paquete de inicio confiable y potente para la automatización de la seguridad en bardas, ofreciendo una instalación limpia y resultados inmediatos. Su diseño eficiente garantiza que tu sistema de protección siempre cuente con la fuerza necesaria para repeler intrusos, manteniendo un bajo consumo de energía. Es la opción equilibrada entre precio y potencia, ideal para asegurar casas residenciales y pequeños negocios hoy mismo.",
         "description_sale": "Kit de cerco eléctrico eficiente; protección potente y económica para tu seguridad diaria."
+    },
+    "DS-1LN6UZC0B": {
+        "website_description": "Cable de red de alto rendimiento diseñado para ofrecer una conexión de internet ultra rápida y estable en cada rincón de tu hogar o pequeña oficina. Su fabricación de alta calidad garantiza que tus cámaras de seguridad y dispositivos inteligentes funcionen sin interrupciones, permitiendo transmisiones de video fluidas y descargas inmediatas. Es la solución ideal para quienes buscan una red digital moderna, robusta y libre de molestos retrasos.",
+        "description_sale": "Cable de red de alta velocidad; garantiza un internet estable y video fluido para tu hogar inteligente."
     }
 }

@@ -1490,9 +1490,6 @@
     "PUO6C2204BL-GZ": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUO6C2204BL-GZ-PANDUIT-246830.html"
     },
-    "DS-1LN6UZCOB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-1LN6UZC0B-HIKVISION-248326.html"
-    },
     "DS-1LN6OUTPE": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-1LN6OUTPE-HIKVISION-228969.html"
     },
@@ -8998,6 +8995,288 @@
     },
     "X126G": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X126G-EPCOM-INDUSTRIAL-SIGNALING-207209.html"
+    },
+    "HSM2HOST9": {
+    "technical_specification": "https://www.productos-info.com/product/7c8adf3a-e8bc-411e-a364-2362ab1d77a6"
+    },
+    "DS-PWA48-SYSNG": {
+        "technical_specification": "https://www.productos-info.com/product/e96ad619-c75e-4557-9bcc-d94bfed99162"
+    },
+    "DS-PWA48K-SYSNGV2": {
+        "technical_specification": "https://www.productos-info.com/product/38a488ba-46fd-4dc6-881d-325e05e5f3ac"
+    },
+    "DS-PDMC-EG2-WB(B)/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/b080fa5c-b20e-4712-9e70-9be098c31ee5"
+    },
+    "DS-PDMCS-EG2-WB(B)/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/a1c3aec2-cbe8-4f6c-af92-7692098343a4"
+    },
+    "DS-PDC15-EG2-WB/UB": {
+        "technical_specification": "https://www.productos-info.com/product/f758c7d9-f085-4908-a297-0633c08ec09b"
+    },
+    "DS-PDP15P-EG2-WB(B)/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/7aeffed9-343e-4a25-a11e-14a8e62deb37"
+    },
+    "DS-PDP15P-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/f763912d-7070-4a66-815d-8b8bc4fdd582"
+    },
+    "DS-PDD12P-EG2-WB/UB": {
+        "technical_specification": "https://www.productos-info.com/product/1e23551a-2b46-4838-b2f9-e358ffd7ffee"
+    },
+    "DS-PD451SMK-WB/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/8fe583a1-f147-4053-a35c-70b55a212a9e"
+    },
+    "DS-PDMCK-EG2-WB": {
+        "technical_specification": "https://www.productos-info.com/product/28becea1-d438-4f40-bda5-6336378f47be"
+    },
+    "DS-PWA48-M-WB/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/102b765f-17e0-4a5c-96c5-29bfbafa2f3f"
+    },
+    "DS-PWA48-E-WB/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/a05aae32-66b5-4653-b5f3-3801fb19c7ba"
+    },
+    "DS-PWA96-M-WB/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/d58d2154-274e-4101-85d7-733edc5e308f"
+    },
+    "DS-PWA96-M-WB": {
+        "technical_specification": "https://www.productos-info.com/product/9af79f22-9848-42b6-ab98-fe3a7f828cc3"
+    },
+    "DS-PS1-I-WB(B)/BLACK": {
+        "technical_specification": "https://www.productos-info.com/product/20fb760a-19a5-47c4-8a18-59cde0639c9c"
+    },
+    "DS-PWA48-KS-EX": {
+        "technical_specification": "https://www.productos-info.com/product/74b6728a-fee6-48f2-9dcf-9b9f469fa06b"
+    },
+    "PRO-CAT-6-EXT-LITE-V2": {
+        "technical_specification": "https://www.productos-info.com/product/143f033b-4592-4494-a0ef-4f0629b5ec16"
+    },
+    "PRO-CAT-6-EXT-LITES-V2": {
+        "technical_specification": "https://www.productos-info.com/product/4841151b-bc4a-496d-91f6-a9ff29707df8"
+    },
+    "PFL6X04YL-CEG": {
+        "technical_specification": "https://www.productos-info.com/product/0e3f5a09-f9f2-42b9-81df-5b3837106365"
+    },
+    "PFL6X04IG-CEG": {
+        "technical_specification": "https://www.productos-info.com/product/6e567d20-1325-45a5-80af-406e51ed31b1"
+    },
+    "9A6O4-A5-01AR1A": {
+        "technical_specification": "https://www.productos-info.com/product/30682671-e545-4eec-8fa1-97dc71d61fd4"
+    },
+    "PRO-CAT6A-R": {
+        "technical_specification": "https://www.productos-info.com/product/b8304fd6-09cf-4c7d-a0f6-ed18f369f9c3"
+    },
+    "9C6R4-A5-06-AR1A": {
+        "technical_specification": "https://www.productos-info.com/product/8b79348c-d797-4a81-b72b-8146ea8fcc13"
+    },
+    "DS-1LN5E-SW": {
+        "technical_specification": "https://www.productos-info.com/product/3c04b803-1ecc-401d-8117-feef95d95ae3"
+    },
+    "PUD6C2804WH-CE": {
+        "technical_specification": "https://www.productos-info.com/product/3486e4b7-f493-47c6-9e9d-e1a0ad996f5a"
+    },
+    "PUD6C2804IG-CE": {
+        "technical_specification": "https://www.productos-info.com/product/b87ec00e-1888-4afb-accb-1aee52c21b37"
+    },
+    "NUC6C04IG-FE": {
+        "technical_specification": "https://www.productos-info.com/product/82cf3b15-beb9-4bbd-b72b-ea5e4833dd66"
+    },
+    "PUC6C04BU-FE": {
+        "technical_specification": "https://www.productos-info.com/product/6f62ade6-4aba-4b95-a16d-050849f940c9"
+    },
+    "PUC6004YL-FE": {
+        "technical_specification": "https://www.productos-info.com/product/f138bcf4-30c4-490b-9984-ce174509d8ef"
+    },
+    "PUP6C04BU-WN": {
+        "technical_specification": "https://www.productos-info.com/product/c2eef2de-48c1-4366-ab7d-a60262773c94"
+    },
+    "PUC6004RD-FE": {
+        "technical_specification": "https://www.productos-info.com/product/475ea8bc-66f1-4928-b85e-9f5b92ab8651"
+    },
+    "PUR6004RD-ME": {
+        "technical_specification": "https://www.productos-info.com/product/7372f2ce-9642-486e-b714-2bfc82fc0401"
+    },
+    "PUC6004GR-ME": {
+        "technical_specification": "https://www.productos-info.com/product/458df8a2-0408-4850-9df4-f4a40bdee21e"
+    },
+    "PRO-CAT-5-EXT-LITE-DJ": {
+        "technical_specification": "https://www.productos-info.com/product/fec2f81c-dfa4-4809-808b-c0b3cc7fab9f"
+    },
+    "PUP6C04WH-W": {
+        "technical_specification": "https://www.productos-info.com/product/37076227-854f-4307-ab7f-7919116a64ec"
+    },
+    "PUR6004BU-FE": {
+        "technical_specification": "https://www.productos-info.com/product/513bfcc7-ffdc-47da-aaa2-dd0f2895010c"
+    },
+    "PUR6004IG-W": {
+        "technical_specification": "https://www.productos-info.com/product/be8e8743-0bd0-41e6-b8f1-b2c8496fb683"
+    },
+    "PUC6004OR-FE": {
+        "technical_specification": "https://www.productos-info.com/product/93b2443a-db9e-47a2-bea8-1558dff2bf11"
+    },
+    "PUC6004GR-FE": {
+        "technical_specification": "https://www.productos-info.com/product/89f2cebd-af98-4c09-820c-eadb394f7604"
+    },
+    "9C6R4-E3-RXA": {
+        "technical_specification": "https://www.productos-info.com/product/7553d162-f3ea-4010-ad89-0c6ba7a258d6"
+    },
+    "9C6L4-E2-04-RXA": {
+        "technical_specification": "https://www.productos-info.com/product/84c17437-739a-4b44-ac9c-03ff47219eb7"
+    },
+    "NUR5C04BU-C": {
+        "technical_specification": "https://www.productos-info.com/product/ae37a5c3-45c1-4edc-9512-063f4611ad6e"
+    },
+    "PUR6ASD04BU-CG": {
+        "technical_specification": "https://www.productos-info.com/product/25c38585-dd75-46e4-95fa-f3128167eeb7"
+    },
+    "PUR6ASD04WH-CG": {
+        "technical_specification": "https://www.productos-info.com/product/fac89391-4d89-4748-bb1a-7c5d1d8c2572"
+    },
+    "PUR6C2204BU-CE": {
+        "technical_specification": "https://www.productos-info.com/product/306d8e84-83b1-4c04-ba73-8930b6cc5835"
+    },
+    "PUR6C2204IG-CE": {
+        "technical_specification": "https://www.productos-info.com/product/b40536a1-1b5c-4c0d-bdcb-2cdb3549cca8"
+    },
+    "PUP6XHD04WH-G": {
+        "technical_specification": "https://www.productos-info.com/product/fe45a483-3110-4813-bc94-379f391923a5"
+    },
+    "PUR6AHD04GR-G": {
+        "technical_specification": "https://www.productos-info.com/product/5c80d52a-8614-4dbf-b7a3-31c8a6d86768"
+    },
+    "PUR6AHD04VL-G": {
+        "technical_specification": "https://www.productos-info.com/product/1228e727-586f-45a0-86a6-24840fb854da"
+    },
+    "PUL6AHD04BU-EG": {
+        "technical_specification": "https://www.productos-info.com/product/12a08ac2-e206-4c92-9b03-d788b4013b84"
+    },
+    "PUL6AHD04IG-EG": {
+        "technical_specification": "https://www.productos-info.com/product/629d704d-db23-4fa7-bf35-128925b3566f"
+    },
+    "PUP6AS04IG-GZ": {
+        "technical_specification": "https://www.productos-info.com/product/634c423b-0353-47fb-9daf-09d48cfddaff"
+    },
+    "PUR6AV04BU-G": {
+        "technical_specification": "https://www.productos-info.com/product/7ed5d8ee-f6e2-43ab-acf9-bc8f65e62ab5"
+    },
+    "PUR6AV04IG-G": {
+        "technical_specification": "https://www.productos-info.com/product/190f3339-1b2e-4791-a141-02da7be7aff3"
+    },
+    "PUR6AV04GR-G": {
+        "technical_specification": "https://www.productos-info.com/product/bceca286-28b0-47bc-b636-0c1a5b6c3d33"
+    },
+    "PUL6AV04WH-EG": {
+        "technical_specification": "https://www.productos-info.com/product/a2edc520-a0d9-4a4a-a49b-28663aa80863"
+    },
+    "PUL6AHD04RD-EG": {
+        "technical_specification": "https://www.productos-info.com/product/12193232-edd1-4217-a0ed-cd60629bdf02"
+    },
+    "PUR6C04BU-M": {
+        "technical_specification": "https://www.productos-info.com/product/12526828-fd07-4d4b-a29b-8dc75edde880"
+    },
+    "PRO-CAT-6-PLUS-W/500-V2": {
+        "technical_specification": "https://www.productos-info.com/product/928b9dc7-4397-42b7-84f0-96721a52c9ef"
+    },
+    "PRO-CAT-6-PLUS/500-V2": {
+        "technical_specification": "https://www.productos-info.com/product/656d55b9-cba7-4938-9c89-e4804f5ce565"
+    },
+    "EP-CAT-5E-R2": {
+        "technical_specification": "https://www.productos-info.com/product/6faaf40f-45ec-41c4-9e61-c13b442cc161"
+    },
+    "EP-CAT-5E-V2-EXT": {
+        "technical_specification": "https://www.productos-info.com/product/d9d7dc16-9140-4041-9c51-c7eb6573b10d"
+    },
+    "PRO-CAT-6-PLUS-V2": {
+        "technical_specification": "https://www.productos-info.com/product/d647b0f5-7afe-496b-9979-5149bce561bd"
+    },
+    "PRO-CAT-6-LITE-V2": {
+        "technical_specification": "https://www.productos-info.com/product/b5baffbf-a9f0-4836-bbfd-f5b31a98e157"
+    },
+    "PRO-CAT-5E-W-V2": {
+        "technical_specification": "https://www.productos-info.com/product/4881e355-ecb9-4d3d-a767-b5560fe182a9"
+    },
+    "PRO-CAT5-EXT-LITES": {
+        "technical_specification": "https://www.productos-info.com/product/04e513ba-5a4f-439b-83ee-105e139f6bf4"
+    },
+    "DS-1LN6-UE-WB": {
+        "technical_specification": "https://www.productos-info.com/product/16570a39-5cc4-498a-ae50-fd897fb9336c"
+    },
+    "DS-1LN6UZC0B": {
+        "technical_specification": "https://www.productos-info.com/product/e5568599-2ae6-4e92-b5bb-9afe8eec2b15"
+    },
+    "U-CABLE-C6-CMP": {
+        "technical_specification": "https://www.productos-info.com/product/6059f29f-3b0d-468b-a1be-c870cf96ac07"
+    },
+    "U-CABLE-C6-CMR": {
+        "technical_specification": "https://www.productos-info.com/product/e5bbf28c-ea0d-484d-b1ea-fa03e7cc5682"
+    },
+    "PRO-CAT-6-PLUS/100M": {
+        "technical_specification": "https://www.productos-info.com/product/3b83a44c-e293-4f22-9c3b-a2e27a4770b6"
+    },
+    "PRO-CAT-6-GELX-V2": {
+        "technical_specification": "https://www.productos-info.com/product/386623d0-5fc4-40ea-b7f6-97259f56b7b6"
+    },
+    "CB-US3B": {
+        "technical_specification": "https://www.productos-info.com/product/7c903b69-a48a-4028-a68d-8db2f08b6650"
+    },
+    "EP1314072X100": {
+        "technical_specification": "https://www.productos-info.com/product/7db329fb-d5f7-4109-a9ce-61688fcd47c2"
+    },
+    "LPCB11-X": {
+        "technical_specification": "https://www.productos-info.com/product/c9dd9705-f74d-4de0-bffb-ef3d820ebacf"
+    },
+    "NC-1LN6UU/CCA/M": {
+        "technical_specification": "https://www.productos-info.com/product/59beb2ab-9d49-4371-afce-fffeaf2db5a1"
+    },
+    "UACC-RJ45-COVER": {
+        "technical_specification": "https://www.productos-info.com/product/2edc5fbd-8a1d-4e01-8815-427dc5e28707"
+    },
+    "UACC-KEYSTONE-BLANK-INSERT-TH": {
+        "technical_specification": "https://www.productos-info.com/product/00b3e935-ab5f-48c9-b0a0-5132b3cbe48b"
+    },
+    "UACC-KEYSTONE-BLANK-INSERT": {
+        "technical_specification": "https://www.productos-info.com/product/08e30f22-646b-422d-b4aa-e5ce33486b02"
+    },
+    "UACC-KEYSTONE-COUPLER-C6": {
+        "technical_specification": "https://www.productos-info.com/product/42144c08-1a03-4a38-9e2b-49b3c7e9d027"
+    },
+    "UACC-KEYSTONE-COUPLER-C6A": {
+        "technical_specification": "https://www.productos-info.com/product/221b81e0-2c5f-4adb-afa9-990964980990"
+    },
+    "UACC-KEYSTONE-JACK-C6": {
+        "technical_specification": "https://www.productos-info.com/product/7c6138de-ab79-4778-b001-4f3aa3ed4c62"
+    },
+    "UACC-KEYSTONE-JACK-C6A": {
+        "technical_specification": "https://www.productos-info.com/product/f532eccc-6ed5-4ebc-9d6a-7077313a2648"
+    },
+    "CPS1215RMS": {
+        "technical_specification": "https://www.productos-info.com/product/a5ca7845-9bd4-4dde-b48d-f0532d2394e8"
+    },
+    "P36B22M": {
+        "technical_specification": "https://www.productos-info.com/product/acae9b06-8b3b-4250-ba54-ea83c6e203e9"
+    },
+    "P22B05M": {
+        "technical_specification": "https://www.productos-info.com/product/eb537823-d5aa-4366-8c2b-1fcf0a96b746"
+    },
+    "P22B09M": {
+        "technical_specification": "https://www.productos-info.com/product/ecef2713-3c85-40c1-af72-17ff83a6fcf3"
+    },
+    "P20B16M": {
+        "technical_specification": "https://www.productos-info.com/product/8f66ab27-5f28-4ea8-9c0a-8ddec371c202"
+    },
+    "P42B17M": {
+        "technical_specification": "https://www.productos-info.com/product/80d6156a-3d00-416a-a9f2-0caa286aa1be"
+    },
+    "PDU30BVHVT20F": {
+        "technical_specification": "https://www.productos-info.com/product/f436f202-a44c-4ade-a52c-e8f496839f5c"
+    },
+    "DP1N481815": {
+        "technical_specification": "https://www.productos-info.com/product/b41739fc-62d6-4783-957e-2549507a3a70"
+    },
+    "CPS1220RMS": {
+        "technical_specification": "https://www.productos-info.com/product/2c973d02-c9be-4aff-b9e3-6cae640b37da"
+    },
+    "U-CABLE-PATCH-3M-RJ45-BK": {
+        "technical_specification": "https://www.productos-info.com/product/60ac7b31-ea5e-4f0f-922c-0434d6cbc6ef"
     },
     "HEC3-24WR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HEC3-24WR-HOCHIKI-37510.html"
