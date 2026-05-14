@@ -44,9 +44,6 @@
     "DS-PDMCS-EG2-WB(B)": {
         "technical_specification": "https://www.productos-info.com/product/5a6c9be7-97b4-4e53-910a-af0a7e6d9f21"
     },
-    "DS-PDMCX-E-WB": {
-        "technical_specification": "https://www.productos-info.com/product/db337398-a457-4e22-a1e8-a705a32e2d11"
-    },
     "DS-PKF1-WB(B)": {
         "technical_specification": "https://www.productos-info.com/product/9f93f8ad-3a71-4c39-9c65-9a159e3b6a6d"
     },
@@ -59,17 +56,11 @@
     "DS-PDP18-HM-WB": {
         "technical_specification": "https://www.productos-info.com/product/17af9529-ce0e-4b16-9b28-fbb81839f540"
     },
-    "DS-PDC15-EG2-WB(B)": {
-        "technical_specification": "https://www.productos-info.com/product/b862d454-4c67-4e26-b08f-364c92ac64f9"
-    },
     "DS-PDP15P-EG2-WB(B)": {
         "technical_specification": "https://www.productos-info.com/product/029abe8c-502c-496b-9d19-95297759f68a"
     },
     "DS-PDSMK-E-WB": {
         "technical_specification": "https://www.productos-info.com/product/6e8c7a9f-e7c9-4dec-9d21-8dc11e731a60"
-    },
-    "DS-PDMCK-EG2-WB(B)": {
-        "technical_specification": "https://www.productos-info.com/product/dea90873-b5bf-4b36-9c68-aa3c7b361e80"
     },
     "DS-PDHT-E-WB": {
         "technical_specification": "https://www.productos-info.com/product/503be429-62ee-4de3-9a2b-35f47dee0eef"
@@ -146,20 +137,11 @@
     "DS-2CD1023G2-LIU": {
         "technical_specification": "https://www.productos-info.com/product/10a5befd-9f1a-404b-a55a-ae81ab3252a2"
     },
-    "DS-2CV1023G2-LIDWF(B)": {
-        "technical_specification": "https://www.productos-info.com/product/680660d6-5a2a-4175-ad55-61818eeb38d1"
-    },
     "THC-B120-MC": {
         "technical_specification": "https://www.productos-info.com/product/5c9ef767-0220-449b-a30d-a9a7076375d2"
     },
-    "CR123A": {
-        "technical_specification": "https://www.productos-info.com/product/2580e2ae-8fa8-478f-86ee-bda3554b0164"
-    },
     "CR2025PM": {
         "technical_specification": "https://www.productos-info.com/product/86cb7a90-1601-4633-b924-b327c441272a"
-    },
-    "CR2450PL/5B": {
-        "technical_specification": "https://www.productos-info.com/product/3811b5bc-4a36-4a24-994f-4278ac2579b5"
     },
     "CR2032PM": {
         "technical_specification": "https://www.productos-info.com/product/b3a5c76b-5f23-4433-a7d7-398cea9187db"
@@ -272,9 +254,6 @@
     "WD23PURZ": {
         "technical_specification": "https://www.productos-info.com/product/5857d2ea-482d-4bf2-8f90-4fa7d8a0eb71"
     },
-    "WD33PURZ": {
-        "technical_specification": "https://www.productos-info.com/product/a0b8f254-a26d-4f7f-909e-d81028276f7b"
-    },
     "WD44PURZ": {
         "technical_specification": "https://www.productos-info.com/product/e057093a-6762-4088-b516-74722a5bc123"
     },
@@ -284,20 +263,11 @@
     "WD11PURZ": {
         "technical_specification": "https://www.productos-info.com/product/a7c9dade-d17b-4d55-87e0-56a614870dcf"
     },
-    "DS-2CV2121G2-IDW(W)": {
-        "technical_specification": "https://www.productos-info.com/product/2edf77ba-8f25-4f7b-82a7-0777965e04fe"
-    },
     "DS-2CV2141G2-IDW(W)": {
         "technical_specification": "https://www.productos-info.com/product/7914280d-30ed-46d6-9eb7-98079b421a66"
     },
     "DS-2CD1143G2-LIUF": {
         "technical_specification": "https://www.productos-info.com/product/e90b4ffa-730b-4448-bb47-3ca621da7ad3"
-    },
-    "VGA-1.5M": {
-        "technical_specification": "https://www.productos-info.com/product/87b2891f-8cf8-4079-ac8f-53ebe3090138"
-    },
-    "VGA-5M": {
-        "technical_specification": "https://www.productos-info.com/product/bde7048f-2d19-47d4-8e89-3a60297ea6f0"
     },
     "DS-KB8113-IME1(B)": {
         "technical_specification": "https://www.productos-info.com/product/ad7563fd-8de4-45bd-aaca-81dca9763a83"
@@ -352,9 +322,6 @@
     },
     "BU600NDLED": {
         "technical_specification": "https://www.productos-info.com/product/befa762c-e898-496f-a3e7-50104d82dd87"
-    },
-    "DS-7616NI-Q2/16P(D)": {
-        "technical_specification": "https://www.productos-info.com/product/4302fe51-4845-4d55-b96c-fa417850ec9c"
     },
     "DS-7604NI-Q1/4P(D)": {
         "technical_specification": "https://www.productos-info.com/product/597e2fee-8ea1-4bec-a22c-2759a13155ed"
@@ -491,17 +458,11 @@
     "4306-1104/1000": {
         "technical_specification": "https://www.productos-info.com/product/3845c3b1-e39a-47f6-af7e-ad501d89456d"
     },
-    "SF16AWG500": {
-        "technical_specification": "https://www.productos-info.com/product/21ca5ae4-7e1e-4b51-8f08-34cedb8b04f1"
-    },
     "NUR6C04BU-C": {
         "technical_specification": "https://www.productos-info.com/product/e6df1d29-394a-448e-b8c2-623f5e2740b1"
     },
     "PUR6004BU-ME": {
         "technical_specification": "https://www.productos-info.com/product/3c355681-0b80-47eb-bf3f-6c38da3eaf0e"
-    },
-    "PUR6C04BU-F": {
-        "technical_specification": "https://www.productos-info.com/product/02915feb-2f91-467a-8891-419ee83672d8"
     },
     "DS-MCW406/128G": {
         "technical_specification": "https://www.productos-info.com/product/5192b15d-73f0-49a1-8a62-6c492125f226"
@@ -530,12 +491,6 @@
     "PCC53": {
         "technical_specification": "https://www.productos-info.com/product/f7eaf28b-0e70-418d-9ed4-24f737b65490"
     },
-    "LP-UT6-100-BU28": {
-        "technical_specification": "https://www.productos-info.com/product/ed292653-3f3a-4763-8b83-593aac00ac55"
-    },
-    "LP-UT6-200-BU28": {
-        "technical_specification": "https://www.productos-info.com/product/2e0857f3-6807-4a6d-bd2f-786053a36bae"
-    },
     "UTP28SP1BU": {
         "technical_specification": "https://www.productos-info.com/product/e2c7d774-c9e5-43f5-b08c-044659736a51"
     },
@@ -550,9 +505,6 @@
     },
     "PST-1010-ER": {
         "technical_specification": "https://www.productos-info.com/product/7213c5c4-47f1-416f-81db-4bf11ce6e3b8"
-    },
-    "PRO800-BOX": {
-        "technical_specification": "https://www.productos-info.com/product/99d9438e-607e-42de-aa2c-256f45ffed3c"
     },
     "LP-WBX-200": {
         "technical_specification": "https://www.productos-info.com/product/6b9d4c00-0f1f-4bc8-92a8-1ababdacec94"
@@ -647,9 +599,6 @@
     "WD8002PURP": {
         "technical_specification": "https://www.productos-info.com/product/e554d734-16cc-4846-af30-7d0fb299b068"
     },
-    "TT312HDR-V2.0": {
-        "technical_specification": "https://www.productos-info.com/product/7f09cded-18e0-4101-8f6c-7ab28246e1d5"
-    },
     "DS-2CD1143G0-I(C)": {
         "technical_specification": "https://www.productos-info.com/product/2c0efc9f-70bf-4f54-a833-db828f6d1d18"
     },
@@ -667,9 +616,6 @@
     },
     "SYS12000/127AFV2": {
         "technical_specification": "https://www.productos-info.com/product/2ba02134-82eb-4a35-adeb-6815ac4380eb"
-    },
-    "SYS12000/127V3": {
-        "technical_specification": "https://www.productos-info.com/product/28bb1aef-701b-4199-952f-7a384f001b0b"
     },
     "SYSNG-HS": {
         "technical_specification": "https://www.productos-info.com/product/31f6bbbe-5d54-42cd-9b6a-3d7fad2d99dd"
@@ -737,9 +683,6 @@
     "KEVTX8T4BW/A": {
         "technical_specification": "https://www.productos-info.com/product/1366780c-634a-4720-b3cb-51457f03daf3"
     },
-    "KEVTX8T8BG/A": {
-        "technical_specification": "https://www.productos-info.com/product/0fad56fb-7b6e-452c-91ea-d9320c3bb66a"
-    },
     "AE-DI2032-G40(B)": {
         "technical_specification": "https://www.productos-info.com/product/f250befe-d82a-4918-b359-cb5015ff0680"
     },
@@ -754,12 +697,6 @@
     },
     "DS-2XS2T47G1-LDH/4G/C18S40": {
         "technical_specification": "https://www.productos-info.com/product/fe962800-91a7-43c5-b7a7-8af0bc89d032"
-    },
-    "DS-2XS3Q47G1-LDH/4G/C18S40": {
-        "technical_specification": "https://www.productos-info.com/product/10af0dff-5f38-482a-9415-b764e5d44eb2"
-    },
-    "LOCOM2-TT68344K": {
-        "technical_specification": "https://www.productos-info.com/product/e367e7d2-56a4-436f-8ed8-14698d69e4fc"
     },
     "DS-3WF1000-EI-2N": {
         "technical_specification": "https://www.productos-info.com/product/7f56071d-634a-4c18-b7d3-65497b10edd2"
@@ -794,9 +731,6 @@
     "SYSLETV2": {
         "technical_specification": "https://www.productos-info.com/product/557d73d4-80e4-4f77-a87e-3b9bfb1672eb"
     },
-    "HCT-ACCESO-1P-1A": {
-        "technical_specification": "https://www.productos-info.com/product/7a8a8112-7507-41b5-8e2e-8d88487fc4af"
-    },
     "DS-2CD3956G2-IS(U)": {
         "technical_specification": "https://www.productos-info.com/product/b8749c64-bd08-458f-ba1b-d1d4b87bb335"
     },
@@ -811,9 +745,6 @@
     },
     "DS-KH6350-WTE1": {
         "technical_specification": "https://www.productos-info.com/product/e72d687c-f22b-4d96-a7a6-ccbdc38d6a2b"
-    },
-    "DS-D5032F3-1V0S": {
-        "technical_specification": "https://www.productos-info.com/product/e24eeb58-1aae-4276-8058-c0a2c188a26d"
     },
     "PST-MOUNT-POLE-V2": {
         "technical_specification": "https://www.productos-info.com/product/d7cb27b8-dea7-455e-ad19-83a290c0fa70"
@@ -845,9 +776,6 @@
     "LPCM-042U": {
         "technical_specification": "https://www.productos-info.com/product/3c8b4dbc-6a3b-415d-86f4-09853bf72e5d"
     },
-    "DS-2DE4225IW-DE(T5)": {
-        "technical_specification": "https://www.productos-info.com/product/4150ef96-9a39-416c-a960-36a8d236e66b"
-    },
     "ES-50X": {
         "technical_specification": "https://www.productos-info.com/product/3b4328c1-61a5-4a0b-9bb0-6cd4625c26ae"
     },
@@ -865,9 +793,6 @@
     },
     "SYS-POST-3": {
         "technical_specification": "https://www.productos-info.com/product/e0123cf2-2fc6-45fe-a5da-6d697cd015a6"
-    },
-    "C5X": {
-        "technical_specification": "https://www.productos-info.com/product/2623876c-bf08-4586-a285-80d0b743d84c"
     },
     "KL2V2": {
         "technical_specification": "https://www.productos-info.com/product/6a5e3e9b-8393-4542-b2cf-5109285d4abb"
@@ -922,9 +847,6 @@
     },
     "ACCESS-PROX-CARD": {
         "technical_specification": "https://www.productos-info.com/product/f6bb7f5a-ad96-46d2-b6c1-f3857c6315a6"
-    },
-    "PROXCARD26": {
-        "technical_specification": "https://www.productos-info.com/product/bdffaf6d-99ab-47ca-b2dc-9b1df10f5c35"
     },
     "ATR-14": {
         "technical_specification": "https://www.productos-info.com/product/9833d223-edfa-49da-83d5-96f9c33062e7"
@@ -988,9 +910,6 @@
     },
     "DS-2CE72KF0T-FS": {
         "technical_specification": "https://www.productos-info.com/product/c6290a54-1815-4b9f-bb00-1133ed37ad28"
-    },
-    "DS-9664NI-M8": {
-        "technical_specification": "https://www.productos-info.com/product/7e4db9d8-bc58-44f3-955b-f61aab6f0534"
     },
     "DS-2CD2143G2-LIS2U": {
         "technical_specification": "https://www.productos-info.com/product/057440d6-f232-4d8b-bb23-f45d7d89066e"
@@ -1310,9 +1229,6 @@
     "66-44-64/1000": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/66-44-64-1000-CONDUMEX-7531.html"
     },
-    "ISFCH5C04ATL-XG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ISFCH5C04ATL-XG-PANDUIT-184033.html"
-    },
     "PRO-CAT-6": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-CAT-6-LINKEDPRO-BY-EPCOM-66267.html"
     },
@@ -1406,9 +1322,6 @@
     "9C6L4-E3-RXA": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9C6L4-E3-RXA-SIEMON-88293.html"
     },
-    "NUC6C04BU-FE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NUC6C04BU-FE-PANDUIT-188453.html"
-    },
     "9C6L4-E2-RXA": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9C6L4-E2-RXA-SIEMON-169182.html"
     },
@@ -1457,9 +1370,6 @@
     "9C604-E2-01-R1A": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9C604-E2-01-R1A-SIEMON-171371.html (Referenciado como 9C6O4... en fuente)"
     },
-    "PUC6004BU-FE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUC6004BU-FE-PANDUIT-177955.html"
-    },
     "6361-2108/1000": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/6361-2108-1000-GENESIS-197966.html"
     },
@@ -1484,14 +1394,8 @@
     "PUP6C04BU-WZ": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUP6C04BU-WZ-PANDUIT-246403.html"
     },
-    "PUO6C2204BL-CEG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUO6C2204BL-CEG-PANDUIT-250606.html"
-    },
     "PUO6C2204BL-GZ": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUO6C2204BL-GZ-PANDUIT-246830.html"
-    },
-    "DS-1LN6OUTPE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-1LN6OUTPE-HIKVISION-228969.html"
     },
     "PRO-CAT-6A": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-CAT-6A-LINKEDPRO-BY-EPCOM-73897.html"
@@ -1561,15 +1465,6 @@
     },
     "PUP6AHD04WH-G": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PUP6AHD04WH-G-PANDUIT-201348.html"
-    },
-    "ISFCH6X04ATL-UG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ISFCH6X04ATL-UG-PANDUIT-184037.html"
-    },
-    "ISX6X04ATL-LED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ISX6X04ATL-LED-PANDUIT-184214.html"
-    },
-    "ISX6X04AYL-LED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ISX6X04AYL-LED-PANDUIT-184215.html"
     },
     "9T7L4-E10": {
         "technical_specification": "https://www.productos-info.com/product/64436dbb-283b-4ec7-a597-da84f5d769a5"
@@ -1738,9 +1633,6 @@
     },
     "LCA2-56-Q": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LCA2-56-Q-PANDUIT-176851.html"
-    },
-    "PSTK2L": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTK2L-PRECISION-177297.html"
     },
     "HUB-TP-10-516": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HUB-TP-10-516-HUBBELL-BURNDY-209724.html"
@@ -1937,9 +1829,6 @@
     "PZBR3": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZBR3-PANDUIT-92886.html"
     },
-    "LCC500-12-6": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LCC500-12-6-PANDUIT-220536.html"
-    },
     "LP-RKMT-001": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-RKMT-001-LINKEDPRO-BY-EPCOM-226059.html"
     },
@@ -1999,9 +1888,6 @@
     },
     "HUB-TMH-269": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HUB-TMH-269-HUBBELL-212863.html"
-    },
-    "AW41": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AW41-HOFFMAN-252625.html"
     },
     "SCH-342U": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SCH-342U-LINKEDPRO-BY-EPCOM-234976.html"
@@ -2357,9 +2243,6 @@
     "PZWMC18RR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZWMC18RR-PANDUIT-171242.html"
     },
-    "LEK12B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LEK12B-HOFFMAN-224713.html"
-    },
     "PGK": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PGK-HOFFMAN-229593.html"
     },
@@ -2393,9 +2276,6 @@
     "SRM19FM2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SRM19FM2-PANDUIT-80389.html"
     },
-    "ATEMNOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ATEMNOC-HOFFMAN-231714.html"
-    },
     "EI-RAR-12V6": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EI-RAR-12V6-LINKEDPRO-BY-EPCOM-72974.html"
     },
@@ -2422,9 +2302,6 @@
     },
     "DCHD2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DCHD2-HOFFMAN-227002.html"
-    },
-    "URMKIT2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/URMKIT2-PANDUIT-213383.html"
     },
     "ESH1915V": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ESH1915V-HOFFMAN-245327.html"
@@ -2600,42 +2477,6 @@
     "PR2VD10": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PR2VD10-PANDUIT-189512.html"
     },
-    "P30D02G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/P30D02G-PANDUIT-232112.html"
-    },
-    "TE090624011": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TE090624011-HOFFMAN-224344.html"
-    },
-    "PR2VD12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PR2VD12-PANDUIT-190709.html"
-    },
-    "T200216G100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T200216G100-HOFFMAN-224347.html"
-    },
-    "T150116G100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T150116G100-HOFFMAN-224346.html"
-    },
-    "P48E21G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/P48E21G-PANDUIT-239342.html"
-    },
-    "G280416G050": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/G280416G050-HOFFMAN-224312.html"
-    },
-    "T150116G152": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T150116G152-HOFFMAN-233021.html"
-    },
-    "GAB-AU-BL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GAB-AU-BL-EPCOM-INDUSTRIAL-225556.html"
-    },
-    "G520816G050": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/G520816G050-HOFFMAN-224314.html"
-    },
-    "T200216G150": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T200216G150-HOFFMAN-224348.html"
-    },
-    "T200216G201": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T200216G201-HOFFMAN-239652.html"
-    },
     "PST-0808-ER": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-0808-ER-PRECISION-220192.html"
     },
@@ -2804,9 +2645,6 @@
     "LP-FORTE-09U-BRA-R2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-FORTE-09U-BRA-R2-LINKEDPRO-BY-EPCOM-203874.html"
     },
-    "MAS0504021R5": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAS0504021R5-HOFFMAN-252101.html"
-    },
     "MAS0604021R5": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAS0604021R5-HOFFMAN-237703.html"
     },
@@ -2867,101 +2705,17 @@
     "LP-FORTE-16U-BAT": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-FORTE-16U-BAT-LINKEDPRO-BY-EPCOM-183649.html"
     },
-    "PTHW242424G2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHW242424G2-HOFFMAN-238813.html"
-    },
-    "Z22C-S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/Z22C-S-PANDUIT-184284.html"
-    },
-    "ADR1201240": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ADR1201240-HOFFMAN-224285.html"
-    },
-    "Z23C-S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/Z23C-S-PANDUIT-184305.html"
-    },
-    "ECL606050P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL606050P-HOFFMAN-224297.html"
-    },
-    "ECL906050P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL906050P-HOFFMAN-224298.html"
-    },
-    "ECL1207060P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL1207060P-HOFFMAN-224296.html"
-    },
-    "PTRS242424G4A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTRS242424G4A-HOFFMAN-224340.html"
-    },
-    "ZDF48-RA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ZDF48-RA-PANDUIT-184347.html"
-    },
-    "PTRS362424G4A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTRS362424G4A-HOFFMAN-224341.html"
-    },
-    "LP-WBX-80": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-WBX-80-LINKEDPRO-229984.html"
-    },
-    "LP-WBX-100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-WBX-100-LINKEDPRO-229983.html"
-    },
     "LP-WBX-150": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-WBX-150-LINKEDPRO-229985.html"
-    },
-    "PST-1419-E": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-1419-E-PRECISION-220199.html"
-    },
-    "PSTCC2PSA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC2PSA-PRECISION-207026.html"
-    },
-    "PST-AV-GM12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-AV-GM12-PRECISION-161093.html"
-    },
-    "PSTCC3PFA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC3PFA-PRECISION-207033.html"
-    },
-    "PSTCC4PFA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC4PFA-PRECISION-207032.html"
-    },
-    "PSTCC3PSA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC3PSA-PRECISION-207025.html"
-    },
-    "PSTCC4PSA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC4PSA-PRECISION-207024.html"
-    },
-    "SYS-53CA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SYS-53CA-LOCK-214479.html"
-    },
-    "PST-CC-2P-FA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-CC-2P-FA-EPCOM-POWERLINE-207034.html"
     },
     "TX-PG-6P": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TX-PG-6P-TXPRO-67044.html"
     },
-    "PSTCC8PFA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC8PFA-PRECISION-207031.html"
-    },
-    "PSTCC8PSA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC8PSA-PRECISION-207023.html"
-    },
-    "LP-WBX-300": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-WBX-300-LINKEDPRO-229987.html"
-    },
-    "SYS-L22L65EACB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SYS-L22L65EACB-LOCK-214532.html"
-    },
-    "PST-3546-16EPL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-3546-16EPL-PRECISION-188899.html"
-    },
     "ENC196YG": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ENC196YG-TXPRO-15770.html"
     },
-    "SYS-L20-S50-QB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SYS-L20-S50-QB-LOCK-214598.html"
-    },
     "TX-MTB6P": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TX-MTB6P-TXPRO-67043.html"
-    },
-    "PMH4PN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PMH4PN-SUNTREE-242924.html"
     },
     "TXG-1-11": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TXG-1-11-TXPRO-203852.html"
@@ -2975,221 +2729,17 @@
     "TX-PCG-1520": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TX-PCG-1520-TXPRO-78047.html"
     },
-    "PSTFILTAV": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTFILTAV-PRECISION-247210.html"
-    },
-    "PST-1929-14ET": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-1929-14ET-PRECISION-209175.html"
-    },
-    "PST-3030-18ET": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-3030-18ET-PRECISION-209176.html"
-    },
     "TXT-2535": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TXT-2535-TXPRO-66606.html"
-    },
-    "PST-3546-16E": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-3546-16E-PRECISION-188673.html"
     },
     "TXG-01-46": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TXG-01-46-TXPRO-81020.html"
     },
-    "PST-4060-20A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-4060-20A-PRECISION-154659.html"
-    },
-    "X-IBOX-01": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X-IBOX-01-SIEMON-135804.html"
-    },
-    "PSTCC12PFA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC12PFA-PRECISION-207030.html"
-    },
-    "PSTCC12PSA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC12PSA-PRECISION-207021.html"
-    },
-    "BUSBAR300A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BUSBAR300A-PYTES-230778.html"
-    },
-    "X-IBOX-02": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X-IBOX-02-SIEMON-92551.html"
-    },
-    "PSTCC12PFB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC12PFB-PRECISION-207028.html"
-    },
-    "X-IBOX-03": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X-IBOX-03-SIEMON-92552.html"
-    },
-    "GW-44-011": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GW-44-011-GEWISS-80756.html"
-    },
-    "X-IBOX-04": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X-IBOX-04-SIEMON-92553.html"
-    },
-    "PST-4050-20P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-4050-20P-PRECISION-174502.html"
-    },
-    "PSTCC20PFB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PSTCC20PFB-PRECISION-207027.html"
-    },
-    "PST-CC-20P-SB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-CC-20P-SB-PRECISION-207018.html"
-    },
-    "GW-44-010": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GW-44-010-GEWISS-80755.html"
-    },
-    "MAS0606021R5": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAS0606021R5-HOFFMAN-253149.html"
-    },
-    "PST-6080-30A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-6080-30A-PRECISION-154669.html"
-    },
-    "DAP3BC-S0": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DAP3BC-S0-PANDUIT-210986.html"
-    },
-    "UACC-JUNCTION-UTILITY": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/UACC-JUNCTION-UTILITY-UBIQUITI-251398.html"
-    },
-    "PST-CC12P-SB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-CC12P-SB-EPCOM-POWERLINE-207020.html"
-    },
-    "PST-5060-19RAV": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-5060-19RAV-PRECISION-236450.html"
-    },
-    "PST506019RAVKIT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST506019RAVKIT-PRECISION-248337.html"
-    },
     "TXG-5070": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TXG-5070-TXPRO-66602.html"
     },
-    "PST-406025-INOX-B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-406025-INOX-B-PRECISION-164761.html"
-    },
-    "PST-6080-30P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-6080-30P-PRECISION-175092.html"
-    },
-    "CP3030G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CP3030G-HOFFMAN-253022.html"
-    },
-    "PST-80100-30A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-80100-30A-PRECISION-154670.html"
-    },
-    "PST-4060-25AV": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-4060-25AV-PRECISION-214127.html"
-    },
-    "MAS0608030R5": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAS0608030R5-HOFFMAN-233750.html"
-    },
-    "OICE406021": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OICE406021-HOFFMAN-252134.html"
-    },
-    "MAD0801230R5": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAD0801230R5-HOFFMAN-232551.html"
-    },
-    "PST-80120-40A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-80120-40A-PRECISION-164840.html"
-    },
-    "A48P36": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/A48P36-HOFFMAN-231227.html"
-    },
-    "ASR0604021": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ASR0604021-HOFFMAN-251332.html"
-    },
-    "PST606025INOXB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST606025INOXB-PRECISION-248123.html"
-    },
     "TX-SZ-5729": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TX-SZ-5729-TXPRO-85677.html"
-    },
-    "CSD20208LG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CSD20208LG-HOFFMAN-253003.html"
-    },
-    "CSD24248LG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CSD24248LG-HOFFMAN-251719.html"
-    },
-    "PST-8010030-INOX-B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST-8010030-INOX-B-PRECISION-164764.html"
-    },
-    "CSD30248": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CSD30248-HOFFMAN-251720.html"
-    },
-    "PST608030INOXB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST608030INOXB-PRECISION-248145.html"
-    },
-    "GABSWAIO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GABSWAIO-Syscom-229122.html"
-    },
-    "ASR0808030": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ASR0808030-HOFFMAN-253140.html"
-    },
-    "GABSWWIAIO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GABSWWIAIO-Syscom-229485.html"
-    },
-    "ASR1008030": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ASR1008030-HOFFMAN-251941.html"
-    },
-    "A48N3609": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/A48N3609-HOFFMAN-231226.html"
-    },
-    "PST12020060AT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST12020060AT-PRECISION-248151.html"
-    },
-    "3SKB-R12U20W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3SKB-R12U20W-SKB-78515.html"
-    },
-    "3SKB-R10U20W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3SKB-R10U20W-SKB-78514.html"
-    },
-    "3SKB-R04U20W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3SKB-R04U20W-SKB-78222.html"
-    },
-    "3SKB-R06U20W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3SKB-R06U20W-SKB-78512.html"
-    },
-    "PTHS242430G4": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHS242430G4-HOFFMAN-224337.html"
-    },
-    "3SKB-R08U20W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3SKB-R08U20W-SKB-78513.html"
-    },
-    "PST8016040INOX": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST8016040INOX-PRECISION-248147.html"
-    },
-    "PTRS362424G3": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTRS362424G3-HOFFMAN-251695.html"
-    },
-    "PST10022040INOXT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PST10022040INOXT-PRECISION-248146.html"
-    },
-    "ECL606050PB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL606050PB-HOFFMAN-252809.html"
-    },
-    "EXE36248SS61": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EXE36248SS61-HOFFMAN-249846.html"
-    },
-    "ZDF242430": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ZDF242430-PANDUIT-184333.html"
-    },
-    "ECL906050PB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL906050PB-HOFFMAN-252811.html"
-    },
-    "ECL907060P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL907060P-HOFFMAN-252808.html"
-    },
-    "A36H3612SSLP3PT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/A36H3612SSLP3PT-HOFFMAN-253743.html"
-    },
-    "ECL907060PB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL907060PB-HOFFMAN-252812.html"
-    },
-    "A36H3612SS6LP3PT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/A36H3612SS6LP3PT-HOFFMAN-253493.html"
-    },
-    "ECL1207060PB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ECL1207060PB-HOFFMAN-252813.html"
-    },
-    "PTHS242430G4A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHS242430G4A-HOFFMAN-224338.html"
-    },
-    "T303044FTTXDA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T303044FTTXDA-HOFFMAN-253762.html"
     },
     "LP-RAP-1202": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-RAP-1202-LINKEDPRO-BY-EPCOM-82085.html"
@@ -3410,140 +2960,8 @@
     "WME9BL": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WME9BL-PANDUIT-209172.html"
     },
-    "PZICE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZICE-PANDUIT-177128.html"
-    },
-    "PZICEA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZICEA-PANDUIT-177361.html"
-    },
-    "PTHS242424X": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHS242424X-HOFFMAN-241235.html"
-    },
-    "PTHW362428G2A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHW362428G2A-HOFFMAN-237633.html"
-    },
-    "PTHS362430G4A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHS362430G4A-HOFFMAN-241358.html"
-    },
     "SR-19-24-GN3G": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-19-24-GN3G-LINKEDPRO-253091.html"
-    },
-    "1408BHTBNIN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/1408BHTBNIN-LINKEDPRO-BY-EPCOM-205051.html"
-    },
-    "14NRBNIN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/14NRBNIN-LINKEDPRO-BY-EPCOM-205053.html"
-    },
-    "SR-1906-LH2G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1906-LH2G-LINKEDPRO-235184.html"
-    },
-    "LW-06-05-06-UBG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LW-06-05-06-UBG-LINKEDPRO-BY-EPCOM-216383.html"
-    },
-    "SR-1909-LH2G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1909-LH2G-LINKEDPRO-235185.html"
-    },
-    "LW-06-05-06-UB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LW-06-05-06-UB-LINKEDPRO-BY-EPCOM-216096.html"
-    },
-    "SR-1912-LH2G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1912-LH2G-LINKEDPRO-235186.html"
-    },
-    "GBP03": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/GBP03-EPCOM-INDUSTRIAL-242375.html"
-    },
-    "SR-1904-GFP-VR2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1904-GFP-VR2-LINKEDPRO-BY-EPCOM-205919.html"
-    },
-    "SR-1906-GFP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1906-GFP-LINKEDPRO-BY-EPCOM-74707.html"
-    },
-    "E5PBG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E5PBG-HOFFMAN-237276.html"
-    },
-    "EI-PCB-04-07-03-W3S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EI-PCB-04-07-03-W3S-EPCOM-INDUSTRIAL-214700.html"
-    },
-    "SR-1909-GFP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1909-GFP-LINKEDPRO-BY-EPCOM-74708.html"
-    },
-    "SR-1912-GFP-VR2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1912-GFP-VR2-LINKEDPRO-BY-EPCOM-205921.html"
-    },
-    "EI-PCB-04-07-03-W3V": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EI-PCB-04-07-03-W3V-EPCOM-INDUSTRIAL-214701.html"
-    },
-    "CR6U61001": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CR6U61001-CYBERPOWER-214726.html"
-    },
-    "SR-1912-GFP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1912-GFP-LINKEDPRO-BY-EPCOM-74709.html"
-    },
-    "EI-PCB-04-11-03-W3S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EI-PCB-04-11-03-W3S-EPCOM-INDUSTRIAL-214501.html"
-    },
-    "MS28EHDS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MS28EHDS-PANDUIT-230865.html"
-    },
-    "SR-1924-GFP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1924-GFP-LINKEDPRO-BY-EPCOM-94547.html"
-    },
-    "MS42EHDS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MS42EHDS-PANDUIT-232310.html"
-    },
-    "SR-1924-GAP-V4": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-1924-GAP-V4-LINKEDPRO-BY-EPCOM-175032.html"
-    },
-    "AWMR12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AWMR12-PANDUIT-223766.html"
-    },
-    "PZWMC9W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZWMC9W-PANDUIT-239336.html"
-    },
-    "AWMR18": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AWMR18-PANDUIT-223767.html"
-    },
-    "RC2200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RC2200-ATEN-251329.html"
-    },
-    "SWIMP0063": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SWIMP0063-LINKEDPRO-BY-EPCOM-236635.html"
-    },
-    "PZWMC1230WH": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZWMC1230WH-PANDUIT-192965.html"
-    },
-    "EWMW242436": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EWMW242436-HOFFMAN-245393.html"
-    },
-    "PZWMC1830WH": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZWMC1830WH-PANDUIT-208962.html"
-    },
-    "DBL482412G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DBL482412G-HOFFMAN-241180.html"
-    },
-    "PZWMC2630WH": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZWMC2630WH-PANDUIT-199674.html"
-    },
-    "PTHW162415G2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHW162415G2-HOFFMAN-251723.html"
-    },
-    "PTHW362424G2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHW362424G2-HOFFMAN-244431.html"
-    },
-    "PTRS242424G3": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTRS242424G3-HOFFMAN-252110.html"
-    },
-    "WC3-P101-12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WC3-P101-12-SIEMON-172208.html"
-    },
-    "PTHW242430G2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHW242430G2-HOFFMAN-224339.html"
-    },
-    "PTRS482424G3": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTRS482424G3-HOFFMAN-252128.html"
-    },
-    "PTHS242428G4A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PTHS242428G4A-HOFFMAN-249607.html"
     },
     "WBH2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WBH2-PANDUIT-205000.html"
@@ -3608,50 +3026,8 @@
     "R4P": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/R4P-PANDUIT-168886.html"
     },
-    "ESDR19FM45U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ESDR19FM45U-HOFFMAN-235523.html"
-    },
-    "E4SDR19FM45U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E4SDR19FM45U-HOFFMAN-235525.html"
-    },
-    "LPIR10U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LPIR10U-LINKEDPRO-BY-EPCOM-204730.html"
-    },
-    "SR-10U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SR-10U-MIKROTIK-208305.html"
-    },
     "ORS6627": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ORS6627-VARIOS-71808.html"
-    },
-    "LP-RAP-1924": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-RAP-1924-LINKEDPRO-BY-EPCOM-162211.html"
-    },
-    "WBH4": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WBH4-PANDUIT-204357.html"
-    },
-    "LP2PMR45U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP2PMR45U-LINKEDPRO-BY-EPCOM-208624.html"
-    },
-    "CTR-04-01": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CTR-04-01-SIEMON-135702.html"
-    },
-    "R2P26": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/R2P26-PANDUIT-154445.html"
-    },
-    "PZLRB6U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PZLRB6U-PANDUIT-205378.html"
-    },
-    "R2P79": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/R2P79-PANDUIT-154448.html"
-    },
-    "R2P6S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/R2P6S-PANDUIT-154446.html"
-    },
-    "RS-07": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RS-07-SIEMON-91547.html"
-    },
-    "R4P42CN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/R4P42CN-PANDUIT-201234.html"
     },
     "PRO862": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO862-ACCESSPRO-166949.html"
@@ -3878,9 +3254,6 @@
     "SS2405EM-EN": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2405EM-EN-STI-217789.html"
     },
-    "SS2322EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2322EM-ES-STI-223666.html"
-    },
     "PINGER": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PINGER-Sure-Fi-167856.html"
     },
@@ -3953,168 +3326,6 @@
     "A13020258": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/A13020258-ZKTECO-171997.html"
     },
-    "SS-078-KEY": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS-078-KEY-ENFORCER-SECOLARM-165002.html"
-    },
-    "KIT-102722-R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT-102722-R-STI-212830.html"
-    },
-    "KIT-102722-B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT-102722-B-STI-212829.html"
-    },
-    "KIT-102722-G": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT-102722-G-STI-206080.html"
-    },
-    "APB-870M5-W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/APB-870M5-W-ACCESSPRO-240525.html"
-    },
-    "KIT-102722-W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT-102722-W-STI-212831.html"
-    },
-    "SS-095-1H0": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS-095-1H0-ENFORCER-SECOLARM-240535.html"
-    },
-    "DS-K7P03/T": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K7P03-T-HIKVISION-204976.html"
-    },
-    "DS-K7P03": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K7P03-HIKVISION-163079.html"
-    },
-    "DS-K7PEB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K7PEB-HIKVISION-97707.html"
-    },
-    "MP-06": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MP-06-ROSSLARE-SECURITY-PRODUCTS-70898.html"
-    },
-    "ACCESSZ73TW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACCESSZ73TW-ACCESSPRO-191158.html"
-    },
-    "S-B90W43": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/S-B90W43-NEXMOSPHERE-252132.html"
-    },
-    "SK-919T1-GBWQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SK-919T1-GBWQ-ENFORCER-SECOLARM-230569.html"
-    },
-    "AP-GLASSG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AP-GLASSG-AccessPRO-75223.html"
-    },
-    "PRO881": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO881-ACCESSPRO-246531.html"
-    },
-    "PRO-CLESS1": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-CLESS1-AccessPRO-67349.html"
-    },
-    "980MO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/980MO-RCI---DORMAKABA-9555.html"
-    },
-    "EXH22N00": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EXH22N00-ROSSLARE-SECURITY-PRODUCTS-191389.html"
-    },
-    "EXM22N00": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EXM22N00-ROSSLARE-SECURITY-PRODUCTS-191390.html"
-    },
-    "EX0600": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EX0600-ROSSLARE-SECURITY-PRODUCTS-183159.html"
-    },
-    "NT-SS102-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS102-ES-STI-217152.html"
-    },
-    "NT-SS200-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS200-ES-STI-217134.html"
-    },
-    "UB1-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/UB1-ES-STI-151993.html"
-    },
-    "NT-SS001-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS001-ES-STI-217154.html"
-    },
-    "NT-SS000-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS000-ES-STI-217153.html"
-    },
-    "NT-SS100-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS100-ES-STI-217150.html"
-    },
-    "EX070E0": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EX070E0-ROSSLARE-SECURITY-PRODUCTS-85605.html"
-    },
-    "SS2422EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2422EM-ES-STI-241806.html"
-    },
-    "NT-SS101-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/NT-SS101-ES-STI-217151.html"
-    },
-    "SS2-100-EX-EN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2-100-EX-EN-STI-206077.html"
-    },
-    "XT-EF30": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XT-EF30-NEXMOSPHERE-251473.html"
-    },
-    "AC-PB2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AC-PB2-SECURITRON-ASSA-ABLOY-174846.html"
-    },
-    "IS320WH": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IS320WH-HONEYWELL-HOME-RESIDEO-19595.html"
-    },
-    "SS25A2EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS25A2EM-ES-STI-239976.html"
-    },
-    "SS23A2EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS23A2EM-ES-STI-239975.html"
-    },
-    "SS21A2EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS21A2EM-ES-STI-239974.html"
-    },
-    "SS22A2EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS22A2EM-ES-STI-227453.html"
-    },
-    "SS20A2PO-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS20A2PO-ES-STI-220460.html"
-    },
-    "SS24A9EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS24A9EM-ES-STI-218177.html"
-    },
-    "SS20A2EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS20A2EM-ES-STI-218176.html"
-    },
-    "SS2-473-EX-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2-473-EX-ES-STI-215593.html"
-    },
-    "SS2274AB-EN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2274AB-EN-STI-215596.html"
-    },
-    "SS2041EX-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2041EX-ES-STI-209198.html"
-    },
-    "XT-EF650": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XT-EF650-NEXMOSPHERE-251466.html"
-    },
-    "MX3568": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX3568-SECURITRON-ASSA-ABLOY-238412.html"
-    },
-    "910TCSS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/910TCSS-RCI---DORMAKABA-225001.html"
-    },
-    "910TC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/910TC-RCI---DORMAKABA-208563.html"
-    },
-    "SS2081EX-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2081EX-ES-STI-209197.html"
-    },
-    "SS2082EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2082EM-ES-STI-242511.html"
-    },
-    "SS2482EM-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2482EM-ES-STI-242508.html"
-    },
-    "SS2438EX-ES": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2438EX-ES-STI-232843.html"
-    },
-    "SS2-178-EX-EN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2-178-EX-EN-STI-169088.html"
-    },
-    "DE1B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DE1B-ALARM-CONTROLS-ASSA-ABLOY-176949.html"
-    },
     "SFKDS007ANALOG": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SFKDS007ANALOG-Sure-Fi-237741.html"
     },
@@ -4154,42 +3365,6 @@
     "DK120": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DK120-DORMAKABA-250760.html"
     },
-    "MX67494": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX67494-BRUKEN-ASSA-ABLOY-222966.html"
-    },
-    "PRODOORE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRODOORE-ACCESSPRO-67359.html"
-    },
-    "SDC131SQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SDC131SQ-ENFORCER-SECOLARM-247083.html"
-    },
-    "SD-C101-SGQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SD-C101-SGQ-ENFORCER-SECOLARM-219640.html"
-    },
-    "MX105081": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX105081-ASSA-ABLOY-214682.html"
-    },
-    "MX84884": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX84884-ASSA-ABLOY-221813.html"
-    },
-    "8916/8916AF89P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/8916-8916AF89P-DORMAKABA-225213.html"
-    },
-    "TS73V": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TS73V-DORMAKABA-186620.html"
-    },
-    "KITBTS75R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KITBTS75R-DORMAKABA-176449.html"
-    },
-    "DK367801A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DK367801A-DORMAKABA-189261.html"
-    },
-    "6002-0001": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/6002-0001-DORMAKABA-78529.html"
-    },
-    "ED100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ED100-DORMAKABA-183145.html"
-    },
     "221-412": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/221-412-WAGO-208285.html"
     },
@@ -4216,33 +3391,6 @@
     },
     "9501PT": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9501PT-RCI---DORMAKABA-176272.html"
-    },
-    "SPBS2CABLESET": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPBS2CABLESET-SUPREMA-165118.html"
-    },
-    "SD969A18Q": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SD969A18Q-ENFORCER-SECOLARM-251908.html"
-    },
-    "SP-FS2-CABLE-KIT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SP-FS2-CABLE-KIT-SUPREMA-156029.html"
-    },
-    "SD969A18/K": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SD969A18-K-ENFORCER-SECOLARM-251907.html"
-    },
-    "SPBSA2CABLESET": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPBSA2CABLESET-SUPREMA-165117.html"
-    },
-    "SD969S18/K": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SD969S18-K-ENFORCER-SECOLARM-251905.html"
-    },
-    "APLOOP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/APLOOP-AccessPRO-75222.html"
-    },
-    "9500PT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9500PT-RCI---DORMAKABA-176271.html"
-    },
-    "887-952": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/887-952-WAGO-251255.html"
     },
     "JY011": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/JY011-ACCESSPRO-246524.html"
@@ -4451,9 +3599,6 @@
     "293-678-636": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293-678-636-IDEMIA-(MORPHO)-88176.html"
     },
-    "287889564": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287889564-IDEMIA-(MORPHO)-211030.html"
-    },
     "BEW2OAPB": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEW2OAPB-SUPREMA-196600.html"
     },
@@ -4486,9 +3631,6 @@
     },
     "293-638-856": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293-638-856-IDEMIA-(MORPHO)-88185.html"
-    },
-    "BS2OEPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BS2OEPW-SUPREMA-136179.html"
     },
     "293-673-644": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293-673-644-IDEMIA-(MORPHO)-88181.html"
@@ -4526,30 +3668,6 @@
     "293803151": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293803151-IDEMIA-(MORPHO)-226848.html"
     },
-    "293793826": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293793826-IDEMIA-(MORPHO)-226845.html"
-    },
-    "293701737": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293701737-IDEMIA-(MORPHO)-163921.html"
-    },
-    "293777400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293777400-IDEMIA-(MORPHO)-204577.html"
-    },
-    "100-240-200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/100-240-200-IDENTYTECH-72388.html"
-    },
-    "100-230-100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/100-230-100-IDENTYTECH-72390.html"
-    },
-    "293744604": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293744604-IDEMIA-(MORPHO)-187592.html"
-    },
-    "DS-K5032-D": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K5032-D-HIKVISION-204850.html"
-    },
-    "293722319": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293722319-IDEMIA-(MORPHO)-168456.html"
-    },
     "SPEEDFACEV5LQR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPEEDFACEV5LQR-ZKTECO-253654.html"
     },
@@ -4558,63 +3676,6 @@
     },
     "BEP2OA(US)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEP2OA(US)-SUPREMA-214235.html"
-    },
-    "FSM": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FSM-SUPREMA-141745.html"
-    },
-    "JT-008-S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/JT-008-S-ACCESSPRO-241682.html"
-    },
-    "FS2BASA": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FS2BASA-ACCESSPRO-184361.html"
-    },
-    "2937107311": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/2937107311-IDEMIA-(MORPHO)-191213.html"
-    },
-    "DS-K1T807MBFWX-E1": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T807MBFWX-E1-HIKVISION-246924.html"
-    },
-    "FR-1500": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FR-1500-ZKTECO-89619.html"
-    },
-    "293757482": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293757482-IDEMIA-(MORPHO)-203921.html"
-    },
-    "SF-101": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SF-101-ZKTECO---AccessPRO-29663.html"
-    },
-    "DS-K1T343EFWX-B/S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T343EFWX-B-S-HIKVISION-237092.html"
-    },
-    "293710731": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293710731-IDEMIA-(MORPHO)-191133.html"
-    },
-    "DS-K1T502DBWX-CQR-E1": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T502DBWX-CQR-E1-HIKVISION-247939.html"
-    },
-    "AY-B3663": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-B3663-ROSSLARE-SECURITY-PRODUCTS-11076.html"
-    },
-    "DS-K1T502DBFWX-C-E1": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T502DBFWX-C-E1-HIKVISION-247938.html"
-    },
-    "SPXPEMAINBD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPXPEMAINBD-SUPREMA-171619.html"
-    },
-    "SP-XPM-MAIN-BD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SP-XPM-MAIN-BD-SUPREMA-171618.html"
-    },
-    "DS-K1T342MFWX": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T342MFWX-HIKVISION-204978.html"
-    },
-    "AY-B8550": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-B8550-ROSSLARE-SECURITY-PRODUCTS-166867.html"
-    },
-    "DS-K1T502DBFWX-C": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T502DBFWX-C-HIKVISION-210373.html"
-    },
-    "DS-K1T501SF": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T501SF-HIKVISION-152034.html"
     },
     "UBIOXIRISTS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/UBIOXIRISTS-IDIS-229030.html"
@@ -4628,221 +3689,8 @@
     "UBIO-XFACERF": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/UBIO-XFACERF-IDIS-204724.html"
     },
-    "AY-B4663": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-B4663-ROSSLARE-SECURITY-PRODUCTS-39372.html"
-    },
     "DS-KAS342": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-KAS342-HIKVISION-246926.html"
-    },
-    "AY-B8620": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-B8620-ROSSLARE-SECURITY-PRODUCTS-166863.html"
-    },
-    "SPEEDFACE-V3L-QR": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPEEDFACE-V3L-QR-ZKTECO-211279.html"
-    },
-    "287888695": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287888695-IDEMIA-(MORPHO)-201408.html"
-    },
-    "293-654-719": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293-654-719-IDEMIA-(MORPHO)-88188.html"
-    },
-    "AY-B8650": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-B8650-ROSSLARE-SECURITY-PRODUCTS-166864.html"
-    },
-    "MDS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MDS-STREAMAX-253112.html"
-    },
-    "SPEEDFACEV5LPM": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SPEEDFACEV5LPM-ZKTECO-235262.html"
-    },
-    "287889551": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287889551-IDEMIA-(MORPHO)-211029.html"
-    },
-    "AYB9120BTU": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AYB9120BTU-ROSSLARE-SECURITY-PRODUCTS-176374.html"
-    },
-    "AYB9150BTU": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AYB9150BTU-ROSSLARE-SECURITY-PRODUCTS-176373.html"
-    },
-    "BEPLOCV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPLOCV2-SUPREMA-95392.html"
-    },
-    "IFACE-202": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IFACE-202-SYSCOM-19320.html"
-    },
-    "293678615DEMO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293678615DEMO-IDEMIA-(MORPHO)-225388.html"
-    },
-    "BEPLOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPLOC-SUPREMA-95391.html"
-    },
-    "BLSOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLSOC-SUPREMA-95390.html"
-    },
-    "MACI": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACI-IDEMIA-(MORPHO)-210116.html"
-    },
-    "BEPMOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPMOC-SUPREMA-95393.html"
-    },
-    "AYB9250BTU": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AYB9250BTU-ROSSLARE-SECURITY-PRODUCTS-176371.html"
-    },
-    "BEPHOCV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPHOCV2-SUPREMA-95396.html"
-    },
-    "BEPHOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPHOC-SUPREMA-95395.html"
-    },
-    "293-654-727": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293-654-727-IDEMIA-(MORPHO)-88189.html"
-    },
-    "287888728": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287888728-IDEMIA-(MORPHO)-237030.html"
-    },
-    "BEPMOCV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEPMOCV2-SUPREMA-95394.html"
-    },
-    "DS-MCC21D/32G/GPS/WIFI": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-MCC21D-32G-GPS-WIFI-HIKVISION-247213.html"
-    },
-    "DP7320": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DP7320-DOUBLE-POWER-252734.html"
-    },
-    "BLNOC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLNOC-SUPREMA-95388.html"
-    },
-    "FACEKIOSKH10A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FACEKIOSKH10A-ZKTECO-253337.html"
-    },
-    "BLROCV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLROCV2-SUPREMA-95387.html"
-    },
-    "BLROC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLROC-SUPREMA-95386.html"
-    },
-    "287889572": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287889572-IDEMIA-(MORPHO)-211031.html"
-    },
-    "BEW2OHPB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEW2OHPB-SUPREMA-196602.html"
-    },
-    "BLNOCV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLNOCV2-SUPREMA-95389.html"
-    },
-    "RB25F": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RB25F-HID-169013.html"
-    },
-    "BEW2OHP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BEW2OHP-SUPREMA-136184.html"
-    },
-    "BSL2OE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BSL2OE-SUPREMA-136183.html"
-    },
-    "DS-K1T673DWX-PROE1": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T673DWX-PROE1-HIKVISION-245231.html"
-    },
-    "BLN2PAB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BLN2PAB-SUPREMA-171792.html"
-    },
-    "XY-520": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XY-520-NEXMOSPHERE-251468.html"
-    },
-    "293679290": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293679290-IDEMIA-(MORPHO)-204173.html"
-    },
-    "DS-K1TA70MI-T": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1TA70MI-T-HIKVISION-187573.html"
-    },
-    "SIGNO25": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SIGNO25-HID-195491.html"
-    },
-    "928NSNTEK20TG": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/928NSNTEK20TG-HID-159767.html"
-    },
-    "287889098": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287889098-IDEMIA-(MORPHO)-223667.html"
-    },
-    "AYB9350U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AYB9350U-ROSSLARE-SECURITY-PRODUCTS-176378.html"
-    },
-    "MM-MULTIMODAL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MM-MULTIMODAL-IDEMIA-(MORPHO)-75406.html"
-    },
-    "287889100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/287889100-IDEMIA-(MORPHO)-223662.html"
-    },
-    "BS2OMPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BS2OMPW-SUPREMA-93536.html"
-    },
-    "DS-K1T680DW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K1T680DW-HIKVISION-235721.html"
-    },
-    "BS2OHPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BS2OHPW-SUPREMA-93537.html"
-    },
-    "BSA2OMPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BSA2OMPW-SUPREMA-93532.html"
-    },
-    "BS2OIPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BS2OIPW-SUPREMA-136185.html"
-    },
-    "100-300-100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/100-300-100-IDENTYTECH-87793.html"
-    },
-    "BSA2OHPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BSA2OHPW-SUPREMA-152751.html"
-    },
-    "BSA2OIPW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BSA2OIPW-SUPREMA-93534.html"
-    },
-    "293762855": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293762855-IDEMIA-(MORPHO)-204168.html"
-    },
-    "DS-K5603-Z": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K5603-Z-HIKVISION-156769.html"
-    },
-    "IDTGATEV": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDTGATEV-IDENTYTECH-88877.html"
-    },
-    "FACE-KIOSK-H21": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FACE-KIOSK-H21-ZKTECO-167152.html"
-    },
-    "293701729": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293701729-IDEMIA-(MORPHO)-163988.html"
-    },
-    "293701740": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293701740-IDEMIA-(MORPHO)-163987.html"
-    },
-    "FACE-KIOSK-H32": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/FACE-KIOSK-H32-ZKTECO-167153.html"
-    },
-    "293777380": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293777380-IDEMIA-(MORPHO)-207272.html"
-    },
-    "293777421": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293777421-IDEMIA-(MORPHO)-207274.html"
-    },
-    "293722319DEMO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293722319DEMO-IDEMIA-(MORPHO)-191664.html"
-    },
-    "DS-K5033MW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K5033MW-HIKVISION-244575.html"
-    },
-    "DS-K5033MW-D": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K5033MW-D-HIKVISION-244574.html"
-    },
-    "293744571": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293744571-IDEMIA-(MORPHO)-188067.html"
-    },
-    "293722301": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/293722301-IDEMIA-(MORPHO)-188025.html"
-    },
-    "DS-TMC407-EHR/2+2M/R/TCG400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-TMC407-EHR-2+2M-R-TCG400-HIKVISION-243641.html"
-    },
-    "DS-TMC407-EHL/2+2M/R/TCG400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-TMC407-EHL-2+2M-R-TCG400-HIKVISION-241486.html"
     },
     "CS-DL-IC-CPU-R200-GR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CS-DL-IC-CPU-R200-GR-EZVIZ-228484.html"
@@ -4970,122 +3818,11 @@
     "MX95210": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX95210-ASSA-ABLOY-249701.html"
     },
-    "4030F60AI": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/4030F60AI-TESA---ASSA-ABLOY-183065.html"
-    },
-    "MX89408": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX89408-ASSA-ABLOY-212164.html"
-    },
-    "51020": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/51020-YALE-ASSA-ABLOY-143439.html"
-    },
     "T225": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/T225-LNDU-247950.html"
     },
-    "MX83405": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX83405-YALE-ASSA-ABLOY-238090.html"
-    },
-    "MX5971": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX5971-PHILLIPS-ASSA-ABLOY-196650.html"
-    },
     "HK01W": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HK01W-LNDU-247945.html"
-    },
-    "89071": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89071-YALE-ASSA-ABLOY-76914.html"
-    },
-    "MX5970": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX5970-PHILLIPS-ASSA-ABLOY-196628.html"
-    },
-    "PRO-LOCK-MI": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-LOCK-MI-SYSCOM-155052.html"
-    },
-    "PRO-LOCK-MIL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-LOCK-MIL-Syscom-155051.html"
-    },
-    "ML300": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ML300-ZKTECO-200401.html"
-    },
-    "EA100107": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EA100107-MEDECO---ASSA-ABLOY-183232.html"
-    },
-    "89386": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89386-YALE-ASSA-ABLOY-164543.html"
-    },
-    "H10": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/H10-LNDU-247951.html"
-    },
-    "LOCKPRO-2C": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LOCKPRO-2C-AccessPRO-70639.html"
-    },
-    "PRO-LOCK-FP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-LOCK-FP-Syscom-155050.html"
-    },
-    "89185": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89185-YALE-ASSA-ABLOY-94788.html"
-    },
-    "LOCKPRO-5CD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LOCKPRO-5CD-AccessPRO-68666.html"
-    },
-    "AL30B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AL30B-ZKTECO-165732.html"
-    },
-    "89373": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89373-YALE-ASSA-ABLOY-143448.html"
-    },
-    "BRK3553": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BRK3553-BRUKEN-ASSA-ABLOY-210180.html"
-    },
-    "MX83352": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX83352-YALE-ASSA-ABLOY-229321.html"
-    },
-    "MX83353": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX83353-YALE-ASSA-ABLOY-229319.html"
-    },
-    "AL40B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AL40B-ZKTECO-165733.html"
-    },
-    "89410": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89410-YALE-ASSA-ABLOY-159203.html"
-    },
-    "89371": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89371-YALE-ASSA-ABLOY-143446.html"
-    },
-    "89184": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89184-YALE-ASSA-ABLOY-94789.html"
-    },
-    "CS-DL50FVS/PLUS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CS-DL50FVS-PLUS-EZVIZ-246852.html"
-    },
-    "89374": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89374-YALE-ASSA-ABLOY-176517.html"
-    },
-    "4894": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/4894-YALE-ASSA-ABLOY-76596.html"
-    },
-    "89236": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89236-YALE-ASSA-ABLOY-163421.html"
-    },
-    "882855": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/882855-YALE-ASSA-ABLOY-80236.html"
-    },
-    "89187": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89187-YALE-ASSA-ABLOY-94786.html"
-    },
-    "89105": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89105-ASSA-ABLOY-88949.html"
-    },
-    "89186": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/89186-YALE-ASSA-ABLOY-94787.html"
-    },
-    "MX89368": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX89368-YALE-ASSA-ABLOY-202611.html"
-    },
-    "SW5003013": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SW5003013-MEDECO---ASSA-ABLOY-183651.html"
-    },
-    "SW5003014": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SW5003014-MEDECO---ASSA-ABLOY-183653.html"
     },
     "DS-K4H258-U": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K4H258-U-HIKVISION-194765.html"
@@ -5192,9 +3929,6 @@
     "RXC02": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RXC02-Ruiz-Electronics-93272.html"
     },
-    "MAG175": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG175-ACCESSPRO-160862.html"
-    },
     "MAG1200NW": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG1200NW-ACCESSPRO-190283.html"
     },
@@ -5300,156 +4034,6 @@
     "LP-M68": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP-M68-SECURITRON-ASSA-ABLOY-174679.html"
     },
-    "BU350S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BU350S-ACCESSPRO-142813.html"
-    },
-    "BC600N": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BC600N-ACCESSPRO-176867.html"
-    },
-    "BZL600": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BZL600-AccessPRO-95159.html"
-    },
-    "MBK280ZL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MBK280ZL-AccessPRO-94238.html"
-    },
-    "E-941S-600/PQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E-941S-600-PQ-ENFORCER-SECOLARM-236767.html"
-    },
-    "PROEB306": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB306-ACCESSPRO-246528.html"
-    },
-    "MAG350": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG350-AccessPRO-70963.html"
-    },
-    "BZL-1200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BZL-1200-AccessPRO-142807.html"
-    },
-    "PRO350B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO350B-AccessPRO-67276.html"
-    },
-    "BU600DLED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BU600DLED-AccessPRO-142810.html"
-    },
-    "BZL1200W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BZL1200W-ACCESSPRO-142808.html"
-    },
-    "PROMAG300": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROMAG300-ACCESSPRO-67367.html"
-    },
-    "MAG600W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG600W-AccessPRO-70967.html"
-    },
-    "ZL275": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ZL275-RCI---DORMAKABA-208569.html"
-    },
-    "YM280": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/YM280-SYSCOM-35997.html"
-    },
-    "MAG600BLED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG600BLED-ACCESSPRO-176873.html"
-    },
-    "E-941SA-80Q": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E-941SA-80Q-ENFORCER-SECOLARM-171954.html"
-    },
-    "MAG600-TLED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG600-TLED-AccessPRO-150757.html"
-    },
-    "E-941S300R/ZQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E-941S300R-ZQ-ENFORCER-SECOLARM-161773.html"
-    },
-    "SL200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SL200-ROSSLARE-SECURITY-PRODUCTS-30224.html"
-    },
-    "MAG1200W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG1200W-AccessPRO-70968.html"
-    },
-    "DH-151SQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DH-151SQ-ENFORCER-SECOLARM-215118.html"
-    },
-    "LA-Z12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LA-Z12-ROSSLARE-SECURITY-PRODUCTS-85548.html"
-    },
-    "MAG600D": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG600D-AccessPRO-70966.html"
-    },
-    "KITACCESS600": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KITACCESS600-AccessPRO-161805.html"
-    },
-    "PRO800BZ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO800BZ-AccessPRO-70410.html"
-    },
-    "PRO2600B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO2600B-AccessPRO-67279.html"
-    },
-    "E941S300R/UQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E941S300R-UQ-ENFORCER-SECOLARM-244011.html"
-    },
-    "MX4356": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX4356-SECURITRON-ASSA-ABLOY-244166.html"
-    },
-    "PRO-1200WB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-1200WB-AccessPRO-67278.html"
-    },
-    "LKM12L": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LKM12L-ROSSLARE-SECURITY-PRODUCTS-85542.html"
-    },
-    "E941SA300RQ": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E941SA300RQ-ENFORCER-SECOLARM-89313.html"
-    },
-    "MAG1800W": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG1800W-AccessPRO-73540.html"
-    },
-    "S2500A12": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/S2500A12-RCI---DORMAKABA-238927.html"
-    },
-    "MAG600DLED": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG600DLED-AccessPRO-142502.html"
-    },
-    "MAG1200D": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MAG1200D-ACCESSPRO-70962.html"
-    },
-    "E941SA1200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E941SA1200-ENFORCER-SECOLARM-79385.html"
-    },
-    "E946FC600Q": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E946FC600Q-SECO-LARM-USA-INC-210941.html"
-    },
-    "E-942FC-600": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/E-942FC-600-ENFORCER-SECOLARM-176241.html"
-    },
-    "8310": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/8310-RCI---DORMAKABA-8370.html"
-    },
-    "MEM2400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MEM2400-DORMAKABA-239710.html"
-    },
-    "MEM4400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MEM4400-DORMAKABA-239709.html"
-    },
-    "8371": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/8371-DORMAKABA-8399.html"
-    },
-    "8310DSS/SCS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/8310DSS-SCS-RCI---DORMAKABA-229265.html"
-    },
-    "M82B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/M82B-SECURITRON-ASSA-ABLOY-70496.html"
-    },
-    "SAM224": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SAM224-SECURITRON-ASSA-ABLOY-239165.html"
-    },
-    "AC1200LB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AC1200LB-ALARM-CONTROLS-ASSA-ABLOY-190687.html"
-    },
-    "M82BD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/M82BD-SECURITRON-ASSA-ABLOY-183561.html"
-    },
-    "DM62B": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DM62B-SECURITRON-ASSA-ABLOY-165478.html"
-    },
-    "ZB171HD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ZB171HD-RCI---DORMAKABA-206888.html"
-    },
     "PRO131A": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO131A-ACCESSPRO-67282.html"
     },
@@ -5492,33 +4076,6 @@
     "12C": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/12C-RCI---DORMAKABA-239712.html"
     },
-    "310L": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/310L-ASSA-ABLOY-37136.html"
-    },
-    "PROEBGAB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEBGAB-AccessPRO-67362.html"
-    },
-    "SD-H412": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SD-H412-ENFORCER-SECOLARM-242324.html"
-    },
-    "PROESGLASS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROESGLASS-AccessPRO-67352.html"
-    },
-    "3590": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3590-RCI---DORMAKABA-238244.html"
-    },
-    "MX4864": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MX4864-HES---ASSA-ABLOY-196006.html"
-    },
-    "4500C630": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/4500C630-HES---ASSA-ABLOY-177925.html"
-    },
-    "3525PRX": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/3525PRX-RCI---DORMAKABA-238468.html"
-    },
-    "YD30D": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/YD30D-RCI---DORMAKABA-229844.html"
-    },
     "PROEB210": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB210-ACCESSPRO-159645.html"
     },
@@ -5539,27 +4096,6 @@
     },
     "1730": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/1730-DORMAKABA-252628.html"
-    },
-    "PROEB-700C": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB-700C-ACCESSPRO-67289.html"
-    },
-    "PROEB-700A": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB-700A-ACCESSPRO-67291.html"
-    },
-    "APEB-500U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/APEB-500U-AccessPRO-75224.html"
-    },
-    "PROEB240C": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB240C-ACCESSPRO-246490.html"
-    },
-    "PROEB620": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB620-ACCESSPRO-176875.html"
-    },
-    "PROEB-700AK": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB-700AK-AccessPRO-84428.html"
-    },
-    "PROEB-600AK": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PROEB-600AK-AccessPRO-78337.html"
     },
     "SMALLBRACKETR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SMALLBRACKETR-ACCESSPRO-213891.html"
@@ -5603,44 +4139,8 @@
     "EL460KITSYS144": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL460KITSYS144-ABLOY-221014.html"
     },
-    "PE560PE925KITSYS235": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PE560PE925KITSYS235-ABLOY-221023.html"
-    },
-    "PE460PE920KITSYS245": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PE460PE920KITSYS245-ABLOY-221024.html"
-    },
     "XBSELOCK2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XBSELOCK2-ACCESSPRO-233912.html"
-    },
-    "ACCESSRIMMOTORPROGCONTROL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACCESSRIMMOTORPROGCONTROL-ACCESSPRO-214030.html"
-    },
-    "DS-K4E208": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-K4E208-HIKVISION-199611.html"
-    },
-    "C180EURXLRC626": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/C180EURXLRC626-RCI---DORMAKABA-237969.html"
-    },
-    "ABL-EL410": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ABL-EL410-ABLOY-163888.html"
-    },
-    "EL404KITSYS112FAILSAFE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL404KITSYS112FAILSAFE-ABLOY-221019.html"
-    },
-    "EL460KITSYS145": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL460KITSYS145-ABLOY-221021.html"
-    },
-    "EL560KITSYS135": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL560KITSYS135-ABLOY-221022.html"
-    },
-    "EL520KITSYS111": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL520KITSYS111-ABLOY-221017.html"
-    },
-    "EL420KITSYS121": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/EL420KITSYS121-ABLOY-221016.html"
-    },
-    "MC-1000": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MC-1000-HID-156476.html"
     },
     "ESTUCHE-HID": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ESTUCHE-HID-Syscom-158521.html"
@@ -5692,75 +4192,6 @@
     },
     "AY-H6355BT(US)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AY-H6355BT(US)-ROSSLARE-218505.html"
-    },
-    "MID-SUB-T050": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MID-SUB-T050-HID-222573.html"
-    },
-    "MIDSUBT100ADD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MIDSUBT100ADD-HID-185654.html"
-    },
-    "MID-SUB-T100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MID-SUB-T100-HID-168373.html"
-    },
-    "SEC9X-CRD-E-MKYD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SEC9X-CRD-E-MKYD-HID-136841.html"
-    },
-    "SEC9XCRD0003R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SEC9XCRD0003R-HID-177493.html"
-    },
-    "SEC9XCRD00003": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SEC9XCRD00003-HID-176999.html"
-    },
-    "SEC9XCRDMAD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SEC9XCRDMAD-HID-136840.html"
-    },
-    "ACR-CID01": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACR-CID01-AKUVOX-238140.html"
-    },
-    "APM": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/APM-SUPREMA-195958.html"
-    },
-    "AIRFOBPATCH": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AIRFOBPATCH-SUPREMA-190158.html"
-    },
-    "9565531": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9565531-NEDAP-160512.html"
-    },
-    "K-SMART3": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/K-SMART3-KEYSCAN-DORMAKABA-169009.html"
-    },
-    "ACCESSBLU50": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACCESSBLU50-ACCESSPRO-211686.html"
-    },
-    "8027838": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/8027838-NEDAP-163679.html"
-    },
-    "9565523": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9565523-NEDAP-93559.html"
-    },
-    "921NMNNEKMA03K": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/921NMNNEKMA03K-HID-177695.html"
-    },
-    "MACE100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACE100-NEDAP-163681.html"
-    },
-    "MACE200": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACE200-NEDAP-163682.html"
-    },
-    "MACE400": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACE400-NEDAP-163683.html"
-    },
-    "ACCESSBLU100": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACCESSBLU100-NEDAP-211352.html"
-    },
-    "MACE500": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACE500-NEDAP-163684.html"
-    },
-    "XS2APB": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XS2APB-SUPREMA-196610.html"
-    },
-    "MACE1000": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MACE1000-NEDAP-163685.html"
     },
     "ACCESSNFC215BM": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/ACCESSNFC215BM-ACCESSPRO-205577.html"
@@ -6194,17 +4625,8 @@
     "PRO42IC": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO42IC-HONEYWELL-217368.html"
     },
-    "MPA4MPSU": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/MPA4MPSU-HONEYWELL-222309.html"
-    },
-    "CA4500": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CA4500-KEYSCAN-DORMAKABA-88922.html"
-    },
     "PW7K1IC": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PW7K1IC-HONEYWELL-195749.html"
-    },
-    "CA8500": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CA8500-KEYSCAN-DORMAKABA-88921.html"
     },
     "PRO-KEYPAD-SV2": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PRO-KEYPAD-SV2-AccessPRO-Industrial-88522.html"
@@ -6247,9 +4669,6 @@
     },
     "15844": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/15844-UGREEN-220586.html"
-    },
-    "10459": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/10459-UGREEN-234581.html"
     },
     "20415": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/20415-UGREEN-224413.html"
@@ -6488,21 +4907,6 @@
     "IDS-2CD7A46G2-IZHS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD7A46G2-IZHS-HIKVISION-233786.html"
     },
-    "IDS-TCD402-BR": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-TCD402-BR-HIKVISION-214362.html"
-    },
-    "DS-TSC300-MEX": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-TSC300-MEX-HIKVISION-236613.html"
-    },
-    "DS-2CD1047G2H-LIUF": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD1047G2H-LIUF-HIKVISION-228720.html"
-    },
-    "DS-2XS6K01-C36S80": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2XS6K01-C36S80-HIKVISION-219927.html"
-    },
-    "DS-2CD2T45G0P-I": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2T45G0P-I-HIKVISION-176641.html"
-    },
     "IDS2CD7A46G0/PIZHSY/LGX": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS2CD7A46G0-PIZHSY-LGX-HIKVISION-239349.html"
     },
@@ -6529,9 +4933,6 @@
     },
     "IDS-2CD7A47G0-XZHS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD7A47G0-XZHS-HIKVISION-214977.html"
-    },
-    "IDS-2CD7A46G2-IZHS(1T)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD7A46G2-IZHS(1T)-HIKVISION-232979.html"
     },
     "DS-2CD6F82G0-S": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD6F82G0-S-HIKVISION-238809.html"
@@ -6800,17 +5201,8 @@
     "DS-2CD2347G2H-LIU": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2347G2H-LIU-HIKVISION-220946.html"
     },
-    "DS-2CD2387G2H-LISU/SL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2387G2H-LISU-SL-HIKVISION-226972.html"
-    },
     "DS-2CD2387G2-L(U)(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2387G2-L(U)(C)-HIKVISION-199757.html"
-    },
-    "DS-QFV0202": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-QFV0202-HIKVISION-238344.html"
-    },
-    "DS-2CD3766G2T-IZS(H)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD3766G2T-IZS(H)-HIKVISION-221013.html"
     },
     "DS-2CD3747G2T-LZSU(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD3747G2T-LZSU(C)-HIKVISION-214392.html"
@@ -7085,12 +5477,6 @@
     "DS-2CD6982G0-U": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD6982G0-U-HIKVISION-241763.html"
     },
-    "DS-2CD6984G0-IHS(D)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD6984G0-IHS(D)-HIKVISION-226812.html"
-    },
-    "DS-2DP8A440IXG-LEF/416(F0)(B)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DP8A440IXG-LEF-416(F0)(B)-HIKVISION-233242.html"
-    },
     "DS-2CD3387G2P-LSU/SL(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD3387G2P-LSU-SL(C)-HIKVISION-209824.html"
     },
@@ -7139,12 +5525,6 @@
     "DS-2CD2743G2-IZS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2743G2-IZS-HIKVISION-191221.html"
     },
-    "IDS-2CD7186G0-IZS(D)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD7186G0-IZS(D)-HIKVISION-215764.html"
-    },
-    "IDS-TCV900-HEMF/50": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-TCV900-HEMF-50-HIKVISION-235444.html"
-    },
     "IDS-2CD7A45G2-IZHS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD7A45G2-IZHS-HIKVISION-247246.html"
     },
@@ -7154,41 +5534,11 @@
     "DS-TCG406-E(S)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-TCG406-E(S)-HIKVISION-241364.html"
     },
-    "DS-9664NXI-S8R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9664NXI-S8R-HIKVISION-236942.html"
-    },
-    "DS-96256NXI-S16R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-96256NXI-S16R-HIKVISION-237136.html"
-    },
-    "IDS-96128NXI-I24(C)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-96128NXI-I24(C)-HIKVISION-207635.html"
-    },
     "DS-6901UDI(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-6901UDI(C)-HIKVISION-229060.html"
     },
-    "IDS-6716NXI-M1/AI(B)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-6716NXI-M1-AI(B)-HIKVISION-239778.html"
-    },
-    "IDS-9632NXI-P16": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-9632NXI-P16-HIKVISION-244530.html"
-    },
     "DS-7604NI-Q1/W": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7604NI-Q1-W-HIKVISION-248686.html"
-    },
-    "DS-7732NXI-K4(E)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7732NXI-K4(E)-HIKVISION-242189.html"
-    },
-    "DS-9632NXI-I8/VPRO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9632NXI-I8-VPRO-HIKVISION-243212.html"
-    },
-    "IDS-9664NXI-P8": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-9664NXI-P8-HIKVISION-244531.html"
-    },
-    "DS-96128NXI-S16R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-96128NXI-S16R-HIKVISION-237133.html"
-    },
-    "DS-96256NXI-S24R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-96256NXI-S24R-HIKVISION-237134.html"
     },
     "IDS-7608NXI-M2/8P/X": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-7608NXI-M2-8P-X-HIKVISION-221704.html"
@@ -7199,23 +5549,11 @@
     "DS-7716NXI-K4/16P(D)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7716NXI-K4-16P(D)-HIKVISION-231459.html"
     },
-    "IDS-7732NXI-M4/16P/X": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-7732NXI-M4-16P-X-HIKVISION-220265.html"
-    },
-    "DS-9632NXI-M8R/VPRO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9632NXI-M8R-VPRO-HIKVISION-236940.html"
-    },
-    "DS-9664NXI-S16R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9664NXI-S16R-HIKVISION-236944.html"
-    },
     "DS-7616NXI-I2/16P/VPRO": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7616NXI-I2-16P-VPRO-HIKVISION-241518.html"
     },
     "DS-7616NXI-I2/16P/S(E)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7616NXI-I2-16P-S(E)-HIKVISION-225395.html"
-    },
-    "DS-9664NI-M16": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9664NI-M16-HIKVISION-211678.html"
     },
     "DS-7716NXI-K4(D)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7716NXI-K4(D)-HIKVISION-231458.html"
@@ -7223,23 +5561,14 @@
     "DS-7716NXI-I4/16P/VPRO": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7716NXI-I4-16P-VPRO-HIKVISION-241520.html"
     },
-    "DS-9632NI-M16": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9632NI-M16-HIKVISION-211682.html"
-    },
     "DS-7608NXI-K2/8P(D)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7608NXI-K2-8P(D)-HIKVISION-231466.html"
     },
     "DS-7732NI-M4/16P": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7732NI-M4-16P-HIKVISION-213743.html"
     },
-    "DS-9664NXI-I16/VPRO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-9664NXI-I16-VPRO-HIKVISION-243213.html"
-    },
     "DS-7732NXI-K4/16P(E)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7732NXI-K4-16P(E)-HIKVISION-242191.html"
-    },
-    "DS-96128NI-M16/R": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-96128NI-M16-R-HIKVISION-215339.html"
     },
     "DS-7108NI-K1/W/M(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7108NI-K1-W-M(C)-HIKVISION-189288.html"
@@ -7358,44 +5687,8 @@
     "DS-2DE2A404IW-DE3(C0)(S6)(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DE2A404IW-DE3(C0)(S6)(C)-HIKVISION-211020.html"
     },
-    "IDS-2SR8141IXS-AB(40X)(T2)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2SR8141IXS-AB(40X)(T2)-HIKVISION-204671.html"
-    },
-    "DS-2SF8C425MXG1-ELW/26(F0)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2SF8C425MXG1-ELW-26(F0)-HIKVISION-237065.html"
-    },
-    "DS-2DF8C825IXG1-ELW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DF8C825IXG1-ELW-HIKVISION-232972.html"
-    },
-    "DS-2DF8C842IXG1-ELW": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DF8C842IXG1-ELW-HIKVISION-232973.html"
-    },
-    "IDS-MCD202-E/30X/I/GLE": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-MCD202-E-30X-I-GLE-HIKVISION-246947.html"
-    },
-    "DS-2DP7D836IXG1-LEF/432(IR)(F0)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DP7D836IXG1-LEF-432(IR)(F0)-HIKVISION-251039.html"
-    },
     "DS-2DE2C400IWG-K/4G/C09S20/LA": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DE2C400IWG-K-4G-C09S20-LA-HIKVISION-232985.html"
-    },
-    "DS-2SR8C432I5XG-LFW/SP/R12/18": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2SR8C432I5XG-LFW-SP-R12-18-HIKVISION-237064.html"
-    },
-    "DS-2DE2A404IWG1-E": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DE2A404IWG1-E-HIKVISION-244101.html"
-    },
-    "DS-2TD6267-100C4L/WY": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2TD6267-100C4L-WY-HIKVISION-196111.html"
-    },
-    "HM-TD6368-100C4L/G0/T2Y": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HM-TD6368-100C4L-G0-T2Y-HIKVISION-246747.html"
-    },
-    "DS-2DF8C842IXG1-ELWY": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DF8C842IXG1-ELWY-HIKVISION-242225.html"
-    },
-    "DS-2SF8C442MXG1-ELW/26(F0)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2SF8C442MXG1-ELW-26(F0)-HIKVISION-237066.html"
     },
     "DS-2DE3C210IX-DE(C1)(T5)(AR)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2DE3C210IX-DE(C1)(T5)(AR)-HIKVISION-237736.html"
@@ -7687,9 +5980,6 @@
     },
     "THC-T157-LMS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/THC-T157-LMS-HiLook-by-HIKVISION-239329.html"
-    },
-    "THC-T127-PTLTS": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/THC-T127-PTLTS-HiLook-by-HIKVISION-235493.html"
     },
     "DS-2CE5AH0T-VPIT3ZE(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CE5AH0T-VPIT3ZE(C)-HIKVISION-204294.html"
@@ -8237,9 +6527,6 @@
     "OLS-127": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OLS-127-ALTRONIX-219159.html"
     },
-    "SMP5CTX": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SMP5CTX-ALTRONIX-137073.html"
-    },
     "AL1012ULXB": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/AL1012ULXB-ALTRONIX-219157.html"
     },
@@ -8441,32 +6728,11 @@
     "DS-UPS2000-R/X": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-UPS2000-R-X-HIKVISION-248353.html"
     },
-    "LP10KYDC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP10KYDC-LINKEDPRO-BY-EPCOM-226398.html"
-    },
-    "LP30KRT3P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP30KRT3P-LINKEDPRO-BY-EPCOM-231927.html"
-    },
     "OLS2000A": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OLS2000A-CYBERPOWER-214812.html"
     },
-    "OL8KRT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OL8KRT-CYBERPOWER-183073.html"
-    },
     "OLS10K2UXSTF": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OLS10K2UXSTF-CYBERPOWER-238921.html"
-    },
-    "LP10KSPT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP10KSPT-LINKEDPRO-BY-EPCOM-226375.html"
-    },
-    "LP15KRT3P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP15KRT3P-LINKEDPRO-BY-EPCOM-231922.html"
-    },
-    "OL10KSTF": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OL10KSTF-CYBERPOWER-183230.html"
-    },
-    "LP20KRT3P": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP20KRT3P-LINKEDPRO-BY-EPCOM-231923.html"
     },
     "RWCCARD100": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RWCCARD100-CYBERPOWER-214064.html"
@@ -8474,23 +6740,11 @@
     "LP10KRT220": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP10KRT220-LINKEDPRO-BY-EPCOM-226393.html"
     },
-    "LP20KYDC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP20KYDC-LINKEDPRO-BY-EPCOM-231897.html"
-    },
     "LP25KRT3P": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP25KRT3P-LINKEDPRO-BY-EPCOM-231925.html"
     },
     "BP48VP2U02": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BP48VP2U02-CYBERPOWER-176635.html"
-    },
-    "LP30KYDC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP30KYDC-LINKEDPRO-BY-EPCOM-231898.html"
-    },
-    "PR5000LCDRTXL5U": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PR5000LCDRTXL5U-CYBERPOWER-82105.html"
-    },
-    "LP15KYDC": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP15KYDC-LINKEDPRO-BY-EPCOM-231869.html"
     },
     "LP20KMOD": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP20KMOD-LINKEDPRO-BY-EPCOM-231931.html"
@@ -8501,14 +6755,8 @@
     "OL1500RTXL2U": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OL1500RTXL2U-CYBERPOWER-81265.html"
     },
-    "OL10KRTF": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/OL10KRTF-CYBERPOWER-183068.html"
-    },
     "PR2200RTXL2U": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/PR2200RTXL2U-CYBERPOWER-176650.html"
-    },
-    "LP6KSPT": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/LP6KSPT-LINKEDPRO-BY-EPCOM-226370.html"
     },
     "BP48VP2U01": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/BP48VP2U01-CYBERPOWER-176924.html"
@@ -8816,9 +7064,6 @@
     "KH4K8BTWA": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KH4K8BTWA-HIKVISION-243433.html"
     },
-    "HL28LQKITS-M(B)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HL28LQKITS-M(B)-HiLook-by-HIKVISION-208340.html"
-    },
     "HL1080P8B": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HL1080P8B-HiLook-by-HIKVISION-234123.html"
     },
@@ -8827,9 +7072,6 @@
     },
     "HK7210SH/10T": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HK7210SH-10T-HIKVISION-213066.html"
-    },
-    "WD181PURP": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WD181PURP-Western-Digital-(WD)-199659.html"
     },
     "HAT53208T": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HAT53208T-SYNOLOGY-244176.html"
@@ -8860,9 +7102,6 @@
     },
     "HAT3310-16T": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HAT3310-16T-SYNOLOGY-233348.html"
-    },
-    "HK7225AH/25T": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HK7225AH-25T-HIKVISION-232823.html"
     },
     "HAS5310-20T": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HAS5310-20T-SYNOLOGY-233141.html"
@@ -8997,286 +7236,7 @@
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/X126G-EPCOM-INDUSTRIAL-SIGNALING-207209.html"
     },
     "HSM2HOST9": {
-    "technical_specification": "https://www.productos-info.com/product/7c8adf3a-e8bc-411e-a364-2362ab1d77a6"
-    },
-    "DS-PWA48-SYSNG": {
-        "technical_specification": "https://www.productos-info.com/product/e96ad619-c75e-4557-9bcc-d94bfed99162"
-    },
-    "DS-PWA48K-SYSNGV2": {
-        "technical_specification": "https://www.productos-info.com/product/38a488ba-46fd-4dc6-881d-325e05e5f3ac"
-    },
-    "DS-PDMC-EG2-WB(B)/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/b080fa5c-b20e-4712-9e70-9be098c31ee5"
-    },
-    "DS-PDMCS-EG2-WB(B)/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/a1c3aec2-cbe8-4f6c-af92-7692098343a4"
-    },
-    "DS-PDC15-EG2-WB/UB": {
-        "technical_specification": "https://www.productos-info.com/product/f758c7d9-f085-4908-a297-0633c08ec09b"
-    },
-    "DS-PDP15P-EG2-WB(B)/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/7aeffed9-343e-4a25-a11e-14a8e62deb37"
-    },
-    "DS-PDP15P-EG2-WB": {
-        "technical_specification": "https://www.productos-info.com/product/f763912d-7070-4a66-815d-8b8bc4fdd582"
-    },
-    "DS-PDD12P-EG2-WB/UB": {
-        "technical_specification": "https://www.productos-info.com/product/1e23551a-2b46-4838-b2f9-e358ffd7ffee"
-    },
-    "DS-PD451SMK-WB/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/8fe583a1-f147-4053-a35c-70b55a212a9e"
-    },
-    "DS-PDMCK-EG2-WB": {
-        "technical_specification": "https://www.productos-info.com/product/28becea1-d438-4f40-bda5-6336378f47be"
-    },
-    "DS-PWA48-M-WB/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/102b765f-17e0-4a5c-96c5-29bfbafa2f3f"
-    },
-    "DS-PWA48-E-WB/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/a05aae32-66b5-4653-b5f3-3801fb19c7ba"
-    },
-    "DS-PWA96-M-WB/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/d58d2154-274e-4101-85d7-733edc5e308f"
-    },
-    "DS-PWA96-M-WB": {
-        "technical_specification": "https://www.productos-info.com/product/9af79f22-9848-42b6-ab98-fe3a7f828cc3"
-    },
-    "DS-PS1-I-WB(B)/BLACK": {
-        "technical_specification": "https://www.productos-info.com/product/20fb760a-19a5-47c4-8a18-59cde0639c9c"
-    },
-    "DS-PWA48-KS-EX": {
-        "technical_specification": "https://www.productos-info.com/product/74b6728a-fee6-48f2-9dcf-9b9f469fa06b"
-    },
-    "PRO-CAT-6-EXT-LITE-V2": {
-        "technical_specification": "https://www.productos-info.com/product/143f033b-4592-4494-a0ef-4f0629b5ec16"
-    },
-    "PRO-CAT-6-EXT-LITES-V2": {
-        "technical_specification": "https://www.productos-info.com/product/4841151b-bc4a-496d-91f6-a9ff29707df8"
-    },
-    "PFL6X04YL-CEG": {
-        "technical_specification": "https://www.productos-info.com/product/0e3f5a09-f9f2-42b9-81df-5b3837106365"
-    },
-    "PFL6X04IG-CEG": {
-        "technical_specification": "https://www.productos-info.com/product/6e567d20-1325-45a5-80af-406e51ed31b1"
-    },
-    "9A6O4-A5-01AR1A": {
-        "technical_specification": "https://www.productos-info.com/product/30682671-e545-4eec-8fa1-97dc71d61fd4"
-    },
-    "PRO-CAT6A-R": {
-        "technical_specification": "https://www.productos-info.com/product/b8304fd6-09cf-4c7d-a0f6-ed18f369f9c3"
-    },
-    "9C6R4-A5-06-AR1A": {
-        "technical_specification": "https://www.productos-info.com/product/8b79348c-d797-4a81-b72b-8146ea8fcc13"
-    },
-    "DS-1LN5E-SW": {
-        "technical_specification": "https://www.productos-info.com/product/3c04b803-1ecc-401d-8117-feef95d95ae3"
-    },
-    "PUD6C2804WH-CE": {
-        "technical_specification": "https://www.productos-info.com/product/3486e4b7-f493-47c6-9e9d-e1a0ad996f5a"
-    },
-    "PUD6C2804IG-CE": {
-        "technical_specification": "https://www.productos-info.com/product/b87ec00e-1888-4afb-accb-1aee52c21b37"
-    },
-    "NUC6C04IG-FE": {
-        "technical_specification": "https://www.productos-info.com/product/82cf3b15-beb9-4bbd-b72b-ea5e4833dd66"
-    },
-    "PUC6C04BU-FE": {
-        "technical_specification": "https://www.productos-info.com/product/6f62ade6-4aba-4b95-a16d-050849f940c9"
-    },
-    "PUC6004YL-FE": {
-        "technical_specification": "https://www.productos-info.com/product/f138bcf4-30c4-490b-9984-ce174509d8ef"
-    },
-    "PUP6C04BU-WN": {
-        "technical_specification": "https://www.productos-info.com/product/c2eef2de-48c1-4366-ab7d-a60262773c94"
-    },
-    "PUC6004RD-FE": {
-        "technical_specification": "https://www.productos-info.com/product/475ea8bc-66f1-4928-b85e-9f5b92ab8651"
-    },
-    "PUR6004RD-ME": {
-        "technical_specification": "https://www.productos-info.com/product/7372f2ce-9642-486e-b714-2bfc82fc0401"
-    },
-    "PUC6004GR-ME": {
-        "technical_specification": "https://www.productos-info.com/product/458df8a2-0408-4850-9df4-f4a40bdee21e"
-    },
-    "PRO-CAT-5-EXT-LITE-DJ": {
-        "technical_specification": "https://www.productos-info.com/product/fec2f81c-dfa4-4809-808b-c0b3cc7fab9f"
-    },
-    "PUP6C04WH-W": {
-        "technical_specification": "https://www.productos-info.com/product/37076227-854f-4307-ab7f-7919116a64ec"
-    },
-    "PUR6004BU-FE": {
-        "technical_specification": "https://www.productos-info.com/product/513bfcc7-ffdc-47da-aaa2-dd0f2895010c"
-    },
-    "PUR6004IG-W": {
-        "technical_specification": "https://www.productos-info.com/product/be8e8743-0bd0-41e6-b8f1-b2c8496fb683"
-    },
-    "PUC6004OR-FE": {
-        "technical_specification": "https://www.productos-info.com/product/93b2443a-db9e-47a2-bea8-1558dff2bf11"
-    },
-    "PUC6004GR-FE": {
-        "technical_specification": "https://www.productos-info.com/product/89f2cebd-af98-4c09-820c-eadb394f7604"
-    },
-    "9C6R4-E3-RXA": {
-        "technical_specification": "https://www.productos-info.com/product/7553d162-f3ea-4010-ad89-0c6ba7a258d6"
-    },
-    "9C6L4-E2-04-RXA": {
-        "technical_specification": "https://www.productos-info.com/product/84c17437-739a-4b44-ac9c-03ff47219eb7"
-    },
-    "NUR5C04BU-C": {
-        "technical_specification": "https://www.productos-info.com/product/ae37a5c3-45c1-4edc-9512-063f4611ad6e"
-    },
-    "PUR6ASD04BU-CG": {
-        "technical_specification": "https://www.productos-info.com/product/25c38585-dd75-46e4-95fa-f3128167eeb7"
-    },
-    "PUR6ASD04WH-CG": {
-        "technical_specification": "https://www.productos-info.com/product/fac89391-4d89-4748-bb1a-7c5d1d8c2572"
-    },
-    "PUR6C2204BU-CE": {
-        "technical_specification": "https://www.productos-info.com/product/306d8e84-83b1-4c04-ba73-8930b6cc5835"
-    },
-    "PUR6C2204IG-CE": {
-        "technical_specification": "https://www.productos-info.com/product/b40536a1-1b5c-4c0d-bdcb-2cdb3549cca8"
-    },
-    "PUP6XHD04WH-G": {
-        "technical_specification": "https://www.productos-info.com/product/fe45a483-3110-4813-bc94-379f391923a5"
-    },
-    "PUR6AHD04GR-G": {
-        "technical_specification": "https://www.productos-info.com/product/5c80d52a-8614-4dbf-b7a3-31c8a6d86768"
-    },
-    "PUR6AHD04VL-G": {
-        "technical_specification": "https://www.productos-info.com/product/1228e727-586f-45a0-86a6-24840fb854da"
-    },
-    "PUL6AHD04BU-EG": {
-        "technical_specification": "https://www.productos-info.com/product/12a08ac2-e206-4c92-9b03-d788b4013b84"
-    },
-    "PUL6AHD04IG-EG": {
-        "technical_specification": "https://www.productos-info.com/product/629d704d-db23-4fa7-bf35-128925b3566f"
-    },
-    "PUP6AS04IG-GZ": {
-        "technical_specification": "https://www.productos-info.com/product/634c423b-0353-47fb-9daf-09d48cfddaff"
-    },
-    "PUR6AV04BU-G": {
-        "technical_specification": "https://www.productos-info.com/product/7ed5d8ee-f6e2-43ab-acf9-bc8f65e62ab5"
-    },
-    "PUR6AV04IG-G": {
-        "technical_specification": "https://www.productos-info.com/product/190f3339-1b2e-4791-a141-02da7be7aff3"
-    },
-    "PUR6AV04GR-G": {
-        "technical_specification": "https://www.productos-info.com/product/bceca286-28b0-47bc-b636-0c1a5b6c3d33"
-    },
-    "PUL6AV04WH-EG": {
-        "technical_specification": "https://www.productos-info.com/product/a2edc520-a0d9-4a4a-a49b-28663aa80863"
-    },
-    "PUL6AHD04RD-EG": {
-        "technical_specification": "https://www.productos-info.com/product/12193232-edd1-4217-a0ed-cd60629bdf02"
-    },
-    "PUR6C04BU-M": {
-        "technical_specification": "https://www.productos-info.com/product/12526828-fd07-4d4b-a29b-8dc75edde880"
-    },
-    "PRO-CAT-6-PLUS-W/500-V2": {
-        "technical_specification": "https://www.productos-info.com/product/928b9dc7-4397-42b7-84f0-96721a52c9ef"
-    },
-    "PRO-CAT-6-PLUS/500-V2": {
-        "technical_specification": "https://www.productos-info.com/product/656d55b9-cba7-4938-9c89-e4804f5ce565"
-    },
-    "EP-CAT-5E-R2": {
-        "technical_specification": "https://www.productos-info.com/product/6faaf40f-45ec-41c4-9e61-c13b442cc161"
-    },
-    "EP-CAT-5E-V2-EXT": {
-        "technical_specification": "https://www.productos-info.com/product/d9d7dc16-9140-4041-9c51-c7eb6573b10d"
-    },
-    "PRO-CAT-6-PLUS-V2": {
-        "technical_specification": "https://www.productos-info.com/product/d647b0f5-7afe-496b-9979-5149bce561bd"
-    },
-    "PRO-CAT-6-LITE-V2": {
-        "technical_specification": "https://www.productos-info.com/product/b5baffbf-a9f0-4836-bbfd-f5b31a98e157"
-    },
-    "PRO-CAT-5E-W-V2": {
-        "technical_specification": "https://www.productos-info.com/product/4881e355-ecb9-4d3d-a767-b5560fe182a9"
-    },
-    "PRO-CAT5-EXT-LITES": {
-        "technical_specification": "https://www.productos-info.com/product/04e513ba-5a4f-439b-83ee-105e139f6bf4"
-    },
-    "DS-1LN6-UE-WB": {
-        "technical_specification": "https://www.productos-info.com/product/16570a39-5cc4-498a-ae50-fd897fb9336c"
-    },
-    "DS-1LN6UZC0B": {
-        "technical_specification": "https://www.productos-info.com/product/e5568599-2ae6-4e92-b5bb-9afe8eec2b15"
-    },
-    "U-CABLE-C6-CMP": {
-        "technical_specification": "https://www.productos-info.com/product/6059f29f-3b0d-468b-a1be-c870cf96ac07"
-    },
-    "U-CABLE-C6-CMR": {
-        "technical_specification": "https://www.productos-info.com/product/e5bbf28c-ea0d-484d-b1ea-fa03e7cc5682"
-    },
-    "PRO-CAT-6-PLUS/100M": {
-        "technical_specification": "https://www.productos-info.com/product/3b83a44c-e293-4f22-9c3b-a2e27a4770b6"
-    },
-    "PRO-CAT-6-GELX-V2": {
-        "technical_specification": "https://www.productos-info.com/product/386623d0-5fc4-40ea-b7f6-97259f56b7b6"
-    },
-    "CB-US3B": {
-        "technical_specification": "https://www.productos-info.com/product/7c903b69-a48a-4028-a68d-8db2f08b6650"
-    },
-    "EP1314072X100": {
-        "technical_specification": "https://www.productos-info.com/product/7db329fb-d5f7-4109-a9ce-61688fcd47c2"
-    },
-    "LPCB11-X": {
-        "technical_specification": "https://www.productos-info.com/product/c9dd9705-f74d-4de0-bffb-ef3d820ebacf"
-    },
-    "NC-1LN6UU/CCA/M": {
-        "technical_specification": "https://www.productos-info.com/product/59beb2ab-9d49-4371-afce-fffeaf2db5a1"
-    },
-    "UACC-RJ45-COVER": {
-        "technical_specification": "https://www.productos-info.com/product/2edc5fbd-8a1d-4e01-8815-427dc5e28707"
-    },
-    "UACC-KEYSTONE-BLANK-INSERT-TH": {
-        "technical_specification": "https://www.productos-info.com/product/00b3e935-ab5f-48c9-b0a0-5132b3cbe48b"
-    },
-    "UACC-KEYSTONE-BLANK-INSERT": {
-        "technical_specification": "https://www.productos-info.com/product/08e30f22-646b-422d-b4aa-e5ce33486b02"
-    },
-    "UACC-KEYSTONE-COUPLER-C6": {
-        "technical_specification": "https://www.productos-info.com/product/42144c08-1a03-4a38-9e2b-49b3c7e9d027"
-    },
-    "UACC-KEYSTONE-COUPLER-C6A": {
-        "technical_specification": "https://www.productos-info.com/product/221b81e0-2c5f-4adb-afa9-990964980990"
-    },
-    "UACC-KEYSTONE-JACK-C6": {
-        "technical_specification": "https://www.productos-info.com/product/7c6138de-ab79-4778-b001-4f3aa3ed4c62"
-    },
-    "UACC-KEYSTONE-JACK-C6A": {
-        "technical_specification": "https://www.productos-info.com/product/f532eccc-6ed5-4ebc-9d6a-7077313a2648"
-    },
-    "CPS1215RMS": {
-        "technical_specification": "https://www.productos-info.com/product/a5ca7845-9bd4-4dde-b48d-f0532d2394e8"
-    },
-    "P36B22M": {
-        "technical_specification": "https://www.productos-info.com/product/acae9b06-8b3b-4250-ba54-ea83c6e203e9"
-    },
-    "P22B05M": {
-        "technical_specification": "https://www.productos-info.com/product/eb537823-d5aa-4366-8c2b-1fcf0a96b746"
-    },
-    "P22B09M": {
-        "technical_specification": "https://www.productos-info.com/product/ecef2713-3c85-40c1-af72-17ff83a6fcf3"
-    },
-    "P20B16M": {
-        "technical_specification": "https://www.productos-info.com/product/8f66ab27-5f28-4ea8-9c0a-8ddec371c202"
-    },
-    "P42B17M": {
-        "technical_specification": "https://www.productos-info.com/product/80d6156a-3d00-416a-a9f2-0caa286aa1be"
-    },
-    "PDU30BVHVT20F": {
-        "technical_specification": "https://www.productos-info.com/product/f436f202-a44c-4ade-a52c-e8f496839f5c"
-    },
-    "DP1N481815": {
-        "technical_specification": "https://www.productos-info.com/product/b41739fc-62d6-4783-957e-2549507a3a70"
-    },
-    "CPS1220RMS": {
-        "technical_specification": "https://www.productos-info.com/product/2c973d02-c9be-4aff-b9e3-6cae640b37da"
-    },
-    "U-CABLE-PATCH-3M-RJ45-BK": {
-        "technical_specification": "https://www.productos-info.com/product/60ac7b31-ea5e-4f0f-922c-0434d6cbc6ef"
+        "technical_specification": "https://www.productos-info.com/product/7c8adf3a-e8bc-411e-a364-2362ab1d77a6"
     },
     "HEC3-24WR": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/HEC3-24WR-HOCHIKI-37510.html"
