@@ -194,7 +194,7 @@ class SyscomModelListApp(SyscomSyncCore):
 
         producto = self.obtener_producto_detallado_syscom(producto)
         self.productos_cache[cache_key] = producto
-        categoria = self.obtener_titulo_categoria_producto(producto) or "N/A"
+        categoria = " / ".join(self.obtener_ruta_categoria_producto(producto)) or "N/A"
 
         texto_detalle = (
             f"Marca: {producto.get('marca', '')}\n"
