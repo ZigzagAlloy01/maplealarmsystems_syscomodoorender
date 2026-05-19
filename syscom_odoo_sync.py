@@ -194,10 +194,12 @@ class SyscomModelListApp(SyscomSyncCore):
 
         producto = self.obtener_producto_detallado_syscom(producto)
         self.productos_cache[cache_key] = producto
+        categoria = self.obtener_titulo_categoria_producto(producto) or "N/A"
 
         texto_detalle = (
             f"Marca: {producto.get('marca', '')}\n"
             f"Modelo: {self.obtener_modelo_producto(producto)}\n"
+            f"Categoria: {categoria}\n"
             f"SAT / UNSPSC: {self.obtener_sat_producto(producto) or 'N/A'}\n"
             f"Precio lista: {self.obtener_precio_lista(producto):.2f} {DISPLAY_CURRENCY}\n"
             f"Precio especial: {self.obtener_precio_especial(producto):.2f} {DISPLAY_CURRENCY}\n"

@@ -251,6 +251,9 @@ TECHNICAL_SPECIFICATION_FIELD_CANDIDATES = (
     "x_studio_ficha_tecnica_url",
     "ficha_tecnica_url",
 )
+CATEGORY_OBJECT_KEYS = {"categoria", "category", "subcategoria", "subcategory", "linea", "line"}
+CATEGORY_NAME_KEYS = {"nombre", "name", "titulo", "title", "label", "descripcion"}
+CATEGORY_ID_KEYS = {"id", "categoria_id", "category_id", "id_categoria", "subcategoria_id", "id_subcategoria"}
 
 def _normalize_model_key(texto):
     return re.sub(r"[^A-Z0-9]", "", str(texto or "").upper())
@@ -323,6 +326,7 @@ class SyscomSyncCore:
 
         self.models = xmlrpc.client.ServerProxy(f"{ODOO_URL}/xmlrpc/2/object")
         self.product_template_fields = self.obtener_campos_modelo("product.template")
+        self.product_category_fields = self.obtener_campos_modelo("product.category")
         self.unspsc_fields = self.obtener_campos_modelo("product.unspsc.code")
         self.supplierinfo_fields = self.obtener_campos_modelo("product.supplierinfo")
         self.partner_fields = self.obtener_campos_modelo("res.partner")
@@ -337,6 +341,8 @@ class SyscomSyncCore:
         self.partner_cache = {}
         self.uom_cache = {}
         self.currency_cache = {}
+        self.product_category_cache = {}
+        self.syscom_category_cache = {}
         self.descriptions_map = DESCRIPTIONS_MAP
         self.technical_specifications_map = TECHNICAL_SPECIFICATIONS_MAP
         self.technical_specification_field = self.resolver_campo_technical_specification()
@@ -433,6 +439,217 @@ class SyscomSyncCore:
 
     def normalizar_modelo_clave(self, texto):
         return re.sub(r"[^A-Z0-9]", "", str(texto or "").upper())
+    
+    def _normalizar_categoria_id(self, valor):
+        if valor is None:
+            return None
+        
+        texto = str(valor).strip()
+        if not texto:
+            return None
+        if texto.isdigit():
+            return texto
+        return None
+    
+    def _extraer_categoria_desde_valor(self, valor):
+        if isinstance(valor, list):
+            categorias = []
+            for index, item in enumerate(valor):
+                if isinstance(item, dict):
+                    nombre = None
+                    categoria_id = None
+                    nivel = None
+
+                    for key, nested_value in item.items():
+                        key_norm = str(key).strip().lower()
+                        if key_norm in CATEGORY_NAME_KEYS and isinstance(nested_value, str) and nested_value.strip():
+                            nombre = nested_value.strip()
+                        elif key_norm in CATEGORY_ID_KEYS:
+                            categoria_id = self._normalizar_categoria_id(nested_value)
+                        elif key_norm == "nivel":
+                            nivel = self.normalizar_numero(nested_value)
+
+                    if nombre or categoria_id:
+                        categorias.append(
+                            {
+                                "name": nombre,
+                                "id": categoria_id,
+                                "nivel": nivel if nivel is not None else -1,
+                                "index": index,
+                            }
+                        )
+                elif isinstance(item, str) and item.strip():
+                    categorias.append(
+                        {
+                            "name": item.strip(),
+                            "id": None,
+                            "nivel": -1,
+                            "index": index,
+                        }
+                    )
+
+            if categorias:
+                categorias.sort(key=lambda cat: (cat["nivel"], -cat["index"]), reverse=True)
+                mejor = categorias[0]
+                return {"name": mejor["name"], "id": mejor["id"]}
+
+            return {"name": None, "id": None}
+
+        if isinstance(valor, dict):
+            nombre = None
+            categoria_id = None
+
+            for key, item in valor.items():
+                key_norm = str(key).strip().lower()
+                if key_norm in CATEGORY_NAME_KEYS and isinstance(item, str) and item.strip():
+                    nombre = item.strip()
+                elif key_norm in CATEGORY_ID_KEYS:
+                    categoria_id = self._normalizar_categoria_id(item)
+
+            return {"name": nombre, "id": categoria_id}
+
+        if isinstance(valor, str):
+            texto = valor.strip()
+            if not texto:
+                return {"name": None, "id": None}
+            if texto.isdigit():
+                return {"name": None, "id": texto}
+            return {"name": texto, "id": None}
+
+        categoria_id = self._normalizar_categoria_id(valor)
+        return {"name": None, "id": categoria_id}
+
+    def _buscar_categoria_en_producto(self, nodo):
+        if isinstance(nodo, dict):
+            for key, value in nodo.items():
+                key_norm = str(key).strip().lower()
+                if key_norm in CATEGORY_OBJECT_KEYS or "categor" in key_norm:
+                    categoria = self._extraer_categoria_desde_valor(value)
+                    if categoria["name"] or categoria["id"]:
+                        return categoria
+
+                if isinstance(value, (dict, list)):
+                    categoria = self._buscar_categoria_en_producto(value)
+                    if categoria["name"] or categoria["id"]:
+                        return categoria
+
+        if isinstance(nodo, list):
+            for item in nodo:
+                categoria = self._buscar_categoria_en_producto(item)
+                if categoria["name"] or categoria["id"]:
+                    return categoria
+
+        return {"name": None, "id": None}
+
+    def obtener_categoria_syscom_por_id(self, categoria_id):
+        categoria_id = self._normalizar_categoria_id(categoria_id)
+        if not categoria_id:
+            return None
+
+        if categoria_id in self.syscom_category_cache:
+            return self.syscom_category_cache[categoria_id]
+
+        try:
+            response = self.session.get(
+                f"{BASE_URL}categorias/{categoria_id}",
+                timeout=REQUEST_TIMEOUT,
+            )
+            response.raise_for_status()
+            payload = response.json()
+            if isinstance(payload, dict):
+                nombre = str(
+                    payload.get("nombre")
+                    or payload.get("name")
+                    or payload.get("titulo")
+                    or ""
+                ).strip()
+                self.syscom_category_cache[categoria_id] = nombre or None
+                return self.syscom_category_cache[categoria_id]
+        except Exception as e:
+            self.log(f"No se pudo obtener categoria SYSCOM {categoria_id}: {e}")
+
+        self.syscom_category_cache[categoria_id] = None
+        return None
+
+    def obtener_titulo_categoria_producto(self, producto):
+        categoria = self._buscar_categoria_en_producto(producto)
+        if categoria["name"]:
+            return categoria["name"]
+        if categoria["id"]:
+            return self.obtener_categoria_syscom_por_id(categoria["id"])
+        return None
+
+    def buscar_categoria_odoo_id(self, nombre_categoria):
+        nombre_categoria = str(nombre_categoria or "").strip()
+        if not nombre_categoria:
+            return None
+
+        cache_key = nombre_categoria.lower()
+        if cache_key in self.product_category_cache:
+            return self.product_category_cache[cache_key]
+
+        fields = ["id"]
+        if "name" in self.product_category_fields:
+            fields.append("name")
+        if "complete_name" in self.product_category_fields:
+            fields.append("complete_name")
+
+        dominios = []
+        if "name" in self.product_category_fields:
+            dominios.append([["name", "=", nombre_categoria]])
+            dominios.append([["name", "ilike", nombre_categoria]])
+        if "complete_name" in self.product_category_fields:
+            dominios.append([["complete_name", "=", nombre_categoria]])
+            dominios.append([["complete_name", "ilike", nombre_categoria]])
+
+        for domain in dominios:
+            try:
+                encontrados = self.models.execute_kw(
+                    ODOO_DB,
+                    self.uid,
+                    ODOO_PASSWORD,
+                    "product.category",
+                    "search_read",
+                    [domain],
+                    {"fields": fields, "limit": 1},
+                )
+                if encontrados:
+                    categoria_id = encontrados[0]["id"]
+                    self.product_category_cache[cache_key] = categoria_id
+                    return categoria_id
+            except Exception as e:
+                self.log(f"No se pudo buscar categoria '{nombre_categoria}' en Odoo: {e}")
+
+        self.product_category_cache[cache_key] = None
+        return None
+
+    def obtener_o_crear_categoria_odoo(self, nombre_categoria):
+        nombre_categoria = str(nombre_categoria or "").strip()
+        if not nombre_categoria:
+            return None
+
+        categoria_id = self.buscar_categoria_odoo_id(nombre_categoria)
+        if categoria_id:
+            return categoria_id
+
+        if "name" not in self.product_category_fields:
+            self.log("El modelo product.category no expone el campo name en esta base")
+            return None
+
+        try:
+            categoria_id = self.models.execute_kw(
+                ODOO_DB,
+                self.uid,
+                ODOO_PASSWORD,
+                "product.category",
+                "create",
+                [{"name": nombre_categoria}],
+            )
+            self.product_category_cache[nombre_categoria.lower()] = categoria_id
+            return categoria_id
+        except Exception as e:
+            self.log(f"No se pudo crear categoria '{nombre_categoria}' en Odoo: {e}")
+            return None
     
     def obtener_descripciones_personalizadas(self, producto):
         modelo = self.obtener_modelo_producto(producto)
@@ -1039,6 +1256,20 @@ class SyscomSyncCore:
                 data[self.technical_specification_field] = technical_specification
             elif CLEAR_TECHNICAL_SPECIFICATION:
                 data[self.technical_specification_field] = ""
+
+        if "categ_id" in self.product_template_fields:
+            categoria_titulo = self.obtener_titulo_categoria_producto(producto)
+            if categoria_titulo:
+                categoria_id = self.obtener_o_crear_categoria_odoo(categoria_titulo)
+                if categoria_id:
+                    data["categ_id"] = categoria_id
+                else:
+                    self.log(
+                        f"No se pudo resolver la categoria de Odoo '{categoria_titulo}' "
+                        f"para modelo {modelo}"
+                    )
+            else:
+                self.log(f"No se encontro categoria SYSCOM para modelo {modelo}")
 
         if "unspsc_code_id" in self.product_template_fields and sat_key:
             unspsc_id = self.buscar_unspsc_odoo(sat_key)
