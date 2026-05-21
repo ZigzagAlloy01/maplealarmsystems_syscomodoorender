@@ -199,7 +199,8 @@ class SyscomModelListApp(SyscomSyncCore):
         texto_detalle = (
             f"Marca: {producto.get('marca', '')}\n"
             f"Modelo: {self.obtener_modelo_producto(producto)}\n"
-            f"Categoria: {categoria}\n"
+            f"Categoria interna Odoo: {categoria}\n"
+            f"Categoria sitio web Odoo: {categoria}\n"
             f"SAT / UNSPSC: {self.obtener_sat_producto(producto) or 'N/A'}\n"
             f"Precio lista: {self.obtener_precio_lista(producto):.2f} {DISPLAY_CURRENCY}\n"
             f"Precio especial: {self.obtener_precio_especial(producto):.2f} {DISPLAY_CURRENCY}\n"
