@@ -10150,5 +10150,69 @@
     "SYSNGV2-KIT": {
         "website_description": "Paquete de inicio confiable y potente para la automatización de la seguridad en bardas, ofreciendo una instalación limpia y resultados inmediatos. Su diseño eficiente garantiza que tu sistema de protección siempre cuente con la fuerza necesaria para repeler intrusos, manteniendo un bajo consumo de energía. Es la opción equilibrada entre precio y potencia, ideal para asegurar casas residenciales y pequeños negocios hoy mismo.",
         "description_sale": "Kit de cerco eléctrico eficiente; protección potente y económica para tu seguridad diaria."
+    },
+    "DS-PDSMK-4": {
+        "website_description": "Protege a tu familia con este detector inteligente que identifica el humo al instante en caso de un principio de incendio. Se conecta directo al sistema de alarma de tu hogar para dar un aviso general y activar las sirenas de inmediato. Su diseño discreto se adapta perfectamente a cualquier techo sin alterar la decoración de tu casa.",
+        "description_sale": "Detector inteligente de humo que se conecta a tu sistema de alarma para alertar ante cualquier inicio de fuego."
+    },
+    "SF-119-2L": {
+        "website_description": "Un sensor esencial para la cocina o habitaciones que detecta a tiempo la presencia de humo y fuego. Cuenta con una luz indicadora visual integrada que te permite confirmar de un vistazo que el dispositivo está funcionando correctamente. Ideal para brindar tranquilidad y una respuesta rápida ante emergencias en el hogar.",
+        "description_sale": "Sensor de humo con luz indicadora visual para una detección oportuna de incendios en el hogar."
+    },
+    "DS-PDSMK-4BAR": {
+        "website_description": "Mantén tu casa segura con este detector de humo de alta precisión diseñado para trabajar en conjunto con tu alarma. Monitorea el ambiente de forma constante y envía una señal de alerta inmediata al panel principal si detecta una amenaza. Es la herramienta ideal para cuidar las habitaciones de tus seres queridos las 24 horas.",
+        "description_sale": "Detector de humo confiable y continuo para integración directa con alarmas residenciales."
+    },
+    "1046832": {
+        "website_description": "Este dispositivo de seguridad contra incendios supervisa el aire de tus habitaciones para reaccionar ante el humo antes de que se propague. Está fabricado con componentes de alta durabilidad para garantizar un funcionamiento libre de fallas por años. Un elemento indispensable y fácil de entender para mantener a salvo a toda la familia.",
+        "description_sale": "Dispositivo de seguridad que detecta humo de manera temprana para evitar la propagación de incendios."
+    },
+    "SF-119-412": {
+        "website_description": "Sensor de humo diseñado para una instalación fija en el techo que se integra a los sistemas de seguridad de la casa. Reacciona rápidamente ante la presencia de combustión para que puedas actuar a tiempo y poner a salvo a los tuyos. Su funcionamiento es completamente automático y no requiere que configures nada en tu día a día.",
+        "description_sale": "Sensor automático de humo para techos, diseñado para una protección rápida del hogar."
+    },
+    "SF-119-4H12": {
+        "website_description": "La máxima protección para tu hogar combinando la detección de humo visible y los cambios drásticos de temperatura por fuego. Este sensor dual avisa si hay una emergencia incluso si el incendio genera poco humo al principio, haciéndolo ideal para áreas como la cocina. Una solución completa y fácil de entender para cuidar tu patrimonio.",
+        "description_sale": "Sensor dual que detecta tanto el humo como el calor extremo para una máxima alerta de incendios."
+    },
+    "SOE-24V": {
+        "website_description": "Este accesorio de alerta emite una señal clara hacia el sistema central cuando se activa un sensor de emergencia en la propiedad. Ayuda a que el sistema identifique con precisión qué zona está en riesgo para que recibas la asistencia correcta. Su diseño industrial garantiza que funcionará exactamente cuando más lo necesitas.",
+        "description_sale": "Módulo de señalización para sistemas de seguridad que ayuda a identificar zonas en emergencia."
+    },
+    "4W-B": {
+        "website_description": "Un detector de humo residencial clásico y altamente confiable que se coloca en el techo para cuidar tus espacios principales. Analiza constantemente el aire y se enlaza de forma estable al cableado de seguridad de tu hogar para no perder conexión. Ideal para familias que buscan protección básica pero sumamente efectiva contra incendios.",
+        "description_sale": "Detector de humo clásico para techo, diseñado para una conexión estable con tu sistema de seguridad."
+    },
+    "1046747": {
+        "website_description": "Protección continua contra el fuego con este sensor de humo diseñado para pasar desapercibido en salas o pasillos. Ofrece una respuesta inmediata ante amenazas silenciosas, enviando la alerta al sistema central para que la alarma comience a sonar. Su mantenimiento es muy sencillo, requiriendo solo una limpieza básica ocasional.",
+        "description_sale": "Sensor de humo discreto de respuesta inmediata para colocar en pasillos y estancias."
+    },
+    "2W-TB": {
+        "website_description": "Moderno detector que cuida tu casa de dos formas: identifica el humo en el ambiente y mide los aumentos peligrosos de temperatura. Si la cocina o la sala se calientan demasiado por un fuego repentino, el sensor dará la alarma de inmediato. Es tecnología avanzada explicada de forma simple para la seguridad de tu familia.",
+        "description_sale": "Detector inteligente que alerta al instante ante la presencia de humo o calor excesivo."
+    },
+    "4W-TB": {
+        "website_description": "Sensor de protección total contra incendios que combina la detección de humo con un termómetro interno de emergencia. Al conectarse de forma independiente, garantiza que la señal llegará a la alarma central de la casa pase lo que pase. Perfecto para quienes desean blindar áreas críticas del hogar contra accidentes.",
+        "description_sale": "Sensor combinado de humo y temperatura con conexión de alta seguridad para el hogar."
+    },
+    "4W-TAB": {
+        "website_description": "Este detector inteligente no solo avisa a tu sistema de alarma si hay humo o calor, sino que incluye una sirena interna incorporada. Esto significa que el propio aparato sonará con fuerza en la habitación donde se encuentre el peligro, despertando a tu familia de inmediato. Es la opción más completa para recámaras y zonas de descanso.",
+        "description_sale": "Detector de humo y calor con sirena integrada para una alerta audible en la misma habitación."
+    },
+    "2151T": {
+        "website_description": "Sensor de humo de perfil ultra bajo y diseño estilizado, ideal para quienes cuidan minuciosamente la estética de su hogar. Monitorea de forma especializada las partículas de combustión en el aire y cuenta con un sensor térmico adicional para emergencias de fuego. Combina elegancia visual con una protección contra incendios altamente efectiva.",
+        "description_sale": "Sensor de humo estético de bajo perfil con protección térmica para techos residenciales."
+    },
+    "4WITAR-B": {
+        "website_description": "La solución definitiva en prevención de incendios para el hogar, equipada con detección de humo, calor y una alarma sonora integrada. Además, cuenta con un sistema visual que parpadea para confirmar que todo está bajo control o alertar en emergencias. Muy fácil de entender y diseñado para darte total tranquilidad mientras duermes.",
+        "description_sale": "Detector avanzado de humo y calor con sirena propia y alertas visuales integradas."
+    },
+    "2W-TAB": {
+        "website_description": "Excelente detector dual de humo y temperatura que incluye su propio avisador acústico para emergencias. Al detectar fuego o calor extremo, el dispositivo emite un sonido fuerte en el sitio además de alertar al panel central de la casa. Una doble capa de protección muy fácil de asimilar para cualquier miembro del hogar.",
+        "description_sale": "Sensor dual de humo y calor con avisador acústico integrado para alertar en el sitio."
+    },
+    "4W-TRB": {
+        "website_description": "Detector de humo y calor de alta gama que incluye una función de restablecimiento automático para mayor comodidad. Si el humo se disipa tras una falsa alarma (como comida un poco quemada), el sensor vuelve a su estado normal sin que tengas que intervenir. Ofrece una seguridad avanzada y sin complicaciones para el día a día.",
+        "description_sale": "Detector de humo y calor con restablecimiento automático para evitar molestias por falsas alarmas."
     }
 }
