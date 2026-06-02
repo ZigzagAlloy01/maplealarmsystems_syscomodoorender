@@ -48,6 +48,11 @@ SUPPLIER_MIN_QTY = 1.0
 SALE_FACTOR_1 = 1.04
 SALE_FACTOR_IVA = 1.14
 
+FIXED_SALE_PRICE_MODELS = {
+    "LK5512": 450.0,
+    "LK712": 500.0,
+}
+
 SPECIAL_MULTIPLIER_MODELS = {
     "SF16AWG500": 2.0,
     "PROCAT6EXTLITEV2": 2.0,
@@ -845,6 +850,9 @@ class SyscomSyncCore:
     
     def obtener_multiplicador_especial_modelo(self, modelo):
         return SPECIAL_MULTIPLIER_MODELS.get(self.normalizar_modelo_clave(modelo))
+    
+    def obtener_precio_venta_fijo_modelo(self, modelo):
+        return FIXED_SALE_PRICE_MODELS.get(self.normalizar_modelo_clave(modelo))
 
     def obtener_multiplicador_venta(self, precio_compra, modelo=None):
         multiplicador_especial = self.obtener_multiplicador_especial_modelo(modelo)
@@ -873,6 +881,9 @@ class SyscomSyncCore:
     def obtener_precio_venta(self, producto):
         precios = producto.get("precios", {}) if isinstance(producto, dict) else (producto or {})
         modelo = producto.get("modelo") if isinstance(producto, dict) else None
+        precio_venta_fijo = self.obtener_precio_venta_fijo_modelo(modelo)
+        if precio_venta_fijo is not None:
+            return precio_venta_fijo
         precio_compra = self.obtener_precio_compra(precios)
         if precio_compra <= 0:
             return 0.0
