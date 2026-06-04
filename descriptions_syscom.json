@@ -10214,5 +10214,13 @@
     "4W-TRB": {
         "website_description": "Detector de humo y calor de alta gama que incluye una función de restablecimiento automático para mayor comodidad. Si el humo se disipa tras una falsa alarma (como comida un poco quemada), el sensor vuelve a su estado normal sin que tengas que intervenir. Ofrece una seguridad avanzada y sin complicaciones para el día a día.",
         "description_sale": "Detector de humo y calor con restablecimiento automático para evitar molestias por falsas alarmas."
+    },
+    "BG-12LSP": {
+        "website_description": "Protege tu negocio u hogar con esta palanca de emergencia contra incendios fácil de usar y con instrucciones claras en español. Su diseño inteligente de doble acción evita que la alarma se active por accidente o golpes casuales, ya que requiere dos movimientos simples para funcionar. Está fabricada con materiales altamente visibles y muy resistentes, e incluye una cerradura con llave para restablecerla de forma segura después de haber sido activada.",
+        "description_sale": "Palanca manual de emergencia contra incendios con doble movimiento de seguridad para evitar falsas alarmas."
+    },
+    "REACTIVAM2M": {
+        "website_description": "Dale una segunda vida a tu sistema de seguridad con este servicio digital que reactiva la señal y conexión de tu alarma si esta se encuentra vencida o suspendida. Te permite volver a habilitar tu dispositivo de forma rápida y sencilla directamente desde tu celular mediante una aplicación o plataforma en línea. Es el paso previo e indispensable para volver a contratar tu anualidad de monitoreo y asegurar que tu hogar o negocio sigan protegidos sin interrupciones.",
+        "description_sale": "Servicio digital de reactivación para recuperar la señal y conexión de tu sistema de alarma suspendido."
     }
 }
