@@ -518,7 +518,7 @@
     "JBX3510WH-A": {
         "technical_specification": "https://www.productos-info.com/product/82d847e0-3f02-4358-b536-088e76040f1a"
     },
-    "CS-EB8-4G": {
+    "CS-EB8/4G": {
         "technical_specification": "https://www.productos-info.com/product/2a02920e-eae6-4438-b3ee-e3529a0b78ed"
     },
     "TMK-1020-SD": {
@@ -5198,9 +5198,6 @@
     "IPC-B140HA-LUC": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IPC-B140HA-LUC-HiLook-by-HIKVISION-237369.html"
     },
-    "DS-2CD2347G2H-LIU": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2347G2H-LIU-HIKVISION-220946.html"
-    },
     "DS-2CD2387G2-L(U)(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2387G2-L(U)(C)-HIKVISION-199757.html"
     },
@@ -7654,5 +7651,8 @@
     },
     "REACTIVAM2M": {
         "technical_specification": "https://www.productos-info.com/product/08626559-5693-468a-820e-8acca1ac6137"
+    },
+    "DS-7732NXI-K4(E)": {
+        "technical_specification": "https://www.productos-info.com/product/5c3e216d-f2d6-4a58-9e34-1629eea4661d"
     }
 }

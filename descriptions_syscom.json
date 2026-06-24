@@ -691,7 +691,7 @@
         "website_description": "Asegura la integridad de tus empalmes eléctricos con esta caja de conexiones de alta visibilidad. Su diseño facilita el acceso para revisiones técnicas mientras mantiene el contenido protegido contra agentes externos. Es el complemento ideal para sistemas de canalización que requieren puntos de derivación seguros y ordenados, cumpliendo con los estándares necesarios para instalaciones eléctricas de baja tensión.",
         "description_sale": "Caja de derivación reforzada para instalaciones eléctricas y de seguridad."
     },
-    "CS-EB8-4G": {
+    "CS-EB8/4G": {
         "website_description": "Vigila cualquier lugar, incluso sin Wi-Fi ni electricidad, con esta cámara motorizada que funciona con red celular 4G. Gracias a su capacidad de giro de 360 grados y su compatibilidad con paneles solares, ofrece una vigilancia autónoma total en ranchos, obras en construcción o zonas remotas. Cuenta con detección inteligente de personas y visión nocturna a color, enviando alertas en tiempo real directo a tu smartphone.",
         "description_sale": "Cámara motorizada 4G totalmente inalámbrica con visión nocturna a color y detección de IA."
     },
@@ -6495,10 +6495,6 @@
         "website_description": "Disfruta de imágenes vibrantes y nítidas durante todo el día con esta cámara equipada con tecnología de color constante. A diferencia de las cámaras tradicionales, este modelo captura video a color incluso de noche, permitiéndote identificar ropa o vehículos con total precisión. Su diseño tipo bala es ideal para exteriores, resistiendo la lluvia y el sol mientras protege tu fachada de forma elegante.",
         "description_sale": "Cámara exterior con visión nocturna a todo color; identifica detalles precisos día y noche sin fallas."
     },
-    "DS-2CD2347G2H-LIU": {
-        "website_description": "Esta cámara inteligente ilumina tu camino al llegar a casa gracias a su luz blanca integrada que se activa al detectar presencia humana. Ofrece una resolución excepcional que permite ver rostros con total claridad, eliminando las molestas alertas provocadas por el viento o mascotas. Es la guardiana tecnológica perfecta para tu entrada principal, combinando un reflector de seguridad con vigilancia de alta gama.",
-        "description_sale": "Cámara inteligente con luz de cortesía y visión a color; alertas precisas que ignoran movimientos falsos."
-    },
     "DS-2CD2387G2-L(U)(C)": {
         "website_description": "Lleva la vigilancia de tu negocio al siguiente nivel con esta cámara 4K que graba video a todo color las 24 horas del día sin interrupciones. Su micrófono integrado permite capturar el audio del ambiente, brindándote una prueba completa de video y sonido ante cualquier incidente importante. Es robusta, profesional y diseñada para ofrecer una claridad insuperable en áreas grandes como estacionamientos o bodegas.",
         "description_sale": "Cámara 4K a color 24/7 con micrófono integrado; visión y sonido de máxima fidelidad para tu seguridad."
@@ -9023,10 +9019,6 @@
         "website_description": "Disco duro de alta gama fabricado por expertos para trabajar en perfecta armonía con tus grabadores de cámaras de seguridad de marca líder mundial. Ofrece una estabilidad absoluta en la grabación, eliminando ruidos en el video y asegurando que cada detalle capturado sea útil en caso de una emergencia. Es robusto, silencioso y la pieza maestra para un sistema de vigilancia inquebrantable en tu hogar.",
         "description_sale": "Disco duro especializado Hikvision de 4TB; grabación impecable y durabilidad garantizada."
     },
-    "WD43PURZ": {
-        "website_description": "La memoria estándar de oro para cámaras de seguridad en casa, diseñada específicamente para escribir video de alta resolución sin descanso y sin errores. Su tecnología reduce el desgaste del disco, prolongando la vida de tu grabador y asegurando que tus videos se guarden con total fluidez y nitidez. Es sumamente confiable, económica y la opción favorita de familias que buscan proteger su inversión tecnológica.",
-        "description_sale": "Disco duro Purple de 4TB; diseñado para vigilancia 24/7 y videos libres de errores."
-    },
     "HAT3310-16T": {
         "website_description": "Capacidad masiva de almacenamiento en una sola unidad diseñada para guardar años de información o meses de video 4K sin perder ni un detalle de calidad. Es el aliado perfecto para infraestructuras masivas que no permiten huecos en su historia digital, brindando un rendimiento veloz y sumamente estable. Su fabricación de élite asegura que tus datos estén protegidos contra cualquier anomalía técnica por mucho tiempo.",
         "description_sale": "Unidad de almacenamiento de 16TB; memoria gigantesca y estable para sistemas exigentes."
@@ -10222,5 +10214,9 @@
     "REACTIVAM2M": {
         "website_description": "Dale una segunda vida a tu sistema de seguridad con este servicio digital que reactiva la señal y conexión de tu alarma si esta se encuentra vencida o suspendida. Te permite volver a habilitar tu dispositivo de forma rápida y sencilla directamente desde tu celular mediante una aplicación o plataforma en línea. Es el paso previo e indispensable para volver a contratar tu anualidad de monitoreo y asegurar que tu hogar o negocio sigan protegidos sin interrupciones.",
         "description_sale": "Servicio digital de reactivación para recuperar la señal y conexión de tu sistema de alarma suspendido."
+    },
+    "DS-7732NXI-K4(E)": {
+        "website_description": "Asegura por completo tu hogar o negocio con este potente grabador inteligente, capaz de coordinar hasta 32 cámaras de seguridad al mismo tiempo con una claridad de imagen impresionante en 4K. Gracias a su tecnología avanzada, es lo suficientemente inteligente como para reconocer rostros y distinguir entre personas, vehículos u objetos en movimiento, evitando molestas falsas alarmas en tu celular. Además, cuenta con un enorme espacio para discos duros que te permitirá guardar semanas o meses de grabación continua sin preocuparte por el espacio.",
+        "description_sale": "Grabador de video inteligente de alta capacidad para conectar hasta 32 cámaras con reconocimiento de rostros y calidad Ultra HD."
     }
 }

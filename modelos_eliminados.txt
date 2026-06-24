@@ -1,0 +1,37 @@
+DS-2CD2347G2H-LIU
+
+    "DS-2CD2347G2H-LIU": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
+        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Domo"
+    },
+
+"DS-2CD2347G2H-LIU": {
+        "website_description": "Esta cámara inteligente ilumina tu camino al llegar a casa gracias a su luz blanca integrada que se activa al detectar presencia humana. Ofrece una resolución excepcional que permite ver rostros con total claridad, eliminando las molestas alertas provocadas por el viento o mascotas. Es la guardiana tecnológica perfecta para tu entrada principal, combinando un reflector de seguridad con vigilancia de alta gama.",
+        "description_sale": "Cámara inteligente con luz de cortesía y visión a color; alertas precisas que ignoran movimientos falsos."
+    },
+
+    "DS-2CD2347G2H-LIU": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2347G2H-LIU-HIKVISION-220946.html"
+    },
+
+
+
+Este se paso a TVC
+
+WD43PURZ
+
+"WD43PURZ": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Almacenamiento",
+        "category_level_three": "Cámaras de Seguridad / Almacenamiento / Todos"
+    },
+
+"WD43PURZ": {
+        "website_description": "La memoria estándar de oro para cámaras de seguridad en casa, diseñada específicamente para escribir video de alta resolución sin descanso y sin errores. Su tecnología reduce el desgaste del disco, prolongando la vida de tu grabador y asegurando que tus videos se guarden con total fluidez y nitidez. Es sumamente confiable, económica y la opción favorita de familias que buscan proteger su inversión tecnológica.",
+        "description_sale": "Disco duro Purple de 4TB; diseñado para vigilancia 24/7 y videos libres de errores."
+    },
+
+    "WD43PURZ": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/WD43PURZ-Western-Digital-(WD)-219367.html"
+    },
