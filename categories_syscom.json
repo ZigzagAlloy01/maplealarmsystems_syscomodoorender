@@ -7154,6 +7154,11 @@
         "category_level_two": "Cercas Eléctricas / Accesorios para Cercas Eléctricas",
         "category_level_three": "Cercas Eléctricas / Accesorios para Cercas Eléctricas / Alambre y cable bujía"
     },
+    "SF16AWG500": {
+        "category_level_one": "Cercas Eléctricas",
+        "category_level_two": "Cercas Eléctricas / Accesorios para Cercas Eléctricas",
+        "category_level_three": "Cercas Eléctricas / Accesorios para Cercas Eléctricas / Alambre y cable bujía"
+    },
     "AWG100": {
         "category_level_one": "Cercas Eléctricas",
         "category_level_two": "Cercas Eléctricas / Accesorios para Cercas Eléctricas",
