@@ -857,7 +857,8 @@ class SyscomSyncCore:
     def obtener_modelo_producto(self, producto):
         return str(producto.get("modelo") or "").strip()
 
-
+    def obtener_marca(self, producto):
+        return str(producto.get("marca") or "").strip()
 
     def obtener_nombre_producto(self, producto):
         return str(producto.get("titulo") or "Producto SYSCOM").strip()
@@ -1396,6 +1397,7 @@ class SyscomSyncCore:
         producto = self.obtener_producto_detallado_syscom(producto)
         nombre = self.obtener_nombre_producto(producto)
         modelo = self.obtener_modelo_producto(producto)
+        marca = self.obtener_marca(producto)
         precio_venta = self.obtener_precio_venta(producto)
         sat_key = self.obtener_sat_producto(producto)
         peso = self.obtener_peso_producto(producto)
@@ -1470,6 +1472,9 @@ class SyscomSyncCore:
                 data["unspsc_code_id"] = unspsc_id
             else:
                 self.log(f"No se encontro codigo UNSPSC en Odoo para SAT {sat_key} del modelo {modelo}")
+
+        if "description_purchase" in self.product_template_fields and marca:
+            data["description_purchase"] = marca
 
         if "weight" in self.product_template_fields and peso is not None:
             data["weight"] = peso
@@ -1587,6 +1592,7 @@ class SyscomSyncCore:
         for producto in self.productos_cache.values():
             nombre = self.obtener_nombre_producto(producto)
             modelo = self.obtener_modelo_producto(producto)
+            marca = self.obtener_marca(producto)
             precio_compra = self.obtener_precio_compra(producto.get("precios", {}))
             precio_venta = self.obtener_precio_venta(producto)
             stock = self.obtener_stock_producto(producto)
@@ -1624,6 +1630,7 @@ class SyscomSyncCore:
                     {
                         "accion": "coincidencia",
                         "modelo": modelo,
+                        "marca": marca,
                         "nombre": nombre,
                         "precio_compra_syscom": precio_compra,
                         "precio_venta_syscom": precio_venta,
@@ -1645,6 +1652,7 @@ class SyscomSyncCore:
                     {
                         "accion": "crear",
                         "modelo": modelo,
+                        "marca": marca,
                         "nombre": nombre,
                         "precio_compra_syscom": precio_compra,
                         "precio_venta_syscom": precio_venta,

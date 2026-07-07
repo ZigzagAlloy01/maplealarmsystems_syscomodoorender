@@ -65,11 +65,12 @@ class SyscomModelListApp(SyscomSyncCore):
 
         self.tree = ttk.Treeview(
             frame_grid,
-            columns=("ID", "Modelo", "Titulo", "P_Lista", "P_Especial", "P_Desc", "Existencia"),
+            columns=("ID", "Modelo", "Marca", "Titulo", "P_Lista", "P_Especial", "P_Desc", "Existencia"),
             show="headings",
         )
         self.tree.heading("ID", text="ID Producto")
         self.tree.heading("Modelo", text="Modelo")
+        self.tree.heading("Marca", text="Marca")
         self.tree.heading("Titulo", text="Titulo")
         self.tree.heading("P_Lista", text="Precio Lista")
         self.tree.heading("P_Especial", text="Precio Especial")
@@ -78,6 +79,7 @@ class SyscomModelListApp(SyscomSyncCore):
 
         self.tree.column("ID", width=70)
         self.tree.column("Modelo", width=180)
+        self.tree.column("Marca", width=180)
         self.tree.column("Titulo", width=380)
         self.tree.column("P_Lista", width=95)
         self.tree.column("P_Especial", width=100)
@@ -144,6 +146,7 @@ class SyscomModelListApp(SyscomSyncCore):
                 values=(
                     producto.get("producto_id", ""),
                     self.obtener_modelo_producto(producto) or "N/A",
+                    self.obtener_marca(producto) or "N/A",
                     self.obtener_nombre_producto(producto),
                     f"${self.obtener_precio_lista(producto):,.2f}",
                     f"${self.obtener_precio_especial(producto):,.2f}",
@@ -197,7 +200,7 @@ class SyscomModelListApp(SyscomSyncCore):
         categoria = " / ".join(self.obtener_ruta_categoria_producto(producto)) or "N/A"
 
         texto_detalle = (
-            f"Marca: {producto.get('marca', '')}\n"
+            f"Marca: {self.obtener_marca(producto)}\n"
             f"Modelo: {self.obtener_modelo_producto(producto)}\n"
             f"Categoria interna Odoo: {categoria}\n"
             f"Categoria sitio web Odoo: {categoria}\n"
