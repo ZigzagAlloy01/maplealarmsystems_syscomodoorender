@@ -857,6 +857,8 @@ class SyscomSyncCore:
     def obtener_modelo_producto(self, producto):
         return str(producto.get("modelo") or "").strip()
 
+
+
     def obtener_nombre_producto(self, producto):
         return str(producto.get("titulo") or "Producto SYSCOM").strip()
     
