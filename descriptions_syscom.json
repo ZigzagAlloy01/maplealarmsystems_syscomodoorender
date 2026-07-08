@@ -10218,5 +10218,29 @@
     "DS-7732NXI-K4(E)": {
         "website_description": "Asegura por completo tu hogar o negocio con este potente grabador inteligente, capaz de coordinar hasta 32 cámaras de seguridad al mismo tiempo con una claridad de imagen impresionante en 4K. Gracias a su tecnología avanzada, es lo suficientemente inteligente como para reconocer rostros y distinguir entre personas, vehículos u objetos en movimiento, evitando molestas falsas alarmas en tu celular. Además, cuenta con un enorme espacio para discos duros que te permitirá guardar semanas o meses de grabación continua sin preocuparte por el espacio.",
         "description_sale": "Grabador de video inteligente de alta capacidad para conectar hasta 32 cámaras con reconocimiento de rostros y calidad Ultra HD."
+    },
+    "DS-PHA64-LPK": {
+        "website_description": "Este kit de alarma es el corazón de la seguridad para tu hogar. Incluye el panel central y un teclado con pantalla para que puedas activar o desactivar el sistema fácilmente cuando entres o salgas. Es la solución ideal para quienes buscan empezar a proteger su casa con un sistema confiable y sencillo de manejar.",
+        "description_sale": "Sistema de alarma completo con panel central y teclado intuitivo para proteger tu hogar con facilidad."
+    },
+    "DS-PHA64-LP/PLUS": {
+        "website_description": "Mejora la seguridad de tu hogar con este sistema avanzado que te permite conectar múltiples sensores, tanto con cables como inalámbricos. Su panel inteligente se encarga de vigilar cada rincón, dándote la tranquilidad de saber que cualquier actividad sospechosa será detectada al instante. Perfecto para una protección completa y personalizada.",
+        "description_sale": "Panel de alarma versátil con capacidad para múltiples sensores, ideal para una vigilancia total y personalizada."
+    },
+    "AXHYBRIDPRO-KIT": {
+        "website_description": "Protege lo que más quieres con este kit todo en uno que combina tecnología de vanguardia para tu tranquilidad. El paquete incluye los componentes básicos necesarios para monitorear puertas, ventanas y espacios interiores, manteniendo tu hogar bajo control. Es fácil de instalar y está diseñado para darte una respuesta inmediata ante cualquier intrusión.",
+        "description_sale": "Kit de seguridad integral con sensores para puertas, ventanas y movimiento para una protección inmediata."
+    },
+    "DS-PHA64-LP/PACK(R)": {
+        "website_description": "Este paquete de seguridad incluye una potente sirena con estrobo rojo para alertar a todos en caso de una emergencia. Diseñado para disuadir a intrusos mediante señales visuales y sonoras claras, es el complemento perfecto para tu sistema de alarma. Asegura tu hogar con un equipo que no pasa desapercibido ante una alerta.",
+        "description_sale": "Kit de alarma con sirena de alta potencia y luz de alerta roja para disuadir cualquier intrusión."
+    },
+    "DS-PHA64-LP/RF": {
+        "website_description": "Olvídate de las instalaciones complicadas con este sistema que facilita la conexión de dispositivos sin necesidad de tantos cables. Esta versión permite integrar sensores inalámbricos de manera sencilla, manteniendo tu casa estética y segura al mismo tiempo. Es la mejor opción para quienes desean proteger su hogar sin hacer modificaciones mayores.",
+        "description_sale": "Panel de alarma con capacidad inalámbrica para una instalación limpia y sin cables molestos."
+    },
+    "DS-PHA64-LP/PACK(30W)": {
+        "website_description": "Si buscas una alerta que realmente se escuche, este sistema incluye una sirena externa de alta potencia (30W). Es ideal para avisar a toda la vecindad o para grandes propiedades donde necesitas una señal sonora fuerte y clara ante cualquier emergencia. Máxima seguridad y disuasión para proteger tu patrimonio con total contundencia.",
+        "description_sale": "Sistema de alarma con sirena externa de gran potencia para una máxima alerta sonora en emergencias."
     }
 }
