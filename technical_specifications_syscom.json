@@ -1109,15 +1109,6 @@
     "DSPWA48KS/EXP": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DSPWA48KS-EXP-HIKVISION-212525.html"
     },
-    "DS-PWA48-KSD": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSD-HIKVISION-199649.html"
-    },
-    "DS-PWA48-KSDV2": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSDV2-HIKVISION-199650.html"
-    },
-    "DS-PWA48-KSDV2(R)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSDV2(R)-HIKVISION-209573.html"
-    },
     "DS-PWA48-KS-RONDIN": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KS-RONDIN-HIKVISION-209994.html"
     },
@@ -4178,9 +4169,6 @@
     "RK40F": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/RK40F-HID-164753.html"
     },
-    "9566945": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9566945-NEDAP-192155.html"
-    },
     "XS2QDPB": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/XS2QDPB-SUPREMA-196609.html"
     },
@@ -4913,9 +4901,6 @@
     "DS-2CD6045G0/SC-IZRS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD6045G0-SC-IZRS-HIKVISION-241762.html"
     },
-    "DS-PLUG-EXTN": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PLUG-EXTN-HIKVISION-164259.html"
-    },
     "IDS-2CD8A48G0-XZS(5-20/4)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/IDS-2CD8A48G0-XZS(5-20-4)-HIKVISION-215085.html"
     },
@@ -4996,9 +4981,6 @@
     },
     "DS-2CD3686G2-IZS(H)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD3686G2-IZS(H)-HIKVISION-218378.html"
-    },
-    "DS-QAZ1307G1T-E(C)": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-QAZ1307G1T-E(C)-HIKVISION-238521.html"
     },
     "DS-2CD1T47G2H-LIUF": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD1T47G2H-LIUF-HIKVISION-228729.html"
@@ -5263,9 +5245,6 @@
     },
     "DS-2CD2747G2-LZS(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD2747G2-LZS(C)-HIKVISION-205408.html"
-    },
-    "DS-QAZ0203G1-S": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-QAZ0203G1-S-HIKVISION-225487.html"
     },
     "DS-2CD1147G2H-LIUF": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CD1147G2H-LIUF-HIKVISION-228723.html"
@@ -5587,9 +5566,6 @@
     },
     "DS-7104NI-K1/W/M(C)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7104NI-K1-W-M(C)-HIKVISION-189287.html"
-    },
-    "200205898": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/200205898-HIKVISION-172225.html"
     },
     "CSX5S/4W": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CSX5S-4W-EZVIZ-237225.html"
@@ -6130,9 +6106,6 @@
     },
     "DS-2CE70DF3T-PTS": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-2CE70DF3T-PTS-HIKVISION-211594.html"
-    },
-    "KIT2MPDL": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT2MPDL-HIKVISION-238547.html"
     },
     "DS-7104HGHI-K1(S)": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-7104HGHI-K1(S)-HIKVISION-195125.html"
@@ -7325,14 +7298,8 @@
     "SS2222PO-ES": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/SS2222PO-ES-STI-96487.html"
     },
-    "YKIT-SISMICO": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/YKIT-SISMICO-YONUSA-225568.html"
-    },
     "YKIT-SISMICO-WIFI": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/YKIT-SISMICO-WIFI-YONUSA-226378.html"
-    },
-    "CHIP-HPRO832-WIFI": {
-        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CHIP-HPRO832-WIFI-PIMA-159202.html"
     },
     "APCONTACT": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/APCONTACT-ACCESSPRO-78340.html"
@@ -7672,5 +7639,17 @@
     },
     "DS-PHA64-LP/PACK(30W)": {
         "technical_specification": "https://www.productos-info.com/product/bf6ea071-1617-4f09-a18d-c39b6ef7b47e"
+    },
+    "TH6320ZW2003": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/169185"
+    },
+    "14315": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/176631"
+    },
+    "MH54A": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/219047"
+    },
+    "46564": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/176647"
     }
 }

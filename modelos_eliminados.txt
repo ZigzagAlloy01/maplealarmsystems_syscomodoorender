@@ -2241,3 +2241,157 @@ WD43PURZ
         "category_level_two": "Baja / Todos",
         "category_level_three": "Baja / Todos / Todos"
     },
+
+YKIT-SISMICO
+    "YKIT-SISMICO": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
+        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
+    },
+        "YKIT-SISMICO": {
+        "website_description": "Kit de detección avanzada diseñado para alertarte ante vibraciones inusuales o intentos de perforación en muros y cajas fuertes de tu propiedad. Incluye sensores de alta sensibilidad que detectan el peligro antes de que el intruso logre entrar, dándote un tiempo valioso para actuar. Es la solución de seguridad preventiva definitiva para proteger tus pertenencias más valiosas con tecnología de precisión.",
+        "description_sale": "Kit de sensores sísmicos; detección anticipada de golpes y perforaciones en muros o cajas fuertes."
+    },
+        "YKIT-SISMICO": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/YKIT-SISMICO-YONUSA-225568.html"
+    },
+
+DS-PLUG-EXTN
+    "DS-PLUG-EXTN": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
+        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Bala"
+    },
+        "DS-PLUG-EXTN": {
+        "website_description": "Accesorio de extensión esencial para facilitar la instalación eléctrica de tus cámaras de seguridad en lugares de difícil acceso. Asegura una conexión firme y protegida contra el polvo, evitando fallas por cables sueltos o malas uniones manuales. Es pequeño, fácil de usar y garantiza que tu sistema de vigilancia siempre reciba la energía necesaria para operar bien.",
+        "description_sale": "Adaptador de extensión eléctrica; facilita y asegura la conexión de tus cámaras de seguridad."
+    },
+        "DS-PLUG-EXTN": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PLUG-EXTN-HIKVISION-164259.html"
+    },
+
+DS-PWA48-KSD
+    "DS-PWA48-KSD": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
+        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
+    },
+        "DS-PWA48-KSD": {
+        "website_description": "Kit de alarma inteligente diseñado para una protección rápida y efectiva de departamentos o locales comerciales pequeños. Incluye sensores inalámbricos de alta precisión que detectan intrusos y te envían notificaciones push directas a tu smartphone. Su instalación es tan sencilla que no requiere técnicos, permitiéndote tener tu sistema operando y vigilando en menos de 15 minutos.",
+        "description_sale": "Kit de alarma básico e inteligente; protege tu espacio de forma rápida y sin complicaciones."
+    },
+        "DS-PWA48-KSD": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSD-HIKVISION-199649.html"
+    },
+
+DS-PWA48-KSDV2(R)
+    "DS-PWA48-KSDV2(R)": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
+        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
+    },
+        "DS-PWA48-KSDV2(R)": {
+        "website_description": "Sistema de seguridad avanzado que incluye un canal de comunicación de emergencia por red celular para mayor protección. Este kit mejorado asegura que tu alarma te avise al celular incluso si cortan el cable del internet o se va la luz en la cuadra. Viene con sensores inteligentes listos para cuidar tu hogar con la máxima fiabilidad que la tecnología actual permite.",
+        "description_sale": "Kit de alarma con doble protección (Internet + Celular); seguridad que nunca falla."
+    },
+        "DS-PWA48-KSDV2(R)": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSDV2(R)-HIKVISION-209573.html"
+    },
+
+DS-PWA48-KSDV2
+    "DS-PWA48-KSDV2": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
+        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
+    },
+        "DS-PWA48-KSDV2": {
+        "website_description": "Nueva versión mejorada del kit de alarma inalámbrico, con mayor alcance de señal y sensores más rápidos para tu seguridad. Este sistema te permite cuidar tu casa desde el celular, ofreciendo una conexión muy estable y alertas que llegan en milisegundos. Es la tecnología más moderna para quienes buscan una casa inteligente segura y fácil de administrar por cualquier usuario.",
+        "description_sale": "Kit de alarma mejorado; mayor alcance, más rápido y control total desde tu smartphone."
+    },
+        "DS-PWA48-KSDV2": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-PWA48-KSDV2-HIKVISION-199650.html"
+    },
+
+CHIP-HPRO832-WIFI
+    "CHIP-HPRO832-WIFI": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
+        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
+    },
+        "CHIP-HPRO832-WIFI": {
+        "website_description": "Módulo de actualización inteligente que dota a tu panel de alarma tradicional con una potente conexión inalámbrica a internet. Permite que recibas todas tus notificaciones de seguridad en el smartphone y controles el armado del sistema sin necesidad de estar físicamente en casa. Es pequeño, fácil de instalar y la forma más inteligente de modernizar tu seguridad sin cambiar todo el equipo.",
+        "description_sale": "Adaptador Wi-Fi para paneles de alarma; moderniza tu sistema y gestiónalo desde tu celular."
+    },
+        "CHIP-HPRO832-WIFI": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/CHIP-HPRO832-WIFI-PIMA-159202.html"
+    },
+
+DS-QAZ0203G1-S
+    "DS-QAZ0203G1-S": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
+        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Domo"
+    },
+        "DS-QAZ0203G1-S": {
+        "website_description": "Innovador sistema que combina una cámara de seguridad en alta definición con un altavoz potente para dar avisos o alarmas sonoras automáticas. Es la solución perfecta para perímetros que requieren una vigilancia activa, permitiéndote dar órdenes de voz a distancia a través de tu celular. Su diseño robusto está pensado para exteriores industriales o comerciales, brindando una protección auditiva y visual total.",
+        "description_sale": "Cámara con altavoz integrado; vigilancia activa con avisos de voz para máxima disuasión."
+    },
+        "DS-QAZ0203G1-S": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-QAZ0203G1-S-HIKVISION-225487.html"
+    },
+
+DS-QAZ1307G1T-E(C)
+    "DS-QAZ1307G1T-E(C)": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
+        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Bala"
+    },
+        "DS-QAZ1307G1T-E(C)": {
+        "website_description": "Innovador sistema de seguridad que integra una cámara de alta definición con un altavoz potente para dar avisos o alarmas sonoras automáticas. Es la solución perfecta para perímetros que requieren una vigilancia activa, permitiéndote dar órdenes de voz a distancia a través de tu celular. Su diseño robusto está pensado para exteriores industriales o comerciales, brindando una protección auditiva y visual total.",
+        "description_sale": "Cámara con altavoz integrado; vigilancia activa con avisos de voz para máxima disuasión."
+    },
+        "DS-QAZ1307G1T-E(C)": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/DS-QAZ1307G1T-E(C)-HIKVISION-238521.html"
+    },
+
+200205898
+    "200205898": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
+        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Grabadores para Cámaras IP (NVR)"
+    },
+        "200205898": {
+        "website_description": "Fuente de poder especializada diseñada para que tu sistema de seguridad nunca deje de vigilar, incluso durante variaciones de voltaje. Proporciona una energía estable y limpia a tus cámaras, evitando rayas en el video o reinicios inesperados que podrían dejarte vulnerable. Es el seguro eléctrico necesario para prolongar la vida útil de toda tu inversión tecnológica doméstica.",
+        "description_sale": "Fuente de energía estabilizada; protege tus cámaras y garantiza un video nítido siempre."
+    },
+        "200205898": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/200205898-HIKVISION-172225.html"
+    },
+
+KIT2MPDL
+    "KIT2MPDL": {
+        "category_level_one": "Cámaras de Seguridad",
+        "category_level_two": "Cámaras de Seguridad / Cámaras Analógicas HD",
+        "category_level_three": "Cámaras de Seguridad / Cámaras Analógicas HD / Grabadores para Cámaras Analógicas HD"
+    },
+        "KIT2MPDL": {
+        "website_description": "Paquete completo de seguridad que incluye cámaras inteligentes y grabador, listo para blindar tu hogar con una instalación profesional desde el primer día. Ofrece una vigilancia nítida que ilumina tu fachada al detectar personas, garantizando videos a color durante la noche para tu mayor seguridad. Es la solución 'todo en uno' perfecta para familias que buscan protección total, moderna y muy fácil de gestionar.",
+        "description_sale": "Kit de seguridad inteligente completo; vigilancia a color y alertas al celular listas para instalar."
+    },
+        "KIT2MPDL": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/KIT2MPDL-HIKVISION-238547.html"
+    },
+
+9566945
+    "9566945": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
+        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Lectores de QR"
+    },
+        "9566945": {
+        "website_description": "Batería de respaldo de larga duración diseñada para mantener tu sistema de seguridad operativo durante apagones o fallas en la red eléctrica de tu zona. Proporciona la energía necesaria para que tus cámaras sigan grabando y tus cerraduras magnéticas mantengan la puerta bloqueada en todo momento. Es compacta, no requiere mantenimiento y es el seguro de vida que garantiza que tu hogar nunca quede vulnerable.",
+        "description_sale": "Batería de respaldo para seguridad; mantén tu sistema activo siempre, incluso sin luz eléctrica."
+    },
+        "9566945": {
+        "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/9566945-NEDAP-192155.html"
+    },

@@ -4579,16 +4579,6 @@
         "category_level_two": "Cámaras de Seguridad / Cámaras IP",
         "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Bala"
     },
-    "DS-QAZ1307G1T-E(C)": {
-        "category_level_one": "Cámaras de Seguridad",
-        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
-        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Bala"
-    },
-    "DS-PLUG-EXTN": {
-        "category_level_one": "Cámaras de Seguridad",
-        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
-        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Cámaras tipo Bala"
-    },
     "DS-2CD1T63G2P-LIUF/SRB": {
         "category_level_one": "Cámaras de Seguridad",
         "category_level_two": "Cámaras de Seguridad / Cámaras IP",
@@ -6184,11 +6174,6 @@
         "category_level_two": "Cámaras de Seguridad / Cámaras Analógicas HD",
         "category_level_three": "Cámaras de Seguridad / Cámaras Analógicas HD / Grabadores para Cámaras Analógicas HD"
     },
-    "KIT2MPDL": {
-        "category_level_one": "Cámaras de Seguridad",
-        "category_level_two": "Cámaras de Seguridad / Cámaras Analógicas HD",
-        "category_level_three": "Cámaras de Seguridad / Cámaras Analógicas HD / Grabadores para Cámaras Analógicas HD"
-    },
     "IDS-7232HQHI-M2/XT": {
         "category_level_one": "Cámaras de Seguridad",
         "category_level_two": "Cámaras de Seguridad / Cámaras Analógicas HD",
@@ -6340,11 +6325,6 @@
         "category_level_three": "Cámaras de Seguridad / Cámaras IP / Grabadores para Cámaras IP (NVR)"
     },
     "190157623": {
-        "category_level_one": "Cámaras de Seguridad",
-        "category_level_two": "Cámaras de Seguridad / Cámaras IP",
-        "category_level_three": "Cámaras de Seguridad / Cámaras IP / Grabadores para Cámaras IP (NVR)"
-    },
-    "200205898": {
         "category_level_one": "Cámaras de Seguridad",
         "category_level_two": "Cámaras de Seguridad / Cámaras IP",
         "category_level_three": "Cámaras de Seguridad / Cámaras IP / Grabadores para Cámaras IP (NVR)"
@@ -9349,11 +9329,6 @@
         "category_level_two": "Controles de Acceso / Sistemas de Acceso",
         "category_level_three": "Controles de Acceso / Sistemas de Acceso / Lectores de QR"
     },
-    "9566945": {
-        "category_level_one": "Controles de Acceso",
-        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
-        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Lectores de QR"
-    },
     "ACCESSWB65M1K": {
         "category_level_one": "Controles de Acceso",
         "category_level_two": "Controles de Acceso / Sistemas de Acceso",
@@ -11274,16 +11249,6 @@
         "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
         "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
     },
-    "DS-PWA48-KSDV2": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
-        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
-    },
-    "DS-PWA48-KSD": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
-        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
-    },
     "DS-PWA48-KSV2": {
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
@@ -11300,11 +11265,6 @@
         "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
     },
     "DS-PWA48-KS-RONDIN": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
-        "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
-    },
-    "DS-PWA48-KSDV2(R)": {
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Comprar por Familia de Productos",
         "category_level_three": "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX PRO"
@@ -11549,17 +11509,7 @@
         "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
         "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
     },
-    "CHIP-HPRO832-WIFI": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
-        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
-    },
     "KIT-H19032": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
-        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
-    },
-    "YKIT-SISMICO": {
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
         "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Botones de Pánico"
@@ -12303,5 +12253,25 @@
         "category_level_one": "Cámaras de Seguridad",
         "category_level_two": "Cámaras de Seguridad / Cámaras IP",
         "category_level_three": "Cámaras de Seguridad / Cámaras IP / Grabadores para Cámaras IP (NVR)"
+    },
+    "TH6320ZW2003": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Accesorios para Sistemas de Alarma",
+        "category_level_three": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Termostatos"
+    },
+    "14315": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Complementos de Alarma",
+        "category_level_three": "Sistemas de Alarma / Complementos de Alarma / Accesorios para sistemas de Alarma"
+    },
+    "MH54A": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Accesorios para Sistemas de Alarma",
+        "category_level_three": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Termostatos"
+    },
+    "46564": {
+        "category_level_one": "Sistemas de Alarma",
+        "category_level_two": "Sistemas de Alarma / Complementos de Alarma",
+        "category_level_three": "Sistemas de Alarma / Complementos de Alarma / Accesorios para sistemas de Alarma"
     }
 }
