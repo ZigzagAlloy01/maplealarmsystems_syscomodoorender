@@ -45,5 +45,53 @@
       "Sistemas de Alarma / Kits listos para Instalar / Alarmas cableadas",
       "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HYBRID PRO"
     ]
+  },
+
+  "DS-PD201MC-WB": {
+    "main_category": "Sistemas de Alarma / Sensores y Detectores / Contactos magnéticos",
+    "public_categories": [
+      "Sistemas de Alarma / Sensores y Detectores / Contactos magnéticos",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
+  },
+
+  "DS-PD201P10-WB": {
+    "main_category": "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento",
+    "public_categories": [
+      "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
+  },
+
+  "DS-PD201PC10-WB": {
+    "main_category": "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento",
+    "public_categories": [
+      "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
+  },
+
+  "DS-PK201B-WB": {
+    "main_category": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Teclados",
+    "public_categories": [
+      "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Teclados",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
+  },
+
+  "DS-PS201-WB": {
+    "main_category": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Sirenas y Estrobos",
+    "public_categories": [
+      "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Sirenas y Estrobos",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
+  },
+
+  "DS-PC201N": {
+    "main_category": "Sistemas de Alarma / Complementos de Alarma / Accesorios para Sistemas de Alarma",
+    "public_categories": [
+      "Sistemas de Alarma / Complementos de Alarma / Accesorios para Sistemas de Alarma",
+      "Sistemas de Alarma / Comprar por Familia de Productos / Hikvision AX HOME"
+    ]
   }
 }

@@ -11099,11 +11099,6 @@
         "category_level_two": "Redes / Accesorios para Redes",
         "category_level_three": "Redes / Accesorios para Redes / Tomacorrientes para Rack (PDU)"
     },
-    "DS-PC201N": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Complementos de Alarma",
-        "category_level_three": "Sistemas de Alarma / Complementos de Alarma / Accesorios para Sistemas de Alarma"
-    },
     "DS-PT061": {
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Complementos de Alarma",
@@ -11674,16 +11669,6 @@
         "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
         "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Sensores de humo y temperatura"
     },
-    "DS-PD201PC10-WB": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
-        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento"
-    },
-    "DS-PD201P10-WB": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
-        "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Sensores de movimiento"
-    },
     "DS-PDP18-HM-WB": {
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
@@ -11798,11 +11783,6 @@
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Sensores y Detectores",
         "category_level_three": "Sistemas de Alarma / Sensores y Detectores / Sensores varios"
-    },
-    "DS-PS201-WB": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Accesorios para Sistemas de Alarma",
-        "category_level_three": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Sirenas y Estrobos"
     },
     "DS-PS1-E-WB/B": {
         "category_level_one": "Sistemas de Alarma",
@@ -12108,11 +12088,6 @@
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Accesorios para Sistemas de Alarma",
         "category_level_three": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Sirenas y Estrobos"
-    },
-    "DS-PK201B-WB": {
-        "category_level_one": "Sistemas de Alarma",
-        "category_level_two": "Sistemas de Alarma / Accesorios para Sistemas de Alarma",
-        "category_level_three": "Sistemas de Alarma / Accesorios para Sistemas de Alarma / Teclados"
     },
     "HS2TCHPRO": {
         "category_level_one": "Sistemas de Alarma",
