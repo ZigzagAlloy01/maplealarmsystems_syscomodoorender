@@ -6027,7 +6027,7 @@
         "website_description": "Extensor de video inteligente que permite distribuir la señal de tus cámaras por todo el cableado eléctrico de tu casa sin instalar cables de red nuevos. Es la forma más sencilla y mágica de modernizar tu seguridad, aprovechando la infraestructura que ya tienes para ver tus videos en cualquier cuarto. Ofrece una imagen nítida y es sumamente fácil de configurar por ti mismo en minutos.",
         "description_sale": "Extensor de video por red eléctrica; instala tu seguridad sin cables nuevos y con total facilidad."
     },
-    "TT699KVMV20": {
+    "TT699KVMV2.0": {
         "website_description": "Nueva versión del extensor KVM de alta velocidad, optimizada para ofrecer una compatibilidad total con los sistemas operativos y pantallas más modernos del mercado. Garantiza un control preciso y una imagen fluida, eliminando los retrasos que suelen ocurrir en sistemas económicos tradicionales. Es el aliado tecnológico perfecto para quienes buscan una administración de red dinámica, segura y muy profesional.",
         "description_sale": "Extensor KVM de nueva generación; control preciso y video fluido para tu oficina moderna."
     },
@@ -10214,5 +10214,81 @@
     "46564": {
         "website_description": "Personaliza la iluminación de tus espacios con este dimmer de pared inteligente con tecnología Z-Wave. Te permite regular la intensidad de la luz de manera suave y precisa desde cualquier lugar, creando la atmósfera perfecta para cada momento. Diseñado para integrarse con múltiples plataformas de automatización y seguridad para un control total.",
         "description_sale": "Dimmer inteligente de pared Z-Wave para regular la intensidad de la luz con total comodidad."
+    },
+    "DS-KIS203-T": {
+        "website_description": "Kit de videoportero analógico ideal para la seguridad residencial, compuesto por una pantalla LCD a color de 7 pulgadas y un frente de calle para exterior con protección IP65. Cuenta con cámara pinhole, visión nocturna por infrarrojos y una fácil instalación a 4 hilos, permitiendo un control de acceso práctico y confiable en la entrada del hogar.",
+        "description_sale": "Kit de videoportero analógico con pantalla de 7\" y frente de calle exterior resistente."
+    },
+    "VI-K13P": {
+        "website_description": "Solución completa de videoportero analógico HiLook que incluye un monitor LCD a color de 7 pulgadas y un frente de calle con índice de protección IP65. Diseñado para ofrecer comunicación bidireccional clara, visión nocturna y apertura remota mediante relé, brindando seguridad y comodidad para accesos residenciales.",
+        "description_sale": "Kit de videoportero analógico HiLook de 7\" con protección contra intemperie."
+    },
+    "DS-KIS303-P": {
+        "website_description": "Sistema de videoportero híbrido que combina tecnología analógica a 4 hilos con conectividad IP, permitiendo recibir llamadas directamente en la aplicación móvil Hik-Connect. Integra una pantalla táctil interior de 7 pulgadas y un frente de calle resistente, maximizando la flexibilidad y el control de accesos moderno.",
+        "description_sale": "Kit de videoportero híbrido IP/Analógico con pantalla táctil y conexión a app móvil."
+    },
+    "DS-KV6133-ME1": {
+        "website_description": "Frente de calle metálico IP de 2 megapíxeles con tecnología PoE estandar y diseño antivandálico con certificación IP65. Ofrece un amplio ángulo de visión horizontal de 129°, lector de tarjetas Mifare integrado y comunicación directa con la aplicación Hik-Connect para un control de acceso exterior robusto y avanzado.",
+        "description_sale": "Frente de calle metálico IP PoE de 2 MP con lector de tarjetas y app móvil."
+    },
+    "CS-EP3X": {
+        "website_description": "Timbre de puerta inteligente con cámara de doble lente (3MP principal y 2MP inferior) y batería recargable asistida por panel solar. Diseñado para proporcionar visión panorámica, detección inteligente de movimiento de personas y paquetes, almacenamiento eMMC integrado y comunicación bidireccional sin complicaciones de cableado.",
+        "description_sale": "Videoportero inalámbrico de doble lente con batería recargable y panel solar."
+    },
+    "CS-DB2KIT": {
+        "website_description": "Videoportero inalámbrico Wi-Fi con cámara de alta resolución de 3 megapíxeles y un campo de visión ultra ancho de 176°. Funciona con batería recargable de larga duración e incluye sensor de movimiento PIR y audio bidireccional, ofreciendo una vigilancia inteligente y flexible para la puerta principal de casas o departamentos.",
+        "description_sale": "Timbre con cámara Wi-Fi y batería recargable de amplio campo de visión."
+    },
+    "DS-KV8113-WME1(C)": {
+        "website_description": "Estación de puerta exterior tipo villa con conectividad IP y Wi-Fi, equipada con cámara Full HD de 2 MP, lente gran angular de 129° y visión nocturna. Incorpora lector de tarjetas Mifare, protección antivandálica IK08 e IP65, y compatibilidad con la aplicación Hik-Connect para videovigilancia y apertura remota de alta seguridad.",
+        "description_sale": "Frente de calle IP/Wi-Fi de 2 MP con lector de tarjetas y chasis antivandálico."
+    },
+    "DS-KV6114-ME1": {
+        "website_description": "Frente de calle IP de alta definición con potente resolución de 4 megapíxeles y un extraordinario ángulo de visión de 150°. Permite el control independiente de hasta dos cerraduras mediante tarjetas de proximidad, la aplicación Hik-Connect o estaciones interiores, combinando máxima nitidez visual y versatilidad en el acceso.",
+        "description_sale": "Frente de calle IP de 4 MP con lente ultra panorámico y control de dos cerraduras."
+    },
+    "TAPO-D210": {
+        "website_description": "Timbre con cámara inteligente Tapo que ofrece resolución nítida en alta definición, visión nocturna clara y detección de movimiento asistida por inteligencia artificial. Permite comunicación bidireccional en tiempo real y alertas instantáneas al smartphone, asegurando el monitoreo continuo de la entrada principal del hogar con total facilidad.",
+        "description_sale": "Timbre inteligente Wi-Fi con cámara HD, visión nocturna y alertas al celular."
+    },
+    "DS-KV8213-WME1(C)": {
+        "website_description": "Estación de puerta exterior IP de 2 departamentos con conectividad alámbrica e inalámbrica, cámara de 2 MP y lente gran angular. Cuenta con doble botón de llamada física, lector de tarjetas de proximidad, certificación de resistencia IP65/IK08 y gestión completa de llamadas y aperturas directamente desde la plataforma móvil Hik-Connect.",
+        "description_sale": "Frente de calle IP de 2 departamentos con cámara HD, lector de tarjetas y Wi-Fi."
+    },
+    "KDP-Q81K": {
+        "website_description": "Kit de videoportero avanzado con pantalla LCD a color de alta definición y frente de calle de diseño moderno para exteriores. Proporciona una interfaz intuitiva para el usuario, excelente calidad de audio y video bidireccional, y funciones de apertura de puerta automatizada, integrando seguridad y estética para la entrada de residencias.",
+        "description_sale": "Kit de videoportero residencial con pantalla a color y frente de calle exterior."
+    },
+    "KDP-602-A/D": {
+        "website_description": "Sistema de intercomunicación y videoportero de alto rendimiento diseñado para facilitar el control de accesos en complejos habitacionales o edificios. Ofrece comunicación clara sin interferencias, soporte para múltiples extensiones y componentes duraderos enfocados en la estabilidad operativa diaria.",
+        "description_sale": "Sistema de videoportero e intercomunicación para control de accesos."
+    },
+    "PROEB-700A": {
+        "website_description": "Pantalla o monitor de interior especializado para sistemas de videoportero, dotado de una interfaz visual clara y amigable. Permite la visualización en tiempo real del frente de calle, gestión de llamadas y activación de mecanismos de apertura de puertas con un alto nivel de confort y fiabilidad.",
+        "description_sale": "Monitor interior para sistemas de videoportero con pantalla de alta claridad."
+    },
+    "PROEB620": {
+        "website_description": "Dispositivo de control y monitoreo para infraestructura de seguridad electrónica y videoporteros. Diseñado con componentes de alta durabilidad, facilita la integración con sistemas de apertura y señalización para optimizar la gestión de entradas en puertas principales.",
+        "description_sale": "Dispositivo de control y gestión para sistemas de videovigilancia y acceso."
+    },
+    "DS-K1A8503EF-B": {
+        "website_description": "Terminal autónoma de control de asistencia y acceso mediante huella dactilar y tarjetas de proximidad ID. Cuenta con una pantalla LCD de diseño compacto, gestión de turnos y reportes descargables mediante puerto USB, ofreciendo una solución económica, rápida y eficiente para el registro de personal en oficinas y negocios.",
+        "description_sale": "Terminal compacta de control de asistencia por huella digital y tarjeta ID."
+    },
+    "DS-K1T807MBFWX-E1": {
+        "website_description": "Terminal de control de acceso y asistencia independiente con reconocimiento de huellas dactilares, lector de tarjetas Mifare y conectividad Wi-Fi integrada. Destaca por su diseño moderno, pantalla táctil intuitiva y múltiples interfaces de comunicación para una administración centralizada y segura de puertas y empleados.",
+        "description_sale": "Terminal biométrica de acceso y asistencia con lector de huella, tarjeta y Wi-Fi."
+    },
+    "PRO-KEYPAD-1V2": {
+        "website_description": "Teclado de control de acceso independiente de uso rudo para exteriores, diseñado para gestionar aperturas mediante códigos PIN seguros. Su estructura robusta y protección contra la intemperie garantizan un funcionamiento óptimo y duradero en puertas de acceso peatonal o vehicular.",
+        "description_sale": "Teclado antivandálico de control de acceso para exteriores por código PIN."
+    },
+    "ZK-QR-500": {
+        "website_description": "Lector multitecnología de códigos QR, códigos de barras y tarjetas de proximidad RFID, ideal para sistemas modernos de control de acceso físico y torniquetes. Ofrece lecturas rápidas y precisas tanto de credenciales tradicionales como de accesos digitales generados por dispositivos móviles.",
+        "description_sale": "Lector de códigos QR y tarjetas de proximidad para control de acceso moderno."
+    },
+    "X910S": {
+        "website_description": "Videoportero IP multifamiliar de gama alta con pantalla táctil de gran formato y cámara HD con tecnología de mejora de imagen. Integra reconocimiento facial avanzado, lector de tarjetas, códigos PIN y control mediante aplicación móvil, representando la solución definitiva en seguridad inteligente para edificios y residencias de lujo.",
+        "description_sale": "Videoportero IP multifamiliar de lujo con pantalla táctil y reconocimiento facial."
     }
 }

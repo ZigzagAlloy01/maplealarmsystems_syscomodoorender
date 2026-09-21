@@ -4844,7 +4844,7 @@
     "TT-314-HDBITT": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TT-314-HDBITT-EPCOM-TITANIUM-190710.html"
     },
-    "TT699KVMV20": {
+    "TT699KVMV2.0": {
         "technical_specification": "https://www.productos-info.com/s/mx/es/14582/c7e2176fa6b6f7614d4e139b182e05ba/x/TT699KVMV20-EPCOM-TITANIUM-246396.html"
     },
     "UFP-VIEWPORT": {
@@ -7651,5 +7651,62 @@
     },
     "46564": {
         "technical_specification": "https://www.syscom.mx/productosinfo/176647"
+    },
+    "DS-KIS203-T": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/195571"
+    },
+    "VI-K13P": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/231539"
+    },
+    "DS-KIS303-P": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/225886"
+    },
+    "DS-KV6133-ME1": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/234649"
+    },
+    "CS-EP3X": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/228622"
+    },
+    "CS-DB2KIT": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/204692"
+    },
+    "DS-KV8113-WME1(C)": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/210631"
+    },
+    "DS-KV6114-ME1": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/244622"
+    },
+    "TAPO-D210": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/253179"
+    },
+    "DS-KV8213-WME1(C)": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/210630"
+    },
+    "KDP-Q81K": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/176338"
+    },
+    "KDP-602-A/D": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/20454"
+    },
+    "PROEB-700A": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/67291"
+    },
+    "PROEB620": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/176875"
+    },
+    "DS-K1A8503EF-B": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/183737"
+    },
+    "DS-K1T807MBFWX-E1": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/246924"
+    },
+    "PRO-KEYPAD-1V2": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/88520"
+    },
+    "ZK-QR-500": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/189976"
+    },
+    "X910S": {
+        "technical_specification": "https://www.syscom.mx/productosinfo/241855"
     }
 }

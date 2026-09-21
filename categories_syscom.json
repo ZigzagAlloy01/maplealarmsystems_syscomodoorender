@@ -5709,7 +5709,7 @@
         "category_level_two": "Cámaras de Seguridad / Accesorios para Cámaras de Seguridad",
         "category_level_three": "Cámaras de Seguridad / Accesorios para Cámaras de Seguridad / Extensión de Video y Multipantalla"
     },
-    "TT699KVMV20": {
+    "TT699KVMV2.0": {
         "category_level_one": "Cámaras de Seguridad",
         "category_level_two": "Cámaras de Seguridad / Accesorios para Cámaras de Seguridad",
         "category_level_three": "Cámaras de Seguridad / Accesorios para Cámaras de Seguridad / Extensión de Video y Multipantalla"
@@ -7787,7 +7787,7 @@
     "PRO138CS": {
         "category_level_one": "Controles de Acceso",
         "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
-        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Chapas Magnéticas y Eléctricas"
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras Magnéticas y Eléctricas"
     },
     "BZL600N": {
         "category_level_one": "Controles de Acceso",
@@ -7887,7 +7887,7 @@
     "PROEB230C": {
         "category_level_one": "Controles de Acceso",
         "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
-        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Chapas Magnéticas y Eléctricas"
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras Magnéticas y Eléctricas"
     },
     "3513": {
         "category_level_one": "Controles de Acceso",
@@ -8097,7 +8097,7 @@
     "310C": {
         "category_level_one": "Controles de Acceso",
         "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
-        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Chapas Magnéticas y Eléctricas"
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras Magnéticas y Eléctricas"
     },
     "5000C": {
         "category_level_one": "Controles de Acceso",
@@ -8107,7 +8107,7 @@
     "APES-GLASS": {
         "category_level_one": "Controles de Acceso",
         "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
-        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Chapas Magnéticas y Eléctricas"
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras Magnéticas y Eléctricas"
     },
     "E941SA1K2PQ/KITU": {
         "category_level_one": "Controles de Acceso",
@@ -12248,5 +12248,100 @@
         "category_level_one": "Sistemas de Alarma",
         "category_level_two": "Sistemas de Alarma / Complementos de Alarma",
         "category_level_three": "Sistemas de Alarma / Complementos de Alarma / Accesorios para sistemas de Alarma"
+    },
+    "DS-KIS203-T": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "VI-K13P": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "DS-KIS303-P": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "DS-KV6133-ME1": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "CS-EP3X": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "CS-DB2KIT": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "DS-KV8113-WME1(C)": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "DS-KV6114-ME1": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "TAPO-D210": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "DS-KV8213-WME1(C)": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Video Porteros"
+    },
+    "KDP-Q81K": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Interfones y Porteros"
+    },
+    "KDP-602-A/D": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Intercomunicación",
+        "category_level_three": "Controles de Acceso / Intercomunicación / Interfones y Porteros"
+    },
+    "PROEB-700A": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras de Perno y Contrachapas Eléctricas"
+    },
+    "PROEB620": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Cerraduras para Control de Acceso",
+        "category_level_three": "Controles de Acceso / Cerraduras para Control de Acceso / Cerraduras de Perno y Contrachapas Eléctricas"
+    },
+    "DS-K1A8503EF-B": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
+        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Terminales de Tiempo y Asistencia"
+    },
+    "DS-K1T807MBFWX-E1": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
+        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Terminales de Tiempo y Asistencia"
+    },
+    "PRO-KEYPAD-1V2": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Dispositivos de Control",
+        "category_level_three": "Controles de Acceso / Dispositivos de Control / Teclados Autónomos"
+    },
+    "ZK-QR-500": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
+        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Lectores de QR"
+    },
+    "X910S": {
+        "category_level_one": "Controles de Acceso",
+        "category_level_two": "Controles de Acceso / Sistemas de Acceso",
+        "category_level_three": "Controles de Acceso / Sistemas de Acceso / Lectores de QR"
     }
 }
