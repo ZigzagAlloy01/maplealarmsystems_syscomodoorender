@@ -446,7 +446,7 @@ class SyscomSyncCore:
             "Accept": "application/json",
         }
 
-    def obtener_params_syscom(self, termino=None):
+    def obtener_params_syscom(self, termino=None, incluir_imagenes=False):
         params = {
             "moneda": SYSCOM_MONEDA,
             "iva_frontera": SYSCOM_IVA_FRONTERA,
@@ -454,6 +454,10 @@ class SyscomSyncCore:
         }
         if termino is not None:
             params["busqueda"] = termino
+
+        if incluir_imagenes:
+            params["imagenes"] = "true"
+
         return params
 
     def normalizar_numero(self, valor):
@@ -1381,7 +1385,7 @@ class SyscomSyncCore:
     def buscar_producto_syscom_por_modelo(self, modelo):
         response = self.session.get(
             f"{BASE_URL}productos",
-            params=self.obtener_params_syscom(modelo),
+            params=self.obtener_params_syscom(modelo, incluir_imagenes=True),
             timeout=REQUEST_TIMEOUT,
         )
         response.raise_for_status()
@@ -1519,17 +1523,34 @@ class SyscomSyncCore:
         )
 
     def obtener_url_imagen(self, producto):
-        if producto.get("img_portada"):
-            return producto["img_portada"]
+        SYSCOM_IMAGEN_INDICE = 2
+        imagenes = producto.get("imagenes", [])
 
-        for imagen in producto.get("imagenes", []):
-            if isinstance(imagen, str) and imagen.startswith("http"):
-                return imagen
-            if isinstance(imagen, dict):
-                for key in ("url", "original", "grande", "mediana", "pequena", "imagen", "src"):
-                    valor = imagen.get(key)
-                    if isinstance(valor, str) and valor.startswith("http"):
-                        return valor
+        if not isinstance(imagenes, list):
+            return None
+
+        if not 0 <= SYSCOM_IMAGEN_INDICE < len(imagenes):
+            return None
+
+        imagen = imagenes[SYSCOM_IMAGEN_INDICE]
+
+        if isinstance(imagen, str) and imagen.startswith("http"):
+            return imagen
+
+        if isinstance(imagen, dict):
+            for key in (
+                "url",
+                "original",
+                "grande",
+                "mediana",
+                "pequena",
+                "imagen",
+                "src",
+            ):
+                valor = imagen.get(key)
+
+                if isinstance(valor, str) and valor.startswith("http"):
+                    return valor
         return None
 
     def obtener_imagen_odoo(self, producto):
